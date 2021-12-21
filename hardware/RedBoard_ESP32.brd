@@ -4120,7 +4120,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <wire x1="45.8" y1="15.892" x2="58.42" y2="51.69" width="0" layer="19" extent="1-1"/>
 <wire x1="0" y1="-547.37" x2="45.8" y2="15.892" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="ESP32_GPIO5_!SS!">
+<signal name="ESP32_GPIO5_!CS!">
 <contactref element="U1" pad="29"/>
 <contactref element="J15" pad="CS/DAT3"/>
 <contactref element="J5" pad="8"/>

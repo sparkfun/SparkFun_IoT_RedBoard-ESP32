@@ -37055,7 +37055,7 @@ Header</text>
 <label x="43.18" y="149.86" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="ESP32_GPIO5_!SS!" class="0">
+<net name="ESP32_GPIO5_!CS!" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="CS3/IO5"/>
 <wire x1="73.66" y1="236.22" x2="76.2" y2="236.22" width="0.1524" layer="91"/>
