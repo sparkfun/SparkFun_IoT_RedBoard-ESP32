@@ -3842,7 +3842,13 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <signal name="VIN" class="1">
 <contactref element="J9" pad="8"/>
 <contactref element="J10" pad="8"/>
-<wire x1="45.72" y1="1.27" x2="45.72" y2="6.732" width="0" layer="19" extent="1-1"/>
+<contactref element="C9" pad="+"/>
+<contactref element="D1" pad="C"/>
+<contactref element="U3" pad="3"/>
+<wire x1="-63.64" y1="-764.54" x2="-71.3486" y2="-768.9088" width="0" layer="19" extent="1-1"/>
+<wire x1="-56.27" y1="-763.27" x2="-63.64" y2="-764.54" width="0" layer="19" extent="1-1"/>
+<wire x1="45.72" y1="1.27" x2="-56.27" y2="-763.27" width="0" layer="19" extent="1-1"/>
+<wire x1="45.72" y1="6.732" x2="45.72" y2="1.27" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VUSB" class="1">
 <contactref element="C4" pad="1"/>
@@ -4352,13 +4358,6 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <contactref element="U3" pad="1"/>
 <wire x1="-63.92" y1="-772.16" x2="-75.9714" y2="-768.9088" width="0" layer="19" extent="1-1"/>
 <wire x1="-61.81" y1="-772.16" x2="-63.92" y2="-772.16" width="0" layer="19" extent="1-1"/>
-</signal>
-<signal name="N$9" class="1">
-<contactref element="C9" pad="+"/>
-<contactref element="D1" pad="C"/>
-<contactref element="U3" pad="3"/>
-<wire x1="-63.64" y1="-764.54" x2="-71.3486" y2="-768.9088" width="0" layer="19" extent="1-1"/>
-<wire x1="-56.27" y1="-763.27" x2="-63.64" y2="-764.54" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$12">
 <contactref element="Q4" pad="6"/>

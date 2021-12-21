@@ -35320,6 +35320,7 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="QWIIC_LOGO" device="_5MM"/>
 <part name="LOGO3" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="MINI"/>
 <part name="LOGO4" library="SparkFun-Aesthetics" deviceset="QWIIC_LOGO" device="_5MM"/>
+<part name="SUPPLY28" library="SparkFun-PowerSymbols" deviceset="VIN" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -36101,6 +36102,9 @@ Header</text>
 <instance part="LOGO2" gate="G$1" x="317.5" y="27.94" smashed="yes"/>
 <instance part="LOGO3" gate="G$1" x="317.5" y="12.7" smashed="yes"/>
 <instance part="LOGO4" gate="G$1" x="317.5" y="27.94" smashed="yes"/>
+<instance part="SUPPLY28" gate="G$1" x="142.24" y="129.54" smashed="yes">
+<attribute name="VALUE" x="142.24" y="132.334" size="1.778" layer="96" align="bottom-center"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -36471,6 +36475,17 @@ Header</text>
 <wire x1="180.34" y1="177.8" x2="175.26" y2="177.8" width="0.1524" layer="91"/>
 <wire x1="175.26" y1="177.8" x2="175.26" y2="180.34" width="0.1524" layer="91"/>
 <pinref part="SUPPLY13" gate="G$1" pin="VIN"/>
+</segment>
+<segment>
+<wire x1="144.78" y1="127" x2="142.24" y2="127" width="0.1524" layer="91"/>
+<wire x1="142.24" y1="124.46" x2="142.24" y2="127" width="0.1524" layer="91"/>
+<junction x="142.24" y="127"/>
+<pinref part="C9" gate="G$1" pin="+"/>
+<wire x1="142.24" y1="127" x2="134.62" y2="127" width="0.1524" layer="91"/>
+<pinref part="D1" gate="G$1" pin="C"/>
+<pinref part="U3" gate="G$1" pin="IN"/>
+<wire x1="142.24" y1="127" x2="142.24" y2="129.54" width="0.1524" layer="91" style="longdash"/>
+<pinref part="SUPPLY28" gate="G$1" pin="VIN"/>
 </segment>
 </net>
 <net name="VUSB" class="1">
@@ -37385,17 +37400,6 @@ Header</text>
 <pinref part="R10" gate="G$1" pin="1"/>
 <pinref part="R11" gate="G$1" pin="2"/>
 <pinref part="U3" gate="G$1" pin="ADJ"/>
-</segment>
-</net>
-<net name="N$9" class="1">
-<segment>
-<wire x1="144.78" y1="127" x2="142.24" y2="127" width="0.1524" layer="91"/>
-<wire x1="142.24" y1="124.46" x2="142.24" y2="127" width="0.1524" layer="91"/>
-<junction x="142.24" y="127"/>
-<pinref part="C9" gate="G$1" pin="+"/>
-<wire x1="142.24" y1="127" x2="134.62" y2="127" width="0.1524" layer="91"/>
-<pinref part="D1" gate="G$1" pin="C"/>
-<pinref part="U3" gate="G$1" pin="IN"/>
 </segment>
 </net>
 <net name="5V_EXT" class="1">
