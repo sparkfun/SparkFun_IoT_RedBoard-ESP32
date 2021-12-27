@@ -48126,7 +48126,7 @@ Header</text>
 <instance part="GND53" gate="1" x="297.18" y="187.96" smashed="yes">
 <attribute name="VALUE" x="297.18" y="187.706" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="LOGO6" gate="G$1" x="233.68" y="-30.48" smashed="yes"/>
+<instance part="LOGO6" gate="G$1" x="247.65" y="4.826" smashed="yes"/>
 </instances>
 <busses>
 </busses>
