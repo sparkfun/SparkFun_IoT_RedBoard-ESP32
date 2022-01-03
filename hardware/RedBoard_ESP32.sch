@@ -47224,7 +47224,7 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <part name="R28" library="SparkFun-Resistors" deviceset="2.2KOHM" device="-0603-1/10W-1%" value="2.2k"/>
 <part name="R29" library="SparkFun-Resistors" deviceset="2.2KOHM" device="-0603-1/10W-1%" value="2.2k"/>
 <part name="JP12" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NO" device="_SILK" package3d_urn="urn:adsk.eagle:package:39279/1"/>
-<part name="J15" library="SparkFun-Connectors" deviceset="MICRO-SD" device="PUSH-PUSH"/>
+<part name="J15" library="SparkFun-Connectors" deviceset="MICRO-SD" device="-PUSH-PUSH-EXT-PIN" value="MICRO-SD-PUSH-PUSH-EXT-PIN"/>
 <part name="SUPPLY27" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND33" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND24" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
@@ -47319,7 +47319,7 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <part name="R23" library="SparkFun-Resistors" deviceset="10KOHM" device="-0603-1/10W-1%" value="10k"/>
 <part name="SUPPLY26" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="JP10" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
-<part name="J14" library="SparkFun-Connectors" deviceset="CONN_02" device=""/>
+<part name="J14" library="SparkFun-Connectors" deviceset="CONN_02" device="1X02_NO_SILK"/>
 <part name="SUPPLY17" library="SparkFun-PowerSymbols" deviceset="5V" device=""/>
 <part name="R8" library="SparkFun-Resistors" deviceset="10KOHM" device="-0603-1/10W-1%" value="10k"/>
 <part name="SUPPLY6" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
@@ -47331,7 +47331,7 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <part name="LOGO4" library="SparkFun-Aesthetics" deviceset="QWIIC_LOGO" device="_5MM"/>
 <part name="SUPPLY28" library="SparkFun-PowerSymbols" deviceset="VIN" device=""/>
 <part name="LOGO5" library="SparkFun-Aesthetics" deviceset="SPECIAL_INSTRUCTIONS" device="-ORDERING"/>
-<part name="J16" library="SparkFun-Connectors" deviceset="CONN_02" device=""/>
+<part name="J16" library="SparkFun-Connectors" deviceset="CONN_02" device="1X02_NO_SILK"/>
 <part name="GND53" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="LOGO6" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".2_INCH" value="SFE_LOGO_NAME_FLAME.2_INCH"/>
 </parts>
@@ -47379,28 +47379,28 @@ If RTS is HIGH, toggling DTR from LOW to HIGH resets to bootloader.</text>
 <text x="264.16" y="160.02" size="2.032" layer="97" font="vector" rot="MR0" align="center-left">Charge current:
 I_CHG = 1000 / R_PROG
 R_PROG=2k : I_CHG=500mA</text>
-<text x="53.34" y="271.78" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">ESP32</text>
-<text x="152.4" y="271.78" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Arduino Headers</text>
-<text x="276.86" y="271.78" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">USB-C</text>
-<text x="396.24" y="271.78" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Battery Fuel Gauge</text>
-<text x="261.62" y="195.58" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">LiPo Charger</text>
-<text x="373.38" y="195.58" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Charger Input Perfect Diodes</text>
-<text x="261.62" y="144.78" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">5V Bus Perfect Diodes</text>
-<text x="340.36" y="134.62" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Power LED</text>
-<text x="396.24" y="134.62" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Micro SD</text>
-<text x="342.9" y="81.28" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Qwiic</text>
-<text x="401.32" y="81.28" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">I2C Pullups</text>
-<text x="149.86" y="139.7" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">External Power 5V Regulator</text>
-<text x="147.32" y="81.28" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">3.3V Regulator</text>
+<text x="53.34" y="271.78" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">ESP32</text>
+<text x="152.4" y="271.78" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Arduino Headers</text>
+<text x="276.86" y="271.78" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">USB-C</text>
+<text x="396.24" y="271.78" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Battery Fuel Gauge</text>
+<text x="261.62" y="195.58" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">LiPo Charger</text>
+<text x="373.38" y="195.58" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Charger Input Perfect Diodes</text>
+<text x="261.62" y="144.78" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">5V Bus Perfect Diodes</text>
+<text x="340.36" y="134.62" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Power LED</text>
+<text x="396.24" y="134.62" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Micro SD</text>
+<text x="342.9" y="81.28" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Qwiic</text>
+<text x="401.32" y="81.28" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">I2C Pullups</text>
+<text x="149.86" y="139.7" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">External Power 5V Regulator</text>
+<text x="147.32" y="81.28" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">3.3V Regulator</text>
 <text x="50.8" y="132.08" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">JTAG Header</text>
-<text x="50.8" y="157.48" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Fuel Gauge !ALERT!
+<text x="50.8" y="157.48" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Fuel Gauge !ALERT!
 Connection Jumper</text>
-<text x="50.8" y="86.36" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Auto Reset</text>
-<text x="129.54" y="30.48" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Current Measurement
+<text x="50.8" y="86.36" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Auto Reset</text>
+<text x="129.54" y="30.48" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Current Measurement
 Header</text>
-<text x="175.26" y="30.48" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Boot Pushbutton</text>
-<text x="218.44" y="30.48" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">Status LED (GPIO18)</text>
-<text x="261.62" y="142.24" size="1.905" layer="97" font="vector" align="bottom-center">External power has priority over USB-C power</text>
+<text x="175.26" y="30.48" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Boot Pushbutton</text>
+<text x="218.44" y="30.48" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Status LED (GPIO18)</text>
+<text x="261.62" y="142.24" size="1.905" layer="94" font="vector" align="bottom-center">External power has priority over USB-C power</text>
 <wire x1="0" y1="139.7" x2="101.6" y2="139.7" width="0.254" layer="97" style="longdash"/>
 <wire x1="101.6" y1="139.7" x2="101.6" y2="93.98" width="0.254" layer="97" style="longdash"/>
 <wire x1="101.6" y1="93.98" x2="0" y2="93.98" width="0.254" layer="97" style="longdash"/>
@@ -49141,7 +49141,7 @@ Header</text>
 <pinref part="J6" gate="J1" pin="5"/>
 </segment>
 </net>
-<net name="ESP32_GPIO19_CIPO" class="0">
+<net name="ESP32_GPIO19_POCI" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="MISO3/IO19"/>
 <wire x1="73.66" y1="210.82" x2="76.2" y2="210.82" width="0.1524" layer="91"/>
@@ -49150,6 +49150,7 @@ Header</text>
 <segment>
 <pinref part="J15" gate="J1" pin="DAT0/SDO"/>
 <wire x1="401.32" y1="111.76" x2="403.86" y2="111.76" width="0.1524" layer="91"/>
+<label x="403.86" y="111.76" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <wire x1="132.08" y1="248.92" x2="127" y2="248.92" width="0.1524" layer="91"/>
@@ -49160,28 +49161,6 @@ Header</text>
 <wire x1="180.34" y1="248.92" x2="175.26" y2="248.92" width="0.1524" layer="91"/>
 <label x="175.26" y="248.92" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="J6" gate="J1" pin="6"/>
-</segment>
-</net>
-<net name="ESP32_GPIO23_COPI" class="0">
-<segment>
-<pinref part="U1" gate="U1" pin="MOSI3/IO23"/>
-<wire x1="73.66" y1="203.2" x2="76.2" y2="203.2" width="0.1524" layer="91"/>
-<label x="76.2" y="203.2" size="1.27" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="J15" gate="J1" pin="CMD/SDI"/>
-<wire x1="401.32" y1="106.68" x2="403.86" y2="106.68" width="0.1524" layer="91"/>
-<label x="403.86" y="106.68" size="1.27" layer="95" xref="yes"/>
-</segment>
-<segment>
-<wire x1="132.08" y1="246.38" x2="127" y2="246.38" width="0.1524" layer="91"/>
-<label x="127" y="246.38" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="J5" gate="J1" pin="7"/>
-</segment>
-<segment>
-<wire x1="180.34" y1="246.38" x2="175.26" y2="246.38" width="0.1524" layer="91"/>
-<label x="175.26" y="246.38" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="J6" gate="J1" pin="7"/>
 </segment>
 </net>
 <net name="ESP32_GPIO25" class="0">
@@ -49798,6 +49777,28 @@ Header</text>
 <wire x1="228.6" y1="22.86" x2="231.14" y2="22.86" width="0.1524" layer="91" style="longdash"/>
 <pinref part="R9" gate="G$1" pin="2"/>
 <wire x1="231.14" y1="22.86" x2="231.14" y2="20.32" width="0.1524" layer="91" style="longdash"/>
+</segment>
+</net>
+<net name="ESP32_GPIO23_PICO" class="0">
+<segment>
+<pinref part="U1" gate="U1" pin="MOSI3/IO23"/>
+<wire x1="73.66" y1="203.2" x2="76.2" y2="203.2" width="0.1524" layer="91"/>
+<label x="76.2" y="203.2" size="1.27" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="J15" gate="J1" pin="CMD/SDI"/>
+<wire x1="401.32" y1="106.68" x2="403.86" y2="106.68" width="0.1524" layer="91"/>
+<label x="403.86" y="106.68" size="1.27" layer="95" xref="yes"/>
+</segment>
+<segment>
+<wire x1="132.08" y1="246.38" x2="127" y2="246.38" width="0.1524" layer="91"/>
+<label x="127" y="246.38" size="1.27" layer="95" rot="R180" xref="yes"/>
+<pinref part="J5" gate="J1" pin="7"/>
+</segment>
+<segment>
+<wire x1="180.34" y1="246.38" x2="175.26" y2="246.38" width="0.1524" layer="91"/>
+<label x="175.26" y="246.38" size="1.27" layer="95" rot="R180" xref="yes"/>
+<pinref part="J6" gate="J1" pin="7"/>
 </segment>
 </net>
 </nets>
