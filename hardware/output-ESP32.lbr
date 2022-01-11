@@ -18525,6 +18525,105 @@
 <vertex x="3.59" y="0.22" />
 </polygon>
 </package>
+<package name="TP1321868">
+<polygon width="0.005" layer="21">
+<vertex x="-1.24" y="0.48" />
+<vertex x="-1.31" y="0.47" />
+<vertex x="-1.33" y="0.41" />
+<vertex x="-1.33" y="0.34" />
+<vertex x="-1.29" y="0.30" />
+<vertex x="-1.22" y="0.29" />
+<vertex x="-1.01" y="0.29" />
+<vertex x="-0.99" y="0.25" />
+<vertex x="-0.99" y="-0.37" />
+<vertex x="-0.98" y="-0.43" />
+<vertex x="-0.93" y="-0.47" />
+<vertex x="-0.86" y="-0.47" />
+<vertex x="-0.80" y="-0.46" />
+<vertex x="-0.77" y="-0.40" />
+<vertex x="-0.77" y="-0.33" />
+<vertex x="-0.77" y="0.28" />
+<vertex x="-0.70" y="0.29" />
+<vertex x="-0.49" y="0.29" />
+<vertex x="-0.44" y="0.32" />
+<vertex x="-0.43" y="0.38" />
+<vertex x="-0.43" y="0.45" />
+<vertex x="-0.49" y="0.48" />
+<vertex x="-0.56" y="0.48" />
+<vertex x="-1.24" y="0.48" />
+<vertex x="-1.24" y="0.48" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="0.54" y="0.24" />
+<vertex x="0.51" y="0.30" />
+<vertex x="0.47" y="0.35" />
+<vertex x="0.42" y="0.40" />
+<vertex x="0.36" y="0.44" />
+<vertex x="0.30" y="0.47" />
+<vertex x="0.24" y="0.48" />
+<vertex x="0.17" y="0.48" />
+<vertex x="-0.03" y="0.48" />
+<vertex x="-0.11" y="0.48" />
+<vertex x="-0.17" y="0.46" />
+<vertex x="-0.19" y="0.41" />
+<vertex x="-0.19" y="-0.34" />
+<vertex x="-0.19" y="-0.41" />
+<vertex x="-0.16" y="-0.45" />
+<vertex x="-0.10" y="-0.47" />
+<vertex x="-0.01" y="-0.47" />
+<vertex x="0.03" y="-0.43" />
+<vertex x="0.04" y="-0.37" />
+<vertex x="0.04" y="-0.23" />
+<vertex x="0.09" y="-0.21" />
+<vertex x="0.22" y="-0.21" />
+<vertex x="0.28" y="-0.20" />
+<vertex x="0.35" y="-0.18" />
+<vertex x="0.24" y="0.02" />
+<vertex x="0.04" y="0.02" />
+<vertex x="0.04" y="0.22" />
+<vertex x="0.08" y="0.25" />
+<vertex x="0.21" y="0.25" />
+<vertex x="0.27" y="0.23" />
+<vertex x="0.31" y="0.17" />
+<vertex x="0.32" y="0.10" />
+<vertex x="0.28" y="0.05" />
+<vertex x="0.24" y="0.02" />
+<vertex x="0.35" y="-0.18" />
+<vertex x="0.41" y="-0.14" />
+<vertex x="0.46" y="-0.10" />
+<vertex x="0.50" y="-0.05" />
+<vertex x="0.53" y="0.02" />
+<vertex x="0.55" y="0.08" />
+<vertex x="0.55" y="0.15" />
+<vertex x="0.55" y="0.22" />
+<vertex x="0.54" y="0.24" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="0.98" y="0.45" />
+<vertex x="0.93" y="0.41" />
+<vertex x="0.78" y="0.27" />
+<vertex x="0.73" y="0.21" />
+<vertex x="0.72" y="0.16" />
+<vertex x="0.75" y="0.10" />
+<vertex x="0.81" y="0.05" />
+<vertex x="0.86" y="0.05" />
+<vertex x="0.93" y="0.09" />
+<vertex x="0.94" y="0.06" />
+<vertex x="0.94" y="-0.35" />
+<vertex x="0.95" y="-0.41" />
+<vertex x="0.98" y="-0.46" />
+<vertex x="1.05" y="-0.47" />
+<vertex x="1.13" y="-0.46" />
+<vertex x="1.17" y="-0.42" />
+<vertex x="1.17" y="-0.36" />
+<vertex x="1.17" y="0.39" />
+<vertex x="1.16" y="0.45" />
+<vertex x="1.11" y="0.48" />
+<vertex x="1.04" y="0.48" />
+<vertex x="0.98" y="0.45" />
+<vertex x="0.98" y="0.45" />
+</polygon>
+</package>
 </packages>
 <symbols>
 <symbol name="#TX#O#0">
@@ -18811,6 +18910,9 @@
 </symbol>
 <symbol name="INPUT_ONLY321867">
 <text x="0" y="0" size="1.778" layer="94">Input_Only</text>
+</symbol>
+<symbol name="TP1321868">
+<text x="0" y="0" size="1.778" layer="94">TP1</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -19948,6 +20050,18 @@
 </gates>
 <devices>
 <device name="" package="INPUT_ONLY321867">
+<technologies>
+<technology name="" />
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="TP1321868">
+<gates>
+<gate name="G$1" symbol="TP1321868" x="0" y="0" />
+</gates>
+<devices>
+<device name="" package="TP1321868">
 <technologies>
 <technology name="" />
 </technologies>
