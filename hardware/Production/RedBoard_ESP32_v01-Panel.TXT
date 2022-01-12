@@ -1,6 +1,6 @@
 M48
 ;GenerationSoftware,Autodesk,EAGLE,9.6.2*%
-;CreationDate,2022-01-11T17:57:32Z*%
+;CreationDate,2022-01-12T17:36:40Z*%
 FMAT,2
 ICI,OFF
 METRIC,TZ,000.000
