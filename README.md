@@ -1,9 +1,9 @@
-SparkFun RedBoard ESP32
+SparkFun IoT RedBoard - ESP32
 ========================================
 
-[![SparkFun RedBoard ESP32](URL for picture of part)](URL for product on Sparkfun.com)
+[![SparkFun IoT RedBoard - ESP32](URL for picture of part)](URL for product on Sparkfun.com)
 
-[*SparkFun RedBoard ESP32 (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun IoT RedBoard - ESP32 (SKU)*](URL for product on Sparkfun.com)
 
 <Basic description of the part.>
 
