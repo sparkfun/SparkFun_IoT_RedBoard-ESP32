@@ -21978,7 +21978,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="31.75" y="41.275" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="31.75" y="38.4175" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO1" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="60.198" y="35.179" smashed="yes"/>
+<element name="LOGO1" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="48.895" y="13.335" smashed="yes"/>
 <element name="LOGO2" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="10.16" y="51.562" smashed="yes"/>
 <element name="LOGO3" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="2.286" y="2.032" smashed="yes" rot="MR0"/>
 <element name="LOGO4" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="10.16" y="56.896" smashed="yes" rot="MR0"/>
@@ -22081,8 +22081,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$95" library="output-ESP32" package="TP1321868" value="" x="50.8" y="45.212" smashed="yes" rot="MR90"/>
 <element name="U$98" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="45.72" y="22.86" smashed="yes" rot="MR0"/>
 <element name="U$100" library="output-ESP32" package="#IOT#132321869" value="" x="40.64" y="27.94" smashed="yes" rot="R90"/>
-<element name="U$93" library="output-ESP32" package="ESP32321856" value="" x="38.1" y="21.463" smashed="yes" rot="MR0"/>
-<element name="U$47" library="output-ESP32" package="#IOT#132321874" value="" x="27.94" y="21.463" smashed="yes" rot="MR0"/>
+<element name="U$93" library="output-ESP32" package="ESP32321856" value="" x="40.005" y="21.463" smashed="yes" rot="MR0"/>
+<element name="U$47" library="output-ESP32" package="#IOT#132321874" value="" x="26.162" y="32.639" smashed="yes" rot="MR0"/>
 <element name="U$94" library="output-ESP32" package="MADE_IN32321857" value="" x="34.29" y="16.51" smashed="yes" rot="MR0"/>
 <element name="U$99" library="output-ESP32" package="THE_USA32321858" value="" x="34.29" y="13.97" smashed="yes" rot="MR0"/>
 <element name="C18" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="75.184" y="55.88" smashed="yes" rot="R90">
@@ -22567,7 +22567,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="105.664" y="41.275" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="105.664" y="38.4175" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO5" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="134.112" y="35.179" smashed="yes"/>
+<element name="LOGO5" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="122.809" y="13.335" smashed="yes"/>
 <element name="LOGO7" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="84.074" y="51.562" smashed="yes"/>
 <element name="LOGO8" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="76.2" y="2.032" smashed="yes" rot="MR0"/>
 <element name="LOGO9" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="84.074" y="56.896" smashed="yes" rot="MR0"/>
@@ -22670,8 +22670,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$190" library="output-ESP32" package="TP1321868" value="" x="124.714" y="45.212" smashed="yes" rot="MR90"/>
 <element name="U$191" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="119.634" y="22.86" smashed="yes" rot="MR0"/>
 <element name="U$192" library="output-ESP32" package="#IOT#132321869" value="" x="114.554" y="27.94" smashed="yes" rot="R90"/>
-<element name="U$193" library="output-ESP32" package="ESP32321856" value="" x="112.014" y="21.463" smashed="yes" rot="MR0"/>
-<element name="U$194" library="output-ESP32" package="#IOT#132321874" value="" x="101.854" y="21.463" smashed="yes" rot="MR0"/>
+<element name="U$193" library="output-ESP32" package="ESP32321856" value="" x="113.919" y="21.463" smashed="yes" rot="MR0"/>
+<element name="U$194" library="output-ESP32" package="#IOT#132321874" value="" x="100.076" y="32.639" smashed="yes" rot="MR0"/>
 <element name="U$195" library="output-ESP32" package="MADE_IN32321857" value="" x="108.204" y="16.51" smashed="yes" rot="MR0"/>
 <element name="U$196" library="output-ESP32" package="THE_USA32321858" value="" x="108.204" y="13.97" smashed="yes" rot="MR0"/>
 <element name="C35" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="149.098" y="55.88" smashed="yes" rot="R90">
@@ -23156,7 +23156,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="179.578" y="41.275" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="179.578" y="38.4175" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO11" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="208.026" y="35.179" smashed="yes"/>
+<element name="LOGO11" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="196.723" y="13.335" smashed="yes"/>
 <element name="LOGO12" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="157.988" y="51.562" smashed="yes"/>
 <element name="LOGO13" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="150.114" y="2.032" smashed="yes" rot="MR0"/>
 <element name="LOGO14" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="157.988" y="56.896" smashed="yes" rot="MR0"/>
@@ -23259,8 +23259,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$288" library="output-ESP32" package="TP1321868" value="" x="198.628" y="45.212" smashed="yes" rot="MR90"/>
 <element name="U$289" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="193.548" y="22.86" smashed="yes" rot="MR0"/>
 <element name="U$290" library="output-ESP32" package="#IOT#132321869" value="" x="188.468" y="27.94" smashed="yes" rot="R90"/>
-<element name="U$291" library="output-ESP32" package="ESP32321856" value="" x="185.928" y="21.463" smashed="yes" rot="MR0"/>
-<element name="U$292" library="output-ESP32" package="#IOT#132321874" value="" x="175.768" y="21.463" smashed="yes" rot="MR0"/>
+<element name="U$291" library="output-ESP32" package="ESP32321856" value="" x="187.833" y="21.463" smashed="yes" rot="MR0"/>
+<element name="U$292" library="output-ESP32" package="#IOT#132321874" value="" x="173.99" y="32.639" smashed="yes" rot="MR0"/>
 <element name="U$293" library="output-ESP32" package="MADE_IN32321857" value="" x="182.118" y="16.51" smashed="yes" rot="MR0"/>
 <element name="U$294" library="output-ESP32" package="THE_USA32321858" value="" x="182.118" y="13.97" smashed="yes" rot="MR0"/>
 <element name="C52" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="1.27" y="114.808" smashed="yes" rot="R90">
@@ -23745,7 +23745,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="31.75" y="100.203" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="31.75" y="97.3455" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO16" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="60.198" y="94.107" smashed="yes"/>
+<element name="LOGO16" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="48.895" y="72.263" smashed="yes"/>
 <element name="LOGO17" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="10.16" y="110.49" smashed="yes"/>
 <element name="LOGO18" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="2.286" y="60.96" smashed="yes" rot="MR0"/>
 <element name="LOGO19" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="10.16" y="115.824" smashed="yes" rot="MR0"/>
@@ -23848,8 +23848,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$386" library="output-ESP32" package="TP1321868" value="" x="50.8" y="104.14" smashed="yes" rot="MR90"/>
 <element name="U$387" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="45.72" y="81.788" smashed="yes" rot="MR0"/>
 <element name="U$388" library="output-ESP32" package="#IOT#132321869" value="" x="40.64" y="86.868" smashed="yes" rot="R90"/>
-<element name="U$389" library="output-ESP32" package="ESP32321856" value="" x="38.1" y="80.391" smashed="yes" rot="MR0"/>
-<element name="U$390" library="output-ESP32" package="#IOT#132321874" value="" x="27.94" y="80.391" smashed="yes" rot="MR0"/>
+<element name="U$389" library="output-ESP32" package="ESP32321856" value="" x="40.005" y="80.391" smashed="yes" rot="MR0"/>
+<element name="U$390" library="output-ESP32" package="#IOT#132321874" value="" x="26.162" y="91.567" smashed="yes" rot="MR0"/>
 <element name="U$391" library="output-ESP32" package="MADE_IN32321857" value="" x="34.29" y="75.438" smashed="yes" rot="MR0"/>
 <element name="U$392" library="output-ESP32" package="THE_USA32321858" value="" x="34.29" y="72.898" smashed="yes" rot="MR0"/>
 <element name="C69" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="75.184" y="114.808" smashed="yes" rot="R90">
@@ -24334,7 +24334,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="105.664" y="100.203" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="105.664" y="97.3455" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO21" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="134.112" y="94.107" smashed="yes"/>
+<element name="LOGO21" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="122.809" y="72.263" smashed="yes"/>
 <element name="LOGO22" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="84.074" y="110.49" smashed="yes"/>
 <element name="LOGO23" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="76.2" y="60.96" smashed="yes" rot="MR0"/>
 <element name="LOGO24" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="84.074" y="115.824" smashed="yes" rot="MR0"/>
@@ -24437,8 +24437,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$484" library="output-ESP32" package="TP1321868" value="" x="124.714" y="104.14" smashed="yes" rot="MR90"/>
 <element name="U$485" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="119.634" y="81.788" smashed="yes" rot="MR0"/>
 <element name="U$486" library="output-ESP32" package="#IOT#132321869" value="" x="114.554" y="86.868" smashed="yes" rot="R90"/>
-<element name="U$487" library="output-ESP32" package="ESP32321856" value="" x="112.014" y="80.391" smashed="yes" rot="MR0"/>
-<element name="U$488" library="output-ESP32" package="#IOT#132321874" value="" x="101.854" y="80.391" smashed="yes" rot="MR0"/>
+<element name="U$487" library="output-ESP32" package="ESP32321856" value="" x="113.919" y="80.391" smashed="yes" rot="MR0"/>
+<element name="U$488" library="output-ESP32" package="#IOT#132321874" value="" x="100.076" y="91.567" smashed="yes" rot="MR0"/>
 <element name="U$489" library="output-ESP32" package="MADE_IN32321857" value="" x="108.204" y="75.438" smashed="yes" rot="MR0"/>
 <element name="U$490" library="output-ESP32" package="THE_USA32321858" value="" x="108.204" y="72.898" smashed="yes" rot="MR0"/>
 <element name="C86" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="149.098" y="114.808" smashed="yes" rot="R90">
@@ -24923,7 +24923,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="179.578" y="100.203" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="179.578" y="97.3455" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO26" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="208.026" y="94.107" smashed="yes"/>
+<element name="LOGO26" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="196.723" y="72.263" smashed="yes"/>
 <element name="LOGO27" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="157.988" y="110.49" smashed="yes"/>
 <element name="LOGO28" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="150.114" y="60.96" smashed="yes" rot="MR0"/>
 <element name="LOGO29" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="157.988" y="115.824" smashed="yes" rot="MR0"/>
@@ -25026,8 +25026,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$582" library="output-ESP32" package="TP1321868" value="" x="198.628" y="104.14" smashed="yes" rot="MR90"/>
 <element name="U$583" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="193.548" y="81.788" smashed="yes" rot="MR0"/>
 <element name="U$584" library="output-ESP32" package="#IOT#132321869" value="" x="188.468" y="86.868" smashed="yes" rot="R90"/>
-<element name="U$585" library="output-ESP32" package="ESP32321856" value="" x="185.928" y="80.391" smashed="yes" rot="MR0"/>
-<element name="U$586" library="output-ESP32" package="#IOT#132321874" value="" x="175.768" y="80.391" smashed="yes" rot="MR0"/>
+<element name="U$585" library="output-ESP32" package="ESP32321856" value="" x="187.833" y="80.391" smashed="yes" rot="MR0"/>
+<element name="U$586" library="output-ESP32" package="#IOT#132321874" value="" x="173.99" y="91.567" smashed="yes" rot="MR0"/>
 <element name="U$587" library="output-ESP32" package="MADE_IN32321857" value="" x="182.118" y="75.438" smashed="yes" rot="MR0"/>
 <element name="U$588" library="output-ESP32" package="THE_USA32321858" value="" x="182.118" y="72.898" smashed="yes" rot="MR0"/>
 <element name="C103" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="1.27" y="173.736" smashed="yes" rot="R90">
@@ -25512,7 +25512,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="31.75" y="159.131" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="31.75" y="156.2735" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO31" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="60.198" y="153.035" smashed="yes"/>
+<element name="LOGO31" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="48.895" y="131.191" smashed="yes"/>
 <element name="LOGO32" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="10.16" y="169.418" smashed="yes"/>
 <element name="LOGO33" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="2.286" y="119.888" smashed="yes" rot="MR0"/>
 <element name="LOGO34" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="10.16" y="174.752" smashed="yes" rot="MR0"/>
@@ -25615,8 +25615,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$680" library="output-ESP32" package="TP1321868" value="" x="50.8" y="163.068" smashed="yes" rot="MR90"/>
 <element name="U$681" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="45.72" y="140.716" smashed="yes" rot="MR0"/>
 <element name="U$682" library="output-ESP32" package="#IOT#132321869" value="" x="40.64" y="145.796" smashed="yes" rot="R90"/>
-<element name="U$683" library="output-ESP32" package="ESP32321856" value="" x="38.1" y="139.319" smashed="yes" rot="MR0"/>
-<element name="U$684" library="output-ESP32" package="#IOT#132321874" value="" x="27.94" y="139.319" smashed="yes" rot="MR0"/>
+<element name="U$683" library="output-ESP32" package="ESP32321856" value="" x="40.005" y="139.319" smashed="yes" rot="MR0"/>
+<element name="U$684" library="output-ESP32" package="#IOT#132321874" value="" x="26.162" y="150.495" smashed="yes" rot="MR0"/>
 <element name="U$685" library="output-ESP32" package="MADE_IN32321857" value="" x="34.29" y="134.366" smashed="yes" rot="MR0"/>
 <element name="U$686" library="output-ESP32" package="THE_USA32321858" value="" x="34.29" y="131.826" smashed="yes" rot="MR0"/>
 <element name="C120" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="75.184" y="173.736" smashed="yes" rot="R90">
@@ -26101,7 +26101,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="105.664" y="159.131" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="105.664" y="156.2735" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO36" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="134.112" y="153.035" smashed="yes"/>
+<element name="LOGO36" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="122.809" y="131.191" smashed="yes"/>
 <element name="LOGO37" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="84.074" y="169.418" smashed="yes"/>
 <element name="LOGO38" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="76.2" y="119.888" smashed="yes" rot="MR0"/>
 <element name="LOGO39" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="84.074" y="174.752" smashed="yes" rot="MR0"/>
@@ -26204,8 +26204,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$778" library="output-ESP32" package="TP1321868" value="" x="124.714" y="163.068" smashed="yes" rot="MR90"/>
 <element name="U$779" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="119.634" y="140.716" smashed="yes" rot="MR0"/>
 <element name="U$780" library="output-ESP32" package="#IOT#132321869" value="" x="114.554" y="145.796" smashed="yes" rot="R90"/>
-<element name="U$781" library="output-ESP32" package="ESP32321856" value="" x="112.014" y="139.319" smashed="yes" rot="MR0"/>
-<element name="U$782" library="output-ESP32" package="#IOT#132321874" value="" x="101.854" y="139.319" smashed="yes" rot="MR0"/>
+<element name="U$781" library="output-ESP32" package="ESP32321856" value="" x="113.919" y="139.319" smashed="yes" rot="MR0"/>
+<element name="U$782" library="output-ESP32" package="#IOT#132321874" value="" x="100.076" y="150.495" smashed="yes" rot="MR0"/>
 <element name="U$783" library="output-ESP32" package="MADE_IN32321857" value="" x="108.204" y="134.366" smashed="yes" rot="MR0"/>
 <element name="U$784" library="output-ESP32" package="THE_USA32321858" value="" x="108.204" y="131.826" smashed="yes" rot="MR0"/>
 <element name="C137" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="149.098" y="173.736" smashed="yes" rot="R90">
@@ -26690,7 +26690,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="179.578" y="159.131" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="179.578" y="156.2735" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO41" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="208.026" y="153.035" smashed="yes"/>
+<element name="LOGO41" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="196.723" y="131.191" smashed="yes"/>
 <element name="LOGO42" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="157.988" y="169.418" smashed="yes"/>
 <element name="LOGO43" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="150.114" y="119.888" smashed="yes" rot="MR0"/>
 <element name="LOGO44" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="157.988" y="174.752" smashed="yes" rot="MR0"/>
@@ -26793,8 +26793,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$876" library="output-ESP32" package="TP1321868" value="" x="198.628" y="163.068" smashed="yes" rot="MR90"/>
 <element name="U$877" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="193.548" y="140.716" smashed="yes" rot="MR0"/>
 <element name="U$878" library="output-ESP32" package="#IOT#132321869" value="" x="188.468" y="145.796" smashed="yes" rot="R90"/>
-<element name="U$879" library="output-ESP32" package="ESP32321856" value="" x="185.928" y="139.319" smashed="yes" rot="MR0"/>
-<element name="U$880" library="output-ESP32" package="#IOT#132321874" value="" x="175.768" y="139.319" smashed="yes" rot="MR0"/>
+<element name="U$879" library="output-ESP32" package="ESP32321856" value="" x="187.833" y="139.319" smashed="yes" rot="MR0"/>
+<element name="U$880" library="output-ESP32" package="#IOT#132321874" value="" x="173.99" y="150.495" smashed="yes" rot="MR0"/>
 <element name="U$881" library="output-ESP32" package="MADE_IN32321857" value="" x="182.118" y="134.366" smashed="yes" rot="MR0"/>
 <element name="U$882" library="output-ESP32" package="THE_USA32321858" value="" x="182.118" y="131.826" smashed="yes" rot="MR0"/>
 <element name="C154" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="1.27" y="232.664" smashed="yes" rot="R90">
@@ -27279,7 +27279,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="31.75" y="218.059" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="31.75" y="215.2015" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO46" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="60.198" y="211.963" smashed="yes"/>
+<element name="LOGO46" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="48.895" y="190.119" smashed="yes"/>
 <element name="LOGO47" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="10.16" y="228.346" smashed="yes"/>
 <element name="LOGO48" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="2.286" y="178.816" smashed="yes" rot="MR0"/>
 <element name="LOGO49" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="10.16" y="233.68" smashed="yes" rot="MR0"/>
@@ -27382,8 +27382,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$974" library="output-ESP32" package="TP1321868" value="" x="50.8" y="221.996" smashed="yes" rot="MR90"/>
 <element name="U$975" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="45.72" y="199.644" smashed="yes" rot="MR0"/>
 <element name="U$976" library="output-ESP32" package="#IOT#132321869" value="" x="40.64" y="204.724" smashed="yes" rot="R90"/>
-<element name="U$977" library="output-ESP32" package="ESP32321856" value="" x="38.1" y="198.247" smashed="yes" rot="MR0"/>
-<element name="U$978" library="output-ESP32" package="#IOT#132321874" value="" x="27.94" y="198.247" smashed="yes" rot="MR0"/>
+<element name="U$977" library="output-ESP32" package="ESP32321856" value="" x="40.005" y="198.247" smashed="yes" rot="MR0"/>
+<element name="U$978" library="output-ESP32" package="#IOT#132321874" value="" x="26.162" y="209.423" smashed="yes" rot="MR0"/>
 <element name="U$979" library="output-ESP32" package="MADE_IN32321857" value="" x="34.29" y="193.294" smashed="yes" rot="MR0"/>
 <element name="U$980" library="output-ESP32" package="THE_USA32321858" value="" x="34.29" y="190.754" smashed="yes" rot="MR0"/>
 <element name="C171" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="75.184" y="232.664" smashed="yes" rot="R90">
@@ -27868,7 +27868,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="105.664" y="218.059" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="105.664" y="215.2015" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO51" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="134.112" y="211.963" smashed="yes"/>
+<element name="LOGO51" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="122.809" y="190.119" smashed="yes"/>
 <element name="LOGO52" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="84.074" y="228.346" smashed="yes"/>
 <element name="LOGO53" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="76.2" y="178.816" smashed="yes" rot="MR0"/>
 <element name="LOGO54" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="84.074" y="233.68" smashed="yes" rot="MR0"/>
@@ -27971,8 +27971,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$1072" library="output-ESP32" package="TP1321868" value="" x="124.714" y="221.996" smashed="yes" rot="MR90"/>
 <element name="U$1073" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="119.634" y="199.644" smashed="yes" rot="MR0"/>
 <element name="U$1074" library="output-ESP32" package="#IOT#132321869" value="" x="114.554" y="204.724" smashed="yes" rot="R90"/>
-<element name="U$1075" library="output-ESP32" package="ESP32321856" value="" x="112.014" y="198.247" smashed="yes" rot="MR0"/>
-<element name="U$1076" library="output-ESP32" package="#IOT#132321874" value="" x="101.854" y="198.247" smashed="yes" rot="MR0"/>
+<element name="U$1075" library="output-ESP32" package="ESP32321856" value="" x="113.919" y="198.247" smashed="yes" rot="MR0"/>
+<element name="U$1076" library="output-ESP32" package="#IOT#132321874" value="" x="100.076" y="209.423" smashed="yes" rot="MR0"/>
 <element name="U$1077" library="output-ESP32" package="MADE_IN32321857" value="" x="108.204" y="193.294" smashed="yes" rot="MR0"/>
 <element name="U$1078" library="output-ESP32" package="THE_USA32321858" value="" x="108.204" y="190.754" smashed="yes" rot="MR0"/>
 <element name="C188" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="149.098" y="232.664" smashed="yes" rot="R90">
@@ -28457,7 +28457,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="DIO-00862" x="179.578" y="218.059" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="179.578" y="215.2015" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="LOGO56" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="208.026" y="211.963" smashed="yes"/>
+<element name="LOGO56" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_.1" value="SFE_LOGO_NAME.1_INCH" x="196.723" y="190.119" smashed="yes"/>
 <element name="LOGO57" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="157.988" y="228.346" smashed="yes"/>
 <element name="LOGO58" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="150.114" y="178.816" smashed="yes" rot="MR0"/>
 <element name="LOGO59" library="SparkFun-Aesthetics" package="QWIIC_5MM" value="QWIIC_LOGO_5MM" x="157.988" y="233.68" smashed="yes" rot="MR0"/>
@@ -28560,8 +28560,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$1170" library="output-ESP32" package="TP1321868" value="" x="198.628" y="221.996" smashed="yes" rot="MR90"/>
 <element name="U$1171" library="SparkFun-Aesthetics" package="REDBOARD_LOGO" value="" x="193.548" y="199.644" smashed="yes" rot="MR0"/>
 <element name="U$1172" library="output-ESP32" package="#IOT#132321869" value="" x="188.468" y="204.724" smashed="yes" rot="R90"/>
-<element name="U$1173" library="output-ESP32" package="ESP32321856" value="" x="185.928" y="198.247" smashed="yes" rot="MR0"/>
-<element name="U$1174" library="output-ESP32" package="#IOT#132321874" value="" x="175.768" y="198.247" smashed="yes" rot="MR0"/>
+<element name="U$1173" library="output-ESP32" package="ESP32321856" value="" x="187.833" y="198.247" smashed="yes" rot="MR0"/>
+<element name="U$1174" library="output-ESP32" package="#IOT#132321874" value="" x="173.99" y="209.423" smashed="yes" rot="MR0"/>
 <element name="U$1175" library="output-ESP32" package="MADE_IN32321857" value="" x="182.118" y="193.294" smashed="yes" rot="MR0"/>
 <element name="U$1176" library="output-ESP32" package="THE_USA32321858" value="" x="182.118" y="190.754" smashed="yes" rot="MR0"/>
 <element name="E$1" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-7.44981875" y="232.537" smashed="yes"/>
