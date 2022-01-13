@@ -9624,1621 +9624,1258 @@
 <vertex x="7.57" y="-0.37" />
 </polygon>
 </package>
-<package name="REDBOARD321856">
+<package name="ESP32321856">
 <polygon width="0.005" layer="21">
-<vertex x="2.16" y="-0.40" />
-<vertex x="2.12" y="-0.29" />
-<vertex x="2.08" y="-0.21" />
-<vertex x="2.07" y="-0.14" />
-<vertex x="2.13" y="-0.06" />
-<vertex x="2.17" y="0.03" />
-<vertex x="2.20" y="0.13" />
-<vertex x="2.20" y="0.24" />
-<vertex x="2.19" y="0.34" />
-<vertex x="2.16" y="0.43" />
-<vertex x="2.10" y="0.52" />
-<vertex x="2.03" y="0.59" />
-<vertex x="1.80" y="0.34" />
-<vertex x="1.85" y="0.26" />
-<vertex x="1.85" y="0.15" />
-<vertex x="1.79" y="0.07" />
-<vertex x="1.70" y="0.04" />
-<vertex x="1.50" y="0.04" />
-<vertex x="1.44" y="0.04" />
-<vertex x="1.44" y="0.35" />
-<vertex x="1.51" y="0.39" />
-<vertex x="1.61" y="0.39" />
-<vertex x="1.71" y="0.38" />
-<vertex x="1.80" y="0.34" />
-<vertex x="2.03" y="0.59" />
-<vertex x="1.94" y="0.66" />
-<vertex x="1.85" y="0.70" />
-<vertex x="1.76" y="0.73" />
-<vertex x="1.66" y="0.73" />
-<vertex x="1.24" y="0.73" />
-<vertex x="1.14" y="0.71" />
-<vertex x="1.10" y="0.63" />
-<vertex x="1.10" y="0.53" />
-<vertex x="1.10" y="-0.49" />
-<vertex x="1.10" y="-0.60" />
-<vertex x="1.14" y="-0.67" />
-<vertex x="1.24" y="-0.70" />
-<vertex x="1.37" y="-0.69" />
-<vertex x="1.43" y="-0.64" />
-<vertex x="1.44" y="-0.54" />
-<vertex x="1.44" y="-0.33" />
-<vertex x="1.52" y="-0.30" />
-<vertex x="1.72" y="-0.30" />
-<vertex x="1.80" y="-0.42" />
-<vertex x="1.90" y="-0.66" />
-<vertex x="1.98" y="-0.71" />
-<vertex x="2.07" y="-0.69" />
-<vertex x="2.18" y="-0.63" />
-<vertex x="2.21" y="-0.56" />
-<vertex x="2.18" y="-0.46" />
-<vertex x="2.16" y="-0.40" />
+<vertex x="-5.11" y="-0.61" />
+<vertex x="-5.11" y="-0.44" />
+<vertex x="-5.09" y="-0.29" />
+<vertex x="-4.58" y="-0.29" />
+<vertex x="-4.40" y="-0.28" />
+<vertex x="-4.26" y="-0.23" />
+<vertex x="-4.18" y="-0.10" />
+<vertex x="-4.18" y="0.12" />
+<vertex x="-4.26" y="0.24" />
+<vertex x="-4.40" y="0.29" />
+<vertex x="-5.08" y="0.29" />
+<vertex x="-5.11" y="0.43" />
+<vertex x="-5.11" y="0.60" />
+<vertex x="-4.96" y="0.63" />
+<vertex x="-4.11" y="0.63" />
+<vertex x="-3.94" y="0.64" />
+<vertex x="-3.85" y="0.73" />
+<vertex x="-3.82" y="0.94" />
+<vertex x="-3.86" y="1.12" />
+<vertex x="-3.98" y="1.19" />
+<vertex x="-4.15" y="1.20" />
+<vertex x="-5.33" y="1.20" />
+<vertex x="-5.52" y="1.19" />
+<vertex x="-5.64" y="1.12" />
+<vertex x="-5.68" y="0.96" />
+<vertex x="-5.68" y="0.78" />
+<vertex x="-5.68" y="-0.92" />
+<vertex x="-5.66" y="-1.08" />
+<vertex x="-5.55" y="-1.17" />
+<vertex x="-5.35" y="-1.19" />
+<vertex x="-4.17" y="-1.19" />
+<vertex x="-3.99" y="-1.18" />
+<vertex x="-3.87" y="-1.12" />
+<vertex x="-3.82" y="-0.96" />
+<vertex x="-3.84" y="-0.74" />
+<vertex x="-3.92" y="-0.64" />
+<vertex x="-4.08" y="-0.61" />
+<vertex x="-5.11" y="-0.61" />
+<vertex x="-5.11" y="-0.61" />
 </polygon>
 <polygon width="0.005" layer="21">
-<vertex x="3.51" y="-0.16" />
-<vertex x="3.51" y="-0.06" />
-<vertex x="3.49" y="0.04" />
-<vertex x="3.46" y="0.13" />
-<vertex x="3.40" y="0.22" />
-<vertex x="3.33" y="0.28" />
-<vertex x="3.24" y="0.32" />
-<vertex x="3.14" y="0.35" />
-<vertex x="3.03" y="0.36" />
-<vertex x="2.92" y="0.34" />
-<vertex x="2.82" y="0.32" />
-<vertex x="2.73" y="0.28" />
-<vertex x="2.66" y="0.22" />
-<vertex x="2.59" y="0.14" />
-<vertex x="2.54" y="0.06" />
-<vertex x="2.51" y="-0.03" />
-<vertex x="2.49" y="-0.14" />
-<vertex x="2.49" y="-0.25" />
-<vertex x="2.51" y="-0.34" />
-<vertex x="2.55" y="-0.44" />
-<vertex x="2.60" y="-0.53" />
-<vertex x="2.67" y="-0.60" />
-<vertex x="2.76" y="-0.65" />
-<vertex x="2.85" y="-0.69" />
-<vertex x="2.95" y="-0.71" />
-<vertex x="3.07" y="-0.71" />
-<vertex x="3.22" y="-0.70" />
-<vertex x="3.33" y="-0.68" />
-<vertex x="3.41" y="-0.64" />
-<vertex x="3.45" y="-0.58" />
-<vertex x="3.45" y="-0.51" />
-<vertex x="3.40" y="-0.40" />
-<vertex x="3.32" y="-0.37" />
-<vertex x="3.22" y="-0.40" />
-<vertex x="3.13" y="-0.41" />
-<vertex x="3.02" y="-0.42" />
-<vertex x="2.92" y="-0.38" />
-<vertex x="2.86" y="-0.31" />
-<vertex x="2.93" y="-0.28" />
-<vertex x="2.89" y="-0.11" />
-<vertex x="2.87" y="-0.06" />
-<vertex x="2.95" y="0.02" />
-<vertex x="3.04" y="0.05" />
-<vertex x="3.13" y="0.03" />
-<vertex x="3.17" y="-0.07" />
-<vertex x="3.10" y="-0.11" />
-<vertex x="2.90" y="-0.11" />
-<vertex x="2.93" y="-0.28" />
-<vertex x="3.24" y="-0.28" />
-<vertex x="3.34" y="-0.28" />
-<vertex x="3.43" y="-0.24" />
-<vertex x="3.51" y="-0.17" />
-<vertex x="3.51" y="-0.16" />
+<vertex x="-3.28" y="-0.81" />
+<vertex x="-3.18" y="-0.92" />
+<vertex x="-3.03" y="-1.03" />
+<vertex x="-2.89" y="-1.12" />
+<vertex x="-2.72" y="-1.17" />
+<vertex x="-2.55" y="-1.18" />
+<vertex x="-2.38" y="-1.18" />
+<vertex x="-2.22" y="-1.15" />
+<vertex x="-2.06" y="-1.09" />
+<vertex x="-1.92" y="-1.00" />
+<vertex x="-1.80" y="-0.89" />
+<vertex x="-1.71" y="-0.74" />
+<vertex x="-1.65" y="-0.59" />
+<vertex x="-1.63" y="-0.42" />
+<vertex x="-1.65" y="-0.24" />
+<vertex x="-1.70" y="-0.08" />
+<vertex x="-1.79" y="0.06" />
+<vertex x="-1.92" y="0.16" />
+<vertex x="-2.07" y="0.22" />
+<vertex x="-2.24" y="0.27" />
+<vertex x="-2.57" y="0.36" />
+<vertex x="-2.71" y="0.44" />
+<vertex x="-2.75" y="0.60" />
+<vertex x="-2.65" y="0.72" />
+<vertex x="-2.47" y="0.74" />
+<vertex x="-2.32" y="0.69" />
+<vertex x="-2.18" y="0.59" />
+<vertex x="-2.03" y="0.56" />
+<vertex x="-1.90" y="0.65" />
+<vertex x="-1.79" y="0.82" />
+<vertex x="-1.78" y="0.95" />
+<vertex x="-1.91" y="1.08" />
+<vertex x="-2.03" y="1.16" />
+<vertex x="-2.20" y="1.23" />
+<vertex x="-2.36" y="1.26" />
+<vertex x="-2.54" y="1.27" />
+<vertex x="-2.73" y="1.25" />
+<vertex x="-2.89" y="1.21" />
+<vertex x="-3.03" y="1.13" />
+<vertex x="-3.15" y="1.02" />
+<vertex x="-3.25" y="0.88" />
+<vertex x="-3.31" y="0.73" />
+<vertex x="-3.33" y="0.57" />
+<vertex x="-3.31" y="0.39" />
+<vertex x="-3.26" y="0.24" />
+<vertex x="-3.16" y="0.09" />
+<vertex x="-3.04" y="-0.01" />
+<vertex x="-2.89" y="-0.08" />
+<vertex x="-2.73" y="-0.15" />
+<vertex x="-2.56" y="-0.19" />
+<vertex x="-2.40" y="-0.22" />
+<vertex x="-2.25" y="-0.30" />
+<vertex x="-2.21" y="-0.46" />
+<vertex x="-2.28" y="-0.58" />
+<vertex x="-2.44" y="-0.64" />
+<vertex x="-2.62" y="-0.62" />
+<vertex x="-2.77" y="-0.52" />
+<vertex x="-2.92" y="-0.39" />
+<vertex x="-3.04" y="-0.34" />
+<vertex x="-3.20" y="-0.39" />
+<vertex x="-3.33" y="-0.53" />
+<vertex x="-3.36" y="-0.66" />
+<vertex x="-3.28" y="-0.81" />
+<vertex x="-3.28" y="-0.81" />
 </polygon>
 <polygon width="0.005" layer="21">
-<vertex x="4.52" y="0.74" />
-<vertex x="4.51" y="0.64" />
-<vertex x="4.51" y="0.23" />
-<vertex x="4.46" y="0.27" />
-<vertex x="4.37" y="0.31" />
-<vertex x="4.26" y="0.31" />
-<vertex x="4.17" y="0.30" />
-<vertex x="4.08" y="0.26" />
-<vertex x="3.99" y="0.19" />
-<vertex x="3.92" y="0.11" />
-<vertex x="3.87" y="0.02" />
-<vertex x="3.83" y="-0.07" />
-<vertex x="3.82" y="-0.17" />
-<vertex x="3.83" y="-0.27" />
-<vertex x="3.85" y="-0.37" />
-<vertex x="3.89" y="-0.46" />
-<vertex x="3.95" y="-0.54" />
-<vertex x="4.03" y="-0.62" />
-<vertex x="4.12" y="-0.67" />
-<vertex x="4.21" y="-0.70" />
-<vertex x="4.31" y="-0.71" />
-<vertex x="4.41" y="-0.69" />
-<vertex x="4.49" y="-0.63" />
-<vertex x="4.42" y="-0.34" />
-<vertex x="4.32" y="-0.37" />
-<vertex x="4.26" y="-0.37" />
-<vertex x="4.19" y="-0.29" />
-<vertex x="4.16" y="-0.20" />
-<vertex x="4.19" y="-0.10" />
-<vertex x="4.27" y="-0.04" />
-<vertex x="4.37" y="-0.03" />
-<vertex x="4.45" y="-0.08" />
-<vertex x="4.50" y="-0.17" />
-<vertex x="4.49" y="-0.27" />
-<vertex x="4.42" y="-0.34" />
-<vertex x="4.49" y="-0.63" />
-<vertex x="4.53" y="-0.67" />
-<vertex x="4.62" y="-0.71" />
-<vertex x="4.75" y="-0.70" />
-<vertex x="4.82" y="-0.67" />
-<vertex x="4.85" y="-0.58" />
-<vertex x="4.85" y="0.65" />
-<vertex x="4.83" y="0.74" />
-<vertex x="4.75" y="0.79" />
-<vertex x="4.64" y="0.79" />
-<vertex x="4.54" y="0.77" />
-<vertex x="4.52" y="0.74" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="6.21" y="0.09" />
-<vertex x="6.25" y="0.18" />
-<vertex x="6.26" y="0.29" />
-<vertex x="6.25" y="0.39" />
-<vertex x="6.22" y="0.48" />
-<vertex x="6.16" y="0.57" />
-<vertex x="6.09" y="0.64" />
-<vertex x="6.00" y="0.69" />
-<vertex x="5.90" y="0.72" />
-<vertex x="5.80" y="0.72" />
-<vertex x="5.39" y="0.72" />
-<vertex x="5.27" y="0.72" />
-<vertex x="5.19" y="0.68" />
-<vertex x="5.17" y="0.59" />
-<vertex x="5.17" y="-0.54" />
-<vertex x="5.18" y="-0.64" />
-<vertex x="5.24" y="-0.70" />
-<vertex x="5.36" y="-0.71" />
-<vertex x="5.87" y="-0.71" />
-<vertex x="5.97" y="-0.69" />
-<vertex x="6.07" y="-0.66" />
-<vertex x="6.15" y="-0.60" />
-<vertex x="6.22" y="-0.52" />
-<vertex x="6.27" y="-0.43" />
-<vertex x="6.29" y="-0.33" />
-<vertex x="6.30" y="-0.23" />
-<vertex x="6.28" y="-0.13" />
-<vertex x="6.25" y="-0.03" />
-<vertex x="6.19" y="0.05" />
-<vertex x="5.95" y="-0.17" />
-<vertex x="5.95" y="-0.23" />
-<vertex x="5.92" y="-0.33" />
-<vertex x="5.83" y="-0.37" />
-<vertex x="5.53" y="-0.37" />
-<vertex x="5.52" y="-0.27" />
-<vertex x="5.52" y="0.34" />
-<vertex x="5.58" y="0.38" />
-<vertex x="5.79" y="0.38" />
-<vertex x="5.89" y="0.35" />
-<vertex x="5.91" y="0.26" />
-<vertex x="5.88" y="0.18" />
-<vertex x="5.76" y="0.17" />
-<vertex x="5.68" y="0.13" />
-<vertex x="5.66" y="0.03" />
-<vertex x="5.69" y="-0.07" />
-<vertex x="5.77" y="-0.10" />
-<vertex x="5.89" y="-0.11" />
-<vertex x="5.95" y="-0.17" />
-<vertex x="6.19" y="0.05" />
-<vertex x="6.21" y="0.09" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="6.57" y="0.05" />
-<vertex x="6.57" y="-0.16" />
-<vertex x="6.58" y="-0.26" />
-<vertex x="6.60" y="-0.36" />
-<vertex x="6.65" y="-0.45" />
-<vertex x="6.71" y="-0.53" />
-<vertex x="6.79" y="-0.60" />
-<vertex x="6.87" y="-0.65" />
-<vertex x="7.04" y="-0.37" />
-<vertex x="6.96" y="-0.30" />
-<vertex x="6.92" y="-0.22" />
-<vertex x="6.93" y="-0.10" />
-<vertex x="6.99" y="-0.03" />
-<vertex x="7.08" y="0.02" />
-<vertex x="7.18" y="0.01" />
-<vertex x="7.26" y="-0.05" />
-<vertex x="7.29" y="-0.14" />
-<vertex x="7.28" y="-0.25" />
-<vertex x="7.22" y="-0.33" />
-<vertex x="7.13" y="-0.36" />
-<vertex x="7.04" y="-0.37" />
-<vertex x="6.88" y="-0.65" />
-<vertex x="6.97" y="-0.69" />
-<vertex x="7.07" y="-0.71" />
-<vertex x="7.17" y="-0.71" />
-<vertex x="7.27" y="-0.69" />
-<vertex x="7.36" y="-0.65" />
-<vertex x="7.45" y="-0.59" />
-<vertex x="7.52" y="-0.52" />
-<vertex x="7.58" y="-0.43" />
-<vertex x="7.62" y="-0.34" />
-<vertex x="7.64" y="-0.24" />
-<vertex x="7.64" y="-0.13" />
-<vertex x="7.62" y="-0.03" />
-<vertex x="7.59" y="0.07" />
-<vertex x="7.54" y="0.15" />
-<vertex x="7.47" y="0.22" />
-<vertex x="7.38" y="0.28" />
-<vertex x="7.29" y="0.33" />
-<vertex x="7.20" y="0.35" />
-<vertex x="7.09" y="0.36" />
-<vertex x="6.99" y="0.34" />
-<vertex x="6.90" y="0.31" />
-<vertex x="6.81" y="0.26" />
-<vertex x="6.72" y="0.20" />
-<vertex x="6.57" y="0.06" />
-<vertex x="6.57" y="0.05" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="8.62" y="0.22" />
-<vertex x="8.55" y="0.28" />
-<vertex x="8.45" y="0.31" />
-<vertex x="8.35" y="0.31" />
-<vertex x="8.26" y="0.29" />
-<vertex x="8.17" y="0.24" />
-<vertex x="8.09" y="0.16" />
-<vertex x="8.02" y="0.08" />
-<vertex x="7.98" y="-0.01" />
-<vertex x="7.95" y="-0.11" />
-<vertex x="7.95" y="-0.21" />
-<vertex x="7.96" y="-0.31" />
-<vertex x="7.99" y="-0.40" />
-<vertex x="8.04" y="-0.49" />
-<vertex x="8.11" y="-0.57" />
-<vertex x="8.19" y="-0.65" />
-<vertex x="8.28" y="-0.69" />
-<vertex x="8.37" y="-0.71" />
-<vertex x="8.48" y="-0.70" />
-<vertex x="8.57" y="-0.67" />
-<vertex x="8.64" y="-0.61" />
-<vertex x="8.68" y="-0.68" />
-<vertex x="8.77" y="-0.71" />
-<vertex x="8.89" y="-0.70" />
-<vertex x="8.96" y="-0.65" />
-<vertex x="8.98" y="-0.56" />
-<vertex x="8.98" y="0.05" />
-<vertex x="8.98" y="0.16" />
-<vertex x="8.96" y="0.25" />
-<vertex x="8.89" y="0.31" />
-<vertex x="8.78" y="0.31" />
-<vertex x="8.68" y="0.28" />
-<vertex x="8.64" y="0.20" />
-<vertex x="8.52" y="-0.03" />
-<vertex x="8.60" y="-0.10" />
-<vertex x="8.63" y="-0.19" />
-<vertex x="8.60" y="-0.29" />
-<vertex x="8.53" y="-0.35" />
-<vertex x="8.42" y="-0.36" />
-<vertex x="8.34" y="-0.32" />
-<vertex x="8.28" y="-0.26" />
-<vertex x="8.28" y="-0.16" />
-<vertex x="8.33" y="-0.07" />
-<vertex x="8.42" y="-0.02" />
-<vertex x="8.52" y="-0.03" />
-<vertex x="8.64" y="0.20" />
-<vertex x="8.62" y="0.22" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="10.05" y="0.29" />
-<vertex x="9.95" y="0.32" />
-<vertex x="9.85" y="0.32" />
-<vertex x="9.75" y="0.29" />
-<vertex x="9.67" y="0.23" />
-<vertex x="9.64" y="0.27" />
-<vertex x="9.57" y="0.31" />
-<vertex x="9.43" y="0.31" />
-<vertex x="9.35" y="0.28" />
-<vertex x="9.32" y="0.20" />
-<vertex x="9.32" y="-0.51" />
-<vertex x="9.32" y="-0.61" />
-<vertex x="9.36" y="-0.69" />
-<vertex x="9.46" y="-0.71" />
-<vertex x="9.58" y="-0.70" />
-<vertex x="9.64" y="-0.64" />
-<vertex x="9.65" y="-0.54" />
-<vertex x="9.65" y="-0.14" />
-<vertex x="9.69" y="-0.05" />
-<vertex x="9.78" y="-0.00" />
-<vertex x="9.88" y="-0.02" />
-<vertex x="9.97" y="-0.04" />
-<vertex x="10.05" y="0.01" />
-<vertex x="10.09" y="0.11" />
-<vertex x="10.10" y="0.21" />
-<vertex x="10.05" y="0.29" />
-<vertex x="10.05" y="0.29" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="11.09" y="0.74" />
-<vertex x="11.07" y="0.64" />
-<vertex x="11.07" y="0.23" />
-<vertex x="11.02" y="0.27" />
-<vertex x="10.93" y="0.31" />
-<vertex x="10.82" y="0.31" />
-<vertex x="10.73" y="0.30" />
-<vertex x="10.64" y="0.26" />
-<vertex x="10.56" y="0.19" />
-<vertex x="10.48" y="0.11" />
-<vertex x="10.43" y="0.02" />
-<vertex x="10.40" y="-0.07" />
-<vertex x="10.38" y="-0.17" />
-<vertex x="10.39" y="-0.27" />
-<vertex x="10.41" y="-0.37" />
-<vertex x="10.45" y="-0.46" />
-<vertex x="10.52" y="-0.54" />
-<vertex x="10.60" y="-0.62" />
-<vertex x="10.68" y="-0.67" />
-<vertex x="10.77" y="-0.70" />
-<vertex x="10.87" y="-0.71" />
-<vertex x="10.97" y="-0.69" />
-<vertex x="11.05" y="-0.63" />
-<vertex x="10.98" y="-0.34" />
-<vertex x="10.89" y="-0.37" />
-<vertex x="10.82" y="-0.37" />
-<vertex x="10.75" y="-0.29" />
-<vertex x="10.72" y="-0.20" />
-<vertex x="10.75" y="-0.10" />
-<vertex x="10.83" y="-0.04" />
-<vertex x="10.93" y="-0.03" />
-<vertex x="11.02" y="-0.08" />
-<vertex x="11.06" y="-0.17" />
-<vertex x="11.05" y="-0.27" />
-<vertex x="10.98" y="-0.34" />
-<vertex x="11.05" y="-0.63" />
-<vertex x="11.10" y="-0.67" />
-<vertex x="11.18" y="-0.71" />
-<vertex x="11.31" y="-0.70" />
-<vertex x="11.39" y="-0.67" />
-<vertex x="11.41" y="-0.58" />
-<vertex x="11.41" y="0.65" />
-<vertex x="11.39" y="0.74" />
-<vertex x="11.31" y="0.79" />
-<vertex x="11.20" y="0.79" />
-<vertex x="11.10" y="0.77" />
-<vertex x="11.09" y="0.74" />
-</polygon>
-</package>
-<package name="ESP32_REDBOARD321857">
-<polygon width="0.005" layer="21">
-<vertex x="-14.39" y="-0.61" />
-<vertex x="-14.39" y="-0.44" />
-<vertex x="-14.38" y="-0.29" />
-<vertex x="-13.87" y="-0.29" />
-<vertex x="-13.68" y="-0.28" />
-<vertex x="-13.55" y="-0.23" />
-<vertex x="-13.47" y="-0.10" />
-<vertex x="-13.47" y="0.12" />
-<vertex x="-13.54" y="0.24" />
-<vertex x="-13.69" y="0.29" />
-<vertex x="-14.37" y="0.29" />
-<vertex x="-14.39" y="0.43" />
-<vertex x="-14.39" y="0.60" />
-<vertex x="-14.25" y="0.63" />
-<vertex x="-13.40" y="0.63" />
-<vertex x="-13.23" y="0.64" />
-<vertex x="-13.13" y="0.73" />
-<vertex x="-13.11" y="0.94" />
-<vertex x="-13.14" y="1.12" />
-<vertex x="-13.27" y="1.19" />
-<vertex x="-13.43" y="1.20" />
-<vertex x="-14.62" y="1.20" />
-<vertex x="-14.81" y="1.19" />
-<vertex x="-14.93" y="1.12" />
-<vertex x="-14.97" y="0.96" />
-<vertex x="-14.97" y="0.78" />
-<vertex x="-14.97" y="-0.92" />
-<vertex x="-14.95" y="-1.08" />
-<vertex x="-14.84" y="-1.17" />
-<vertex x="-14.64" y="-1.19" />
-<vertex x="-13.46" y="-1.19" />
-<vertex x="-13.28" y="-1.18" />
-<vertex x="-13.16" y="-1.12" />
-<vertex x="-13.11" y="-0.96" />
-<vertex x="-13.12" y="-0.74" />
-<vertex x="-13.21" y="-0.64" />
-<vertex x="-13.37" y="-0.61" />
-<vertex x="-14.39" y="-0.61" />
-<vertex x="-14.39" y="-0.61" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-12.56" y="-0.81" />
-<vertex x="-12.46" y="-0.92" />
-<vertex x="-12.32" y="-1.03" />
-<vertex x="-12.18" y="-1.12" />
-<vertex x="-12.01" y="-1.17" />
-<vertex x="-11.84" y="-1.18" />
-<vertex x="-11.67" y="-1.18" />
-<vertex x="-11.51" y="-1.15" />
-<vertex x="-11.35" y="-1.09" />
-<vertex x="-11.21" y="-1.00" />
-<vertex x="-11.09" y="-0.89" />
-<vertex x="-10.99" y="-0.74" />
-<vertex x="-10.94" y="-0.59" />
-<vertex x="-10.92" y="-0.42" />
-<vertex x="-10.94" y="-0.24" />
-<vertex x="-10.99" y="-0.08" />
-<vertex x="-11.08" y="0.06" />
-<vertex x="-11.21" y="0.16" />
-<vertex x="-11.35" y="0.22" />
-<vertex x="-11.53" y="0.27" />
-<vertex x="-11.85" y="0.36" />
-<vertex x="-12.00" y="0.44" />
-<vertex x="-12.03" y="0.60" />
-<vertex x="-11.94" y="0.72" />
-<vertex x="-11.76" y="0.74" />
-<vertex x="-11.61" y="0.69" />
-<vertex x="-11.46" y="0.59" />
-<vertex x="-11.32" y="0.56" />
-<vertex x="-11.19" y="0.65" />
-<vertex x="-11.08" y="0.82" />
-<vertex x="-11.07" y="0.95" />
-<vertex x="-11.20" y="1.08" />
-<vertex x="-11.31" y="1.16" />
-<vertex x="-11.49" y="1.23" />
-<vertex x="-11.65" y="1.26" />
-<vertex x="-11.83" y="1.27" />
-<vertex x="-12.01" y="1.25" />
-<vertex x="-12.18" y="1.21" />
-<vertex x="-12.32" y="1.13" />
-<vertex x="-12.44" y="1.02" />
-<vertex x="-12.54" y="0.88" />
-<vertex x="-12.59" y="0.73" />
-<vertex x="-12.62" y="0.57" />
-<vertex x="-12.60" y="0.39" />
-<vertex x="-12.55" y="0.24" />
-<vertex x="-12.45" y="0.09" />
-<vertex x="-12.33" y="-0.01" />
-<vertex x="-12.18" y="-0.08" />
-<vertex x="-12.02" y="-0.15" />
-<vertex x="-11.85" y="-0.19" />
-<vertex x="-11.69" y="-0.22" />
-<vertex x="-11.54" y="-0.30" />
-<vertex x="-11.50" y="-0.46" />
-<vertex x="-11.57" y="-0.58" />
-<vertex x="-11.73" y="-0.64" />
-<vertex x="-11.91" y="-0.62" />
-<vertex x="-12.06" y="-0.52" />
-<vertex x="-12.20" y="-0.39" />
-<vertex x="-12.33" y="-0.34" />
-<vertex x="-12.48" y="-0.39" />
-<vertex x="-12.62" y="-0.53" />
-<vertex x="-12.65" y="-0.66" />
-<vertex x="-12.56" y="-0.81" />
-<vertex x="-12.56" y="-0.81" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-8.54" y="0.59" />
-<vertex x="-8.62" y="0.74" />
-<vertex x="-8.71" y="0.88" />
-<vertex x="-8.84" y="0.99" />
-<vertex x="-8.99" y="1.10" />
-<vertex x="-9.14" y="1.16" />
-<vertex x="-9.30" y="1.20" />
-<vertex x="-9.46" y="1.20" />
-<vertex x="-9.96" y="1.20" />
-<vertex x="-10.16" y="1.20" />
-<vertex x="-10.31" y="1.15" />
-<vertex x="-10.36" y="1.01" />
-<vertex x="-10.36" y="-0.84" />
-<vertex x="-10.36" y="-1.02" />
-<vertex x="-10.30" y="-1.14" />
-<vertex x="-10.13" y="-1.18" />
-<vertex x="-9.92" y="-1.17" />
-<vertex x="-9.81" y="-1.08" />
-<vertex x="-9.79" y="-0.92" />
-<vertex x="-9.79" y="-0.58" />
-<vertex x="-9.67" y="-0.52" />
-<vertex x="-9.34" y="-0.52" />
-<vertex x="-9.18" y="-0.50" />
-<vertex x="-9.02" y="-0.44" />
-<vertex x="-9.28" y="0.05" />
-<vertex x="-9.79" y="0.05" />
-<vertex x="-9.79" y="0.22" />
-<vertex x="-9.79" y="0.55" />
-<vertex x="-9.69" y="0.63" />
-<vertex x="-9.36" y="0.63" />
-<vertex x="-9.20" y="0.56" />
-<vertex x="-9.11" y="0.43" />
-<vertex x="-9.10" y="0.25" />
-<vertex x="-9.19" y="0.12" />
-<vertex x="-9.28" y="0.05" />
-<vertex x="-9.02" y="-0.44" />
-<vertex x="-8.87" y="-0.36" />
-<vertex x="-8.74" y="-0.25" />
-<vertex x="-8.64" y="-0.11" />
-<vertex x="-8.56" y="0.04" />
-<vertex x="-8.53" y="0.20" />
-<vertex x="-8.52" y="0.37" />
-<vertex x="-8.52" y="0.54" />
-<vertex x="-8.54" y="0.59" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-6.76" y="1.27" />
-<vertex x="-7.09" y="1.27" />
-<vertex x="-7.27" y="1.26" />
-<vertex x="-7.43" y="1.23" />
-<vertex x="-7.60" y="1.16" />
-<vertex x="-7.73" y="1.08" />
-<vertex x="-7.85" y="0.95" />
-<vertex x="-7.93" y="0.78" />
-<vertex x="-7.96" y="0.65" />
-<vertex x="-7.89" y="0.51" />
-<vertex x="-7.73" y="0.41" />
-<vertex x="-7.57" y="0.39" />
-<vertex x="-7.45" y="0.49" />
-<vertex x="-7.35" y="0.63" />
-<vertex x="-7.20" y="0.70" />
-<vertex x="-7.02" y="0.70" />
-<vertex x="-6.89" y="0.59" />
-<vertex x="-6.90" y="0.46" />
-<vertex x="-7.04" y="0.39" />
-<vertex x="-7.24" y="0.38" />
-<vertex x="-7.36" y="0.33" />
-<vertex x="-7.41" y="0.16" />
-<vertex x="-7.40" y="-0.05" />
-<vertex x="-7.31" y="-0.15" />
-<vertex x="-7.16" y="-0.18" />
-<vertex x="-6.98" y="-0.21" />
-<vertex x="-6.85" y="-0.31" />
-<vertex x="-6.84" y="-0.47" />
-<vertex x="-6.95" y="-0.58" />
-<vertex x="-7.11" y="-0.62" />
-<vertex x="-7.29" y="-0.61" />
-<vertex x="-7.44" y="-0.52" />
-<vertex x="-7.51" y="-0.36" />
-<vertex x="-7.61" y="-0.27" />
-<vertex x="-7.81" y="-0.26" />
-<vertex x="-7.99" y="-0.30" />
-<vertex x="-8.06" y="-0.41" />
-<vertex x="-8.04" y="-0.56" />
-<vertex x="-7.99" y="-0.73" />
-<vertex x="-7.89" y="-0.88" />
-<vertex x="-7.78" y="-0.99" />
-<vertex x="-7.64" y="-1.08" />
-<vertex x="-7.49" y="-1.14" />
-<vertex x="-7.32" y="-1.18" />
-<vertex x="-7.14" y="-1.19" />
-<vertex x="-6.96" y="-1.17" />
-<vertex x="-6.80" y="-1.13" />
-<vertex x="-6.65" y="-1.06" />
-<vertex x="-6.52" y="-0.97" />
-<vertex x="-6.40" y="-0.85" />
-<vertex x="-6.31" y="-0.71" />
-<vertex x="-6.26" y="-0.55" />
-<vertex x="-6.25" y="-0.38" />
-<vertex x="-6.28" y="-0.21" />
-<vertex x="-6.36" y="-0.07" />
-<vertex x="-6.49" y="0.06" />
-<vertex x="-6.49" y="0.15" />
-<vertex x="-6.37" y="0.26" />
-<vertex x="-6.31" y="0.41" />
-<vertex x="-6.30" y="0.58" />
-<vertex x="-6.33" y="0.74" />
-<vertex x="-6.41" y="0.89" />
-<vertex x="-6.52" y="1.03" />
-<vertex x="-6.76" y="1.27" />
-<vertex x="-6.76" y="1.27" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-4.18" y="-0.61" />
-<vertex x="-4.69" y="-0.61" />
-<vertex x="-4.72" y="-0.57" />
-<vertex x="-4.59" y="-0.51" />
-<vertex x="-4.45" y="-0.42" />
-<vertex x="-4.30" y="-0.30" />
-<vertex x="-4.18" y="-0.18" />
-<vertex x="-4.09" y="-0.04" />
-<vertex x="-4.03" y="0.12" />
-<vertex x="-4.00" y="0.28" />
-<vertex x="-4.00" y="0.46" />
-<vertex x="-4.04" y="0.62" />
-<vertex x="-4.10" y="0.77" />
-<vertex x="-4.19" y="0.91" />
-<vertex x="-4.30" y="1.04" />
-<vertex x="-4.44" y="1.13" />
-<vertex x="-4.59" y="1.20" />
-<vertex x="-4.75" y="1.23" />
-<vertex x="-4.94" y="1.23" />
-<vertex x="-5.11" y="1.21" />
-<vertex x="-5.26" y="1.15" />
-<vertex x="-5.40" y="1.07" />
-<vertex x="-5.52" y="0.95" />
-<vertex x="-5.62" y="0.81" />
-<vertex x="-5.69" y="0.66" />
-<vertex x="-5.73" y="0.50" />
-<vertex x="-5.74" y="0.32" />
-<vertex x="-5.72" y="0.17" />
-<vertex x="-5.61" y="0.09" />
-<vertex x="-5.40" y="0.07" />
-<vertex x="-5.23" y="0.12" />
-<vertex x="-5.17" y="0.24" />
-<vertex x="-5.15" y="0.41" />
-<vertex x="-5.09" y="0.56" />
-<vertex x="-4.95" y="0.65" />
-<vertex x="-4.78" y="0.65" />
-<vertex x="-4.64" y="0.56" />
-<vertex x="-4.57" y="0.41" />
-<vertex x="-4.60" y="0.26" />
-<vertex x="-4.70" y="0.11" />
-<vertex x="-4.82" y="-0.01" />
-<vertex x="-4.96" y="-0.11" />
-<vertex x="-5.39" y="-0.36" />
-<vertex x="-5.53" y="-0.47" />
-<vertex x="-5.64" y="-0.59" />
-<vertex x="-5.72" y="-0.75" />
-<vertex x="-5.74" y="-0.91" />
-<vertex x="-5.69" y="-1.06" />
-<vertex x="-5.56" y="-1.17" />
-<vertex x="-5.39" y="-1.19" />
-<vertex x="-4.21" y="-1.19" />
-<vertex x="-4.04" y="-1.17" />
-<vertex x="-3.92" y="-1.09" />
-<vertex x="-3.89" y="-0.92" />
-<vertex x="-3.91" y="-0.75" />
-<vertex x="-4.01" y="-0.63" />
-<vertex x="-4.18" y="-0.61" />
-<vertex x="-4.18" y="-0.61" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-0.72" y="-0.67" />
-<vertex x="-0.79" y="-0.49" />
-<vertex x="-0.85" y="-0.34" />
-<vertex x="-0.87" y="-0.23" />
-<vertex x="-0.77" y="-0.10" />
-<vertex x="-0.69" y="0.05" />
-<vertex x="-0.65" y="0.22" />
-<vertex x="-0.64" y="0.39" />
-<vertex x="-0.67" y="0.56" />
-<vertex x="-0.72" y="0.72" />
-<vertex x="-0.82" y="0.87" />
-<vertex x="-0.93" y="0.99" />
-<vertex x="-1.32" y="0.57" />
-<vertex x="-1.23" y="0.44" />
-<vertex x="-1.23" y="0.25" />
-<vertex x="-1.33" y="0.12" />
-<vertex x="-1.49" y="0.07" />
-<vertex x="-1.82" y="0.07" />
-<vertex x="-1.91" y="0.07" />
-<vertex x="-1.91" y="0.58" />
-<vertex x="-1.81" y="0.64" />
-<vertex x="-1.64" y="0.64" />
-<vertex x="-1.47" y="0.64" />
-<vertex x="-1.32" y="0.57" />
-<vertex x="-0.93" y="0.99" />
-<vertex x="-1.08" y="1.09" />
-<vertex x="-1.24" y="1.17" />
-<vertex x="-1.39" y="1.21" />
-<vertex x="-1.55" y="1.22" />
-<vertex x="-2.25" y="1.22" />
-<vertex x="-2.42" y="1.18" />
-<vertex x="-2.49" y="1.05" />
-<vertex x="-2.49" y="0.88" />
-<vertex x="-2.49" y="-0.82" />
-<vertex x="-2.48" y="-1.00" />
-<vertex x="-2.42" y="-1.12" />
-<vertex x="-2.25" y="-1.17" />
-<vertex x="-2.04" y="-1.15" />
-<vertex x="-1.94" y="-1.06" />
-<vertex x="-1.91" y="-0.90" />
-<vertex x="-1.91" y="-0.55" />
-<vertex x="-1.79" y="-0.51" />
-<vertex x="-1.45" y="-0.51" />
-<vertex x="-1.33" y="-0.70" />
-<vertex x="-1.24" y="-0.89" />
-<vertex x="-1.15" y="-1.10" />
-<vertex x="-1.02" y="-1.18" />
-<vertex x="-0.86" y="-1.15" />
-<vertex x="-0.68" y="-1.05" />
-<vertex x="-0.63" y="-0.93" />
-<vertex x="-0.68" y="-0.76" />
-<vertex x="-0.72" y="-0.67" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="1.52" y="-0.27" />
-<vertex x="1.52" y="-0.10" />
-<vertex x="1.51" y="0.07" />
-<vertex x="1.45" y="0.22" />
-<vertex x="1.35" y="0.36" />
-<vertex x="1.23" y="0.47" />
-<vertex x="1.08" y="0.54" />
-<vertex x="0.92" y="0.58" />
-<vertex x="0.73" y="0.59" />
-<vertex x="0.55" y="0.57" />
-<vertex x="0.39" y="0.53" />
-<vertex x="0.24" y="0.46" />
-<vertex x="0.11" y="0.36" />
-<vertex x="-0.00" y="0.24" />
-<vertex x="-0.09" y="0.10" />
-<vertex x="-0.14" y="-0.06" />
-<vertex x="-0.17" y="-0.23" />
-<vertex x="-0.16" y="-0.41" />
-<vertex x="-0.13" y="-0.57" />
-<vertex x="-0.07" y="-0.73" />
-<vertex x="0.02" y="-0.88" />
-<vertex x="0.13" y="-1.00" />
-<vertex x="0.28" y="-1.09" />
-<vertex x="0.43" y="-1.15" />
-<vertex x="0.60" y="-1.18" />
-<vertex x="0.80" y="-1.18" />
-<vertex x="1.04" y="-1.17" />
-<vertex x="1.23" y="-1.13" />
-<vertex x="1.36" y="-1.06" />
-<vertex x="1.43" y="-0.97" />
-<vertex x="1.43" y="-0.85" />
-<vertex x="1.34" y="-0.67" />
-<vertex x="1.22" y="-0.61" />
-<vertex x="1.05" y="-0.66" />
-<vertex x="0.91" y="-0.69" />
-<vertex x="0.72" y="-0.69" />
-<vertex x="0.56" y="-0.64" />
-<vertex x="0.44" y="-0.51" />
-<vertex x="0.57" y="-0.47" />
-<vertex x="0.51" y="-0.19" />
-<vertex x="0.46" y="-0.09" />
-<vertex x="0.59" y="0.04" />
-<vertex x="0.74" y="0.08" />
-<vertex x="0.91" y="0.04" />
-<vertex x="0.96" y="-0.11" />
-<vertex x="0.85" y="-0.19" />
-<vertex x="0.51" y="-0.19" />
-<vertex x="0.57" y="-0.47" />
-<vertex x="1.08" y="-0.47" />
-<vertex x="1.25" y="-0.47" />
-<vertex x="1.40" y="-0.41" />
-<vertex x="1.52" y="-0.29" />
-<vertex x="1.52" y="-0.27" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="3.22" y="1.23" />
-<vertex x="3.20" y="1.07" />
-<vertex x="3.20" y="0.39" />
-<vertex x="3.11" y="0.44" />
-<vertex x="2.96" y="0.51" />
-<vertex x="2.78" y="0.52" />
-<vertex x="2.62" y="0.50" />
-<vertex x="2.48" y="0.43" />
-<vertex x="2.34" y="0.32" />
-<vertex x="2.21" y="0.19" />
-<vertex x="2.13" y="0.04" />
-<vertex x="2.07" y="-0.11" />
-<vertex x="2.05" y="-0.28" />
-<vertex x="2.06" y="-0.45" />
-<vertex x="2.10" y="-0.61" />
-<vertex x="2.17" y="-0.76" />
-<vertex x="2.27" y="-0.90" />
-<vertex x="2.40" y="-1.03" />
-<vertex x="2.55" y="-1.12" />
-<vertex x="2.70" y="-1.17" />
-<vertex x="2.86" y="-1.18" />
-<vertex x="3.03" y="-1.14" />
-<vertex x="3.16" y="-1.06" />
-<vertex x="3.05" y="-0.57" />
-<vertex x="2.89" y="-0.61" />
-<vertex x="2.78" y="-0.61" />
-<vertex x="2.66" y="-0.49" />
-<vertex x="2.61" y="-0.33" />
-<vertex x="2.66" y="-0.17" />
-<vertex x="2.79" y="-0.07" />
-<vertex x="2.96" y="-0.06" />
-<vertex x="3.11" y="-0.13" />
-<vertex x="3.18" y="-0.28" />
-<vertex x="3.16" y="-0.45" />
-<vertex x="3.05" y="-0.57" />
-<vertex x="3.17" y="-1.06" />
-<vertex x="3.24" y="-1.11" />
-<vertex x="3.38" y="-1.18" />
-<vertex x="3.60" y="-1.17" />
-<vertex x="3.72" y="-1.11" />
-<vertex x="3.76" y="-0.97" />
-<vertex x="3.76" y="1.08" />
-<vertex x="3.73" y="1.24" />
-<vertex x="3.59" y="1.31" />
-<vertex x="3.41" y="1.32" />
-<vertex x="3.25" y="1.29" />
-<vertex x="3.22" y="1.23" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="6.03" y="0.15" />
-<vertex x="6.09" y="0.31" />
-<vertex x="6.11" y="0.48" />
-<vertex x="6.10" y="0.65" />
-<vertex x="6.04" y="0.80" />
-<vertex x="5.95" y="0.95" />
-<vertex x="5.83" y="1.07" />
-<vertex x="5.69" y="1.15" />
-<vertex x="5.52" y="1.19" />
-<vertex x="5.35" y="1.20" />
-<vertex x="4.67" y="1.20" />
-<vertex x="4.46" y="1.19" />
-<vertex x="4.34" y="1.13" />
-<vertex x="4.30" y="0.98" />
-<vertex x="4.30" y="-0.90" />
-<vertex x="4.32" y="-1.07" />
-<vertex x="4.42" y="-1.16" />
-<vertex x="4.62" y="-1.19" />
-<vertex x="5.47" y="-1.18" />
-<vertex x="5.64" y="-1.16" />
-<vertex x="5.79" y="-1.09" />
-<vertex x="5.93" y="-0.99" />
-<vertex x="6.05" y="-0.86" />
-<vertex x="6.13" y="-0.72" />
-<vertex x="6.17" y="-0.56" />
-<vertex x="6.18" y="-0.38" />
-<vertex x="6.15" y="-0.21" />
-<vertex x="6.09" y="-0.06" />
-<vertex x="5.99" y="0.08" />
-<vertex x="5.60" y="-0.29" />
-<vertex x="5.60" y="-0.39" />
-<vertex x="5.55" y="-0.55" />
-<vertex x="5.41" y="-0.61" />
-<vertex x="4.89" y="-0.61" />
-<vertex x="4.88" y="-0.46" />
-<vertex x="4.88" y="0.57" />
-<vertex x="4.99" y="0.63" />
-<vertex x="5.33" y="0.63" />
-<vertex x="5.49" y="0.59" />
-<vertex x="5.54" y="0.43" />
-<vertex x="5.48" y="0.31" />
-<vertex x="5.28" y="0.28" />
-<vertex x="5.15" y="0.22" />
-<vertex x="5.11" y="0.05" />
-<vertex x="5.16" y="-0.12" />
-<vertex x="5.30" y="-0.17" />
-<vertex x="5.49" y="-0.19" />
-<vertex x="5.59" y="-0.29" />
-<vertex x="5.99" y="0.09" />
-<vertex x="6.03" y="0.15" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="6.64" y="0.08" />
-<vertex x="6.64" y="-0.26" />
-<vertex x="6.65" y="-0.44" />
-<vertex x="6.69" y="-0.60" />
-<vertex x="6.77" y="-0.75" />
-<vertex x="6.87" y="-0.89" />
-<vertex x="7.00" y="-1.00" />
-<vertex x="7.14" y="-1.09" />
-<vertex x="7.42" y="-0.61" />
-<vertex x="7.29" y="-0.51" />
-<vertex x="7.22" y="-0.36" />
-<vertex x="7.23" y="-0.17" />
-<vertex x="7.32" y="-0.04" />
-<vertex x="7.48" y="0.03" />
-<vertex x="7.64" y="0.02" />
-<vertex x="7.78" y="-0.08" />
-<vertex x="7.84" y="-0.24" />
-<vertex x="7.82" y="-0.42" />
-<vertex x="7.71" y="-0.54" />
-<vertex x="7.56" y="-0.61" />
-<vertex x="7.42" y="-0.61" />
-<vertex x="7.14" y="-1.09" />
-<vertex x="7.30" y="-1.15" />
-<vertex x="7.47" y="-1.18" />
-<vertex x="7.63" y="-1.18" />
-<vertex x="7.80" y="-1.14" />
-<vertex x="7.96" y="-1.08" />
-<vertex x="8.09" y="-0.98" />
-<vertex x="8.21" y="-0.86" />
-<vertex x="8.31" y="-0.72" />
-<vertex x="8.38" y="-0.57" />
-<vertex x="8.41" y="-0.40" />
-<vertex x="8.41" y="-0.22" />
-<vertex x="8.39" y="-0.05" />
-<vertex x="8.33" y="0.11" />
-<vertex x="8.24" y="0.25" />
-<vertex x="8.13" y="0.37" />
-<vertex x="7.99" y="0.47" />
-<vertex x="7.84" y="0.54" />
-<vertex x="7.67" y="0.58" />
-<vertex x="7.50" y="0.59" />
-<vertex x="7.33" y="0.57" />
-<vertex x="7.17" y="0.52" />
-<vertex x="7.03" y="0.44" />
-<vertex x="6.89" y="0.33" />
-<vertex x="6.64" y="0.10" />
-<vertex x="6.64" y="0.08" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="10.06" y="0.37" />
-<vertex x="9.93" y="0.47" />
-<vertex x="9.76" y="0.52" />
-<vertex x="9.59" y="0.52" />
-<vertex x="9.44" y="0.48" />
-<vertex x="9.30" y="0.39" />
-<vertex x="9.16" y="0.27" />
-<vertex x="9.05" y="0.13" />
-<vertex x="8.98" y="-0.02" />
-<vertex x="8.94" y="-0.18" />
-<vertex x="8.92" y="-0.35" />
-<vertex x="8.94" y="-0.52" />
-<vertex x="9.00" y="-0.67" />
-<vertex x="9.08" y="-0.82" />
-<vertex x="9.19" y="-0.96" />
-<vertex x="9.33" y="-1.08" />
-<vertex x="9.48" y="-1.15" />
-<vertex x="9.63" y="-1.18" />
-<vertex x="9.81" y="-1.17" />
-<vertex x="9.97" y="-1.12" />
-<vertex x="10.08" y="-1.01" />
-<vertex x="10.15" y="-1.14" />
-<vertex x="10.29" y="-1.18" />
-<vertex x="10.50" y="-1.17" />
-<vertex x="10.62" y="-1.09" />
-<vertex x="10.65" y="-0.93" />
-<vertex x="10.65" y="0.09" />
-<vertex x="10.65" y="0.27" />
-<vertex x="10.62" y="0.42" />
-<vertex x="10.50" y="0.51" />
-<vertex x="10.31" y="0.52" />
-<vertex x="10.14" y="0.47" />
-<vertex x="10.08" y="0.34" />
-<vertex x="9.88" y="-0.05" />
-<vertex x="10.01" y="-0.16" />
-<vertex x="10.06" y="-0.32" />
-<vertex x="10.02" y="-0.48" />
-<vertex x="9.89" y="-0.59" />
-<vertex x="9.72" y="-0.60" />
-<vertex x="9.57" y="-0.53" />
-<vertex x="9.48" y="-0.44" />
-<vertex x="9.49" y="-0.27" />
-<vertex x="9.57" y="-0.12" />
-<vertex x="9.71" y="-0.04" />
-<vertex x="9.88" y="-0.05" />
-<vertex x="10.08" y="0.34" />
-<vertex x="10.06" y="0.37" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="12.43" y="0.49" />
-<vertex x="12.27" y="0.53" />
-<vertex x="12.10" y="0.54" />
-<vertex x="11.94" y="0.48" />
-<vertex x="11.80" y="0.39" />
-<vertex x="11.74" y="0.44" />
-<vertex x="11.63" y="0.51" />
-<vertex x="11.41" y="0.52" />
-<vertex x="11.26" y="0.47" />
-<vertex x="11.21" y="0.34" />
-<vertex x="11.21" y="-0.85" />
-<vertex x="11.21" y="-1.02" />
-<vertex x="11.29" y="-1.15" />
-<vertex x="11.45" y="-1.18" />
-<vertex x="11.65" y="-1.16" />
-<vertex x="11.76" y="-1.06" />
-<vertex x="11.77" y="-0.91" />
-<vertex x="11.77" y="-0.23" />
-<vertex x="11.83" y="-0.08" />
-<vertex x="11.98" y="-0.00" />
-<vertex x="12.14" y="-0.03" />
-<vertex x="12.30" y="-0.07" />
-<vertex x="12.43" y="0.02" />
-<vertex x="12.50" y="0.19" />
-<vertex x="12.51" y="0.36" />
-<vertex x="12.43" y="0.49" />
-<vertex x="12.43" y="0.49" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="14.16" y="1.23" />
-<vertex x="14.14" y="1.07" />
-<vertex x="14.14" y="0.39" />
-<vertex x="14.05" y="0.44" />
-<vertex x="13.90" y="0.51" />
-<vertex x="13.72" y="0.52" />
-<vertex x="13.56" y="0.50" />
-<vertex x="13.41" y="0.43" />
-<vertex x="13.27" y="0.32" />
-<vertex x="13.15" y="0.19" />
-<vertex x="13.07" y="0.04" />
-<vertex x="13.01" y="-0.11" />
-<vertex x="12.99" y="-0.28" />
-<vertex x="13.00" y="-0.45" />
-<vertex x="13.04" y="-0.61" />
-<vertex x="13.11" y="-0.76" />
-<vertex x="13.21" y="-0.90" />
-<vertex x="13.34" y="-1.03" />
-<vertex x="13.48" y="-1.12" />
-<vertex x="13.64" y="-1.17" />
-<vertex x="13.80" y="-1.18" />
-<vertex x="13.97" y="-1.14" />
-<vertex x="14.10" y="-1.06" />
-<vertex x="13.99" y="-0.57" />
-<vertex x="13.82" y="-0.61" />
-<vertex x="13.72" y="-0.61" />
-<vertex x="13.60" y="-0.49" />
-<vertex x="13.55" y="-0.33" />
-<vertex x="13.60" y="-0.17" />
-<vertex x="13.73" y="-0.07" />
-<vertex x="13.90" y="-0.06" />
-<vertex x="14.04" y="-0.13" />
-<vertex x="14.12" y="-0.28" />
-<vertex x="14.10" y="-0.45" />
-<vertex x="13.99" y="-0.57" />
-<vertex x="14.10" y="-1.06" />
-<vertex x="14.18" y="-1.11" />
-<vertex x="14.32" y="-1.18" />
-<vertex x="14.54" y="-1.17" />
-<vertex x="14.66" y="-1.11" />
-<vertex x="14.70" y="-0.97" />
-<vertex x="14.70" y="1.08" />
-<vertex x="14.67" y="1.24" />
-<vertex x="14.53" y="1.31" />
-<vertex x="14.35" y="1.32" />
-<vertex x="14.19" y="1.29" />
-<vertex x="14.16" y="1.23" />
-</polygon>
-</package>
-<package name="MADE_IN_THE_USA321857">
-<polygon width="0.005" layer="21">
-<vertex x="-9.69" y="0.88" />
-<vertex x="-9.78" y="0.95" />
-<vertex x="-9.95" y="0.96" />
-<vertex x="-10.07" y="0.91" />
-<vertex x="-10.18" y="0.78" />
-<vertex x="-10.32" y="0.60" />
-<vertex x="-10.62" y="0.21" />
-<vertex x="-10.73" y="0.15" />
-<vertex x="-11.21" y="0.81" />
-<vertex x="-11.29" y="0.91" />
-<vertex x="-11.42" y="0.96" />
-<vertex x="-11.58" y="0.95" />
-<vertex x="-11.68" y="0.90" />
-<vertex x="-11.71" y="0.78" />
-<vertex x="-11.71" y="-0.72" />
-<vertex x="-11.70" y="-0.85" />
-<vertex x="-11.62" y="-0.93" />
-<vertex x="-11.46" y="-0.95" />
-<vertex x="-11.32" y="-0.91" />
-<vertex x="-11.26" y="-0.81" />
-<vertex x="-11.26" y="0.14" />
-<vertex x="-11.23" y="0.11" />
-<vertex x="-11.14" y="-0.02" />
-<vertex x="-10.88" y="-0.37" />
-<vertex x="-10.77" y="-0.45" />
-<vertex x="-10.64" y="-0.45" />
-<vertex x="-10.52" y="-0.38" />
-<vertex x="-10.46" y="-0.30" />
-<vertex x="-10.27" y="-0.04" />
-<vertex x="-10.13" y="0.16" />
-<vertex x="-10.13" y="-0.65" />
-<vertex x="-10.12" y="-0.80" />
-<vertex x="-10.07" y="-0.90" />
-<vertex x="-9.95" y="-0.95" />
-<vertex x="-9.80" y="-0.94" />
-<vertex x="-9.70" y="-0.89" />
-<vertex x="-9.67" y="-0.75" />
-<vertex x="-9.67" y="0.76" />
-<vertex x="-9.69" y="0.88" />
-<vertex x="-9.69" y="0.88" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-8.39" y="0.30" />
-<vertex x="-8.50" y="0.38" />
-<vertex x="-8.63" y="0.42" />
-<vertex x="-8.76" y="0.41" />
-<vertex x="-8.89" y="0.38" />
-<vertex x="-9.00" y="0.31" />
-<vertex x="-9.11" y="0.21" />
-<vertex x="-9.20" y="0.10" />
-<vertex x="-9.26" y="-0.01" />
-<vertex x="-9.29" y="-0.14" />
-<vertex x="-9.30" y="-0.28" />
-<vertex x="-9.28" y="-0.41" />
-<vertex x="-9.24" y="-0.54" />
-<vertex x="-9.18" y="-0.66" />
-<vertex x="-9.08" y="-0.77" />
-<vertex x="-8.97" y="-0.86" />
-<vertex x="-8.85" y="-0.92" />
-<vertex x="-8.73" y="-0.95" />
-<vertex x="-8.59" y="-0.94" />
-<vertex x="-8.47" y="-0.89" />
-<vertex x="-8.37" y="-0.81" />
-<vertex x="-8.32" y="-0.91" />
-<vertex x="-8.20" y="-0.94" />
-<vertex x="-8.04" y="-0.94" />
-<vertex x="-7.94" y="-0.87" />
-<vertex x="-7.92" y="-0.74" />
-<vertex x="-7.92" y="0.07" />
-<vertex x="-7.92" y="0.21" />
-<vertex x="-7.94" y="0.34" />
-<vertex x="-8.04" y="0.41" />
-<vertex x="-8.19" y="0.42" />
-<vertex x="-8.33" y="0.38" />
-<vertex x="-8.38" y="0.27" />
-<vertex x="-8.53" y="-0.04" />
-<vertex x="-8.43" y="-0.13" />
-<vertex x="-8.39" y="-0.26" />
-<vertex x="-8.43" y="-0.38" />
-<vertex x="-8.52" y="-0.47" />
-<vertex x="-8.66" y="-0.48" />
-<vertex x="-8.78" y="-0.43" />
-<vertex x="-8.85" y="-0.35" />
-<vertex x="-8.85" y="-0.22" />
-<vertex x="-8.78" y="-0.10" />
-<vertex x="-8.67" y="-0.03" />
-<vertex x="-8.53" y="-0.04" />
-<vertex x="-8.38" y="0.27" />
-<vertex x="-8.39" y="0.30" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-6.56" y="0.99" />
-<vertex x="-6.58" y="0.86" />
-<vertex x="-6.58" y="0.31" />
-<vertex x="-6.65" y="0.35" />
-<vertex x="-6.77" y="0.41" />
-<vertex x="-6.91" y="0.42" />
-<vertex x="-7.04" y="0.40" />
-<vertex x="-7.16" y="0.34" />
-<vertex x="-7.27" y="0.26" />
-<vertex x="-7.37" y="0.15" />
-<vertex x="-7.43" y="0.03" />
-<vertex x="-7.48" y="-0.09" />
-<vertex x="-7.50" y="-0.23" />
-<vertex x="-7.49" y="-0.36" />
-<vertex x="-7.46" y="-0.49" />
-<vertex x="-7.40" y="-0.61" />
-<vertex x="-7.32" y="-0.72" />
-<vertex x="-7.22" y="-0.83" />
-<vertex x="-7.10" y="-0.90" />
-<vertex x="-6.98" y="-0.94" />
-<vertex x="-6.85" y="-0.95" />
-<vertex x="-6.71" y="-0.92" />
-<vertex x="-6.61" y="-0.84" />
-<vertex x="-6.70" y="-0.46" />
-<vertex x="-6.83" y="-0.49" />
-<vertex x="-6.92" y="-0.49" />
-<vertex x="-7.01" y="-0.39" />
-<vertex x="-7.05" y="-0.26" />
-<vertex x="-7.01" y="-0.14" />
-<vertex x="-6.90" y="-0.06" />
-<vertex x="-6.77" y="-0.04" />
-<vertex x="-6.65" y="-0.11" />
-<vertex x="-6.59" y="-0.23" />
-<vertex x="-6.61" y="-0.36" />
-<vertex x="-6.70" y="-0.46" />
-<vertex x="-6.60" y="-0.84" />
-<vertex x="-6.55" y="-0.89" />
-<vertex x="-6.43" y="-0.95" />
-<vertex x="-6.26" y="-0.94" />
-<vertex x="-6.16" y="-0.89" />
-<vertex x="-6.13" y="-0.77" />
-<vertex x="-6.13" y="0.87" />
-<vertex x="-6.15" y="0.99" />
-<vertex x="-6.26" y="1.05" />
-<vertex x="-6.41" y="1.06" />
-<vertex x="-6.54" y="1.03" />
-<vertex x="-6.56" y="0.99" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-4.38" y="-0.22" />
-<vertex x="-4.38" y="-0.08" />
-<vertex x="-4.40" y="0.05" />
-<vertex x="-4.44" y="0.18" />
-<vertex x="-4.52" y="0.29" />
-<vertex x="-4.62" y="0.37" />
-<vertex x="-4.74" y="0.43" />
-<vertex x="-4.87" y="0.47" />
-<vertex x="-5.02" y="0.47" />
-<vertex x="-5.16" y="0.46" />
-<vertex x="-5.29" y="0.42" />
-<vertex x="-5.41" y="0.37" />
-<vertex x="-5.52" y="0.29" />
-<vertex x="-5.60" y="0.19" />
-<vertex x="-5.67" y="0.08" />
-<vertex x="-5.71" y="-0.05" />
-<vertex x="-5.74" y="-0.19" />
-<vertex x="-5.73" y="-0.33" />
-<vertex x="-5.71" y="-0.46" />
-<vertex x="-5.66" y="-0.58" />
-<vertex x="-5.59" y="-0.70" />
-<vertex x="-5.50" y="-0.80" />
-<vertex x="-5.38" y="-0.87" />
-<vertex x="-5.25" y="-0.92" />
-<vertex x="-5.12" y="-0.94" />
-<vertex x="-4.96" y="-0.95" />
-<vertex x="-4.77" y="-0.93" />
-<vertex x="-4.62" y="-0.90" />
-<vertex x="-4.52" y="-0.85" />
-<vertex x="-4.46" y="-0.78" />
-<vertex x="-4.45" y="-0.68" />
-<vertex x="-4.53" y="-0.54" />
-<vertex x="-4.63" y="-0.49" />
-<vertex x="-4.76" y="-0.53" />
-<vertex x="-4.88" y="-0.55" />
-<vertex x="-5.03" y="-0.55" />
-<vertex x="-5.16" y="-0.51" />
-<vertex x="-5.25" y="-0.41" />
-<vertex x="-5.15" y="-0.38" />
-<vertex x="-5.20" y="-0.15" />
-<vertex x="-5.23" y="-0.08" />
-<vertex x="-5.13" y="0.03" />
-<vertex x="-5.01" y="0.07" />
-<vertex x="-4.88" y="0.03" />
-<vertex x="-4.83" y="-0.09" />
-<vertex x="-4.92" y="-0.15" />
-<vertex x="-5.20" y="-0.15" />
-<vertex x="-5.15" y="-0.38" />
-<vertex x="-4.74" y="-0.38" />
-<vertex x="-4.60" y="-0.38" />
-<vertex x="-4.48" y="-0.33" />
-<vertex x="-4.38" y="-0.23" />
-<vertex x="-4.38" y="-0.22" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-3.26" y="0.09" />
-<vertex x="-3.26" y="-0.73" />
-<vertex x="-3.25" y="-0.85" />
-<vertex x="-3.17" y="-0.93" />
-<vertex x="-2.99" y="-0.95" />
-<vertex x="-2.86" y="-0.91" />
-<vertex x="-2.81" y="-0.81" />
-<vertex x="-2.81" y="0.15" />
-<vertex x="-2.81" y="0.29" />
-<vertex x="-2.87" y="0.39" />
-<vertex x="-3.01" y="0.42" />
-<vertex x="-3.17" y="0.40" />
-<vertex x="-3.25" y="0.32" />
-<vertex x="-3.26" y="0.19" />
-<vertex x="-3.26" y="0.09" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-2.85" y="0.64" />
-<vertex x="-2.81" y="0.76" />
-<vertex x="-2.81" y="0.91" />
-<vertex x="-2.85" y="1.01" />
-<vertex x="-2.98" y="1.05" />
-<vertex x="-3.16" y="1.04" />
-<vertex x="-3.24" y="0.98" />
-<vertex x="-3.26" y="0.85" />
-<vertex x="-3.25" y="0.72" />
-<vertex x="-3.16" y="0.62" />
-<vertex x="-3.02" y="0.61" />
-<vertex x="-2.89" y="0.63" />
-<vertex x="-2.85" y="0.64" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="-1.65" y="0.42" />
-<vertex x="-1.78" y="0.39" />
-<vertex x="-1.89" y="0.32" />
-<vertex x="-1.96" y="0.31" />
-<vertex x="-2.02" y="0.40" />
-<vertex x="-2.17" y="0.42" />
-<vertex x="-2.33" y="0.40" />
-<vertex x="-2.40" y="0.31" />
-<vertex x="-2.40" y="0.18" />
-<vertex x="-2.40" y="-0.78" />
-<vertex x="-2.37" y="-0.90" />
-<vertex x="-2.26" y="-0.94" />
-<vertex x="-2.08" y="-0.94" />
-<vertex x="-1.99" y="-0.88" />
-<vertex x="-1.96" y="-0.76" />
-<vertex x="-1.96" y="-0.35" />
-<vertex x="-1.95" y="-0.21" />
-<vertex x="-1.89" y="-0.09" />
-<vertex x="-1.77" y="-0.03" />
-<vertex x="-1.63" y="-0.04" />
-<vertex x="-1.53" y="-0.12" />
-<vertex x="-1.50" y="-0.25" />
-<vertex x="-1.50" y="-0.66" />
-<vertex x="-1.49" y="-0.80" />
-<vertex x="-1.45" y="-0.90" />
-<vertex x="-1.32" y="-0.95" />
-<vertex x="-1.15" y="-0.94" />
-<vertex x="-1.06" y="-0.87" />
-<vertex x="-1.04" y="-0.74" />
-<vertex x="-1.04" y="-0.33" />
-<vertex x="-1.04" y="-0.19" />
-<vertex x="-1.06" y="-0.05" />
-<vertex x="-1.11" y="0.07" />
-<vertex x="-1.18" y="0.18" />
-<vertex x="-1.27" y="0.28" />
-<vertex x="-1.39" y="0.36" />
-<vertex x="-1.51" y="0.40" />
-<vertex x="-1.65" y="0.42" />
-<vertex x="-1.65" y="0.42" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="0.83" y="-0.04" />
-<vertex x="0.96" y="-0.02" />
-<vertex x="1.04" y="0.05" />
-<vertex x="1.06" y="0.21" />
-<vertex x="1.03" y="0.35" />
-<vertex x="0.94" y="0.41" />
-<vertex x="0.81" y="0.42" />
-<vertex x="0.67" y="0.41" />
-<vertex x="0.67" y="0.68" />
-<vertex x="0.65" y="0.81" />
+<vertex x="0.75" y="0.59" />
+<vertex x="0.67" y="0.74" />
 <vertex x="0.57" y="0.88" />
-<vertex x="0.40" y="0.89" />
-<vertex x="0.27" y="0.85" />
-<vertex x="0.22" y="0.75" />
-<vertex x="0.22" y="0.48" />
-<vertex x="0.16" y="0.42" />
-<vertex x="0.04" y="0.38" />
-<vertex x="-0.01" y="0.28" />
-<vertex x="-0.02" y="0.12" />
-<vertex x="0.02" y="0.00" />
-<vertex x="0.22" y="-0.07" />
-<vertex x="0.22" y="-0.34" />
-<vertex x="0.23" y="-0.49" />
-<vertex x="0.25" y="-0.64" />
-<vertex x="0.30" y="-0.75" />
-<vertex x="0.37" y="-0.84" />
-<vertex x="0.47" y="-0.90" />
-<vertex x="0.60" y="-0.93" />
-<vertex x="0.75" y="-0.95" />
-<vertex x="0.89" y="-0.93" />
-<vertex x="0.97" y="-0.87" />
-<vertex x="1.00" y="-0.71" />
-<vertex x="0.97" y="-0.57" />
-<vertex x="0.86" y="-0.52" />
-<vertex x="0.72" y="-0.51" />
-<vertex x="0.67" y="-0.40" />
-<vertex x="0.67" y="-0.13" />
-<vertex x="0.70" y="-0.03" />
-<vertex x="0.83" y="-0.04" />
-<vertex x="0.83" y="-0.04" />
+<vertex x="0.45" y="0.99" />
+<vertex x="0.30" y="1.10" />
+<vertex x="0.15" y="1.16" />
+<vertex x="-0.01" y="1.20" />
+<vertex x="-0.17" y="1.20" />
+<vertex x="-0.68" y="1.20" />
+<vertex x="-0.87" y="1.20" />
+<vertex x="-1.02" y="1.15" />
+<vertex x="-1.08" y="1.01" />
+<vertex x="-1.08" y="-0.84" />
+<vertex x="-1.07" y="-1.02" />
+<vertex x="-1.01" y="-1.14" />
+<vertex x="-0.84" y="-1.18" />
+<vertex x="-0.63" y="-1.17" />
+<vertex x="-0.53" y="-1.08" />
+<vertex x="-0.50" y="-0.92" />
+<vertex x="-0.50" y="-0.58" />
+<vertex x="-0.38" y="-0.52" />
+<vertex x="-0.05" y="-0.52" />
+<vertex x="0.11" y="-0.50" />
+<vertex x="0.26" y="-0.44" />
+<vertex x="0.01" y="0.05" />
+<vertex x="-0.50" y="0.05" />
+<vertex x="-0.50" y="0.22" />
+<vertex x="-0.50" y="0.55" />
+<vertex x="-0.40" y="0.63" />
+<vertex x="-0.07" y="0.63" />
+<vertex x="0.09" y="0.56" />
+<vertex x="0.18" y="0.43" />
+<vertex x="0.19" y="0.25" />
+<vertex x="0.10" y="0.12" />
+<vertex x="0.01" y="0.05" />
+<vertex x="0.27" y="-0.44" />
+<vertex x="0.42" y="-0.36" />
+<vertex x="0.55" y="-0.25" />
+<vertex x="0.65" y="-0.11" />
+<vertex x="0.72" y="0.04" />
+<vertex x="0.76" y="0.20" />
+<vertex x="0.77" y="0.37" />
+<vertex x="0.77" y="0.54" />
+<vertex x="0.75" y="0.59" />
 </polygon>
 <polygon width="0.005" layer="21">
-<vertex x="2.30" y="0.42" />
-<vertex x="2.17" y="0.40" />
-<vertex x="2.06" y="0.33" />
-<vertex x="1.98" y="0.30" />
-<vertex x="1.98" y="0.85" />
-<vertex x="1.97" y="0.98" />
-<vertex x="1.88" y="1.05" />
-<vertex x="1.70" y="1.05" />
-<vertex x="1.58" y="1.01" />
-<vertex x="1.54" y="0.90" />
-<vertex x="1.54" y="-0.74" />
-<vertex x="1.55" y="-0.86" />
-<vertex x="1.64" y="-0.94" />
-<vertex x="1.82" y="-0.95" />
-<vertex x="1.94" y="-0.90" />
-<vertex x="1.98" y="-0.80" />
-<vertex x="1.98" y="-0.25" />
-<vertex x="2.03" y="-0.13" />
-<vertex x="2.14" y="-0.05" />
-<vertex x="2.28" y="-0.05" />
-<vertex x="2.40" y="-0.11" />
-<vertex x="2.44" y="-0.23" />
-<vertex x="2.45" y="-0.79" />
-<vertex x="2.48" y="-0.90" />
-<vertex x="2.60" y="-0.94" />
-<vertex x="2.78" y="-0.94" />
-<vertex x="2.87" y="-0.88" />
-<vertex x="2.89" y="-0.76" />
-<vertex x="2.89" y="-0.34" />
-<vertex x="2.89" y="-0.20" />
-<vertex x="2.87" y="-0.06" />
-<vertex x="2.82" y="0.07" />
-<vertex x="2.76" y="0.18" />
-<vertex x="2.67" y="0.28" />
-<vertex x="2.56" y="0.36" />
-<vertex x="2.43" y="0.40" />
-<vertex x="2.30" y="0.42" />
-<vertex x="2.30" y="0.42" />
+<vertex x="2.53" y="1.27" />
+<vertex x="2.19" y="1.27" />
+<vertex x="2.02" y="1.26" />
+<vertex x="1.86" y="1.23" />
+<vertex x="1.69" y="1.16" />
+<vertex x="1.56" y="1.08" />
+<vertex x="1.44" y="0.95" />
+<vertex x="1.35" y="0.78" />
+<vertex x="1.33" y="0.65" />
+<vertex x="1.40" y="0.51" />
+<vertex x="1.56" y="0.41" />
+<vertex x="1.71" y="0.39" />
+<vertex x="1.84" y="0.49" />
+<vertex x="1.93" y="0.63" />
+<vertex x="2.09" y="0.70" />
+<vertex x="2.26" y="0.70" />
+<vertex x="2.39" y="0.59" />
+<vertex x="2.39" y="0.46" />
+<vertex x="2.25" y="0.39" />
+<vertex x="2.05" y="0.38" />
+<vertex x="1.92" y="0.33" />
+<vertex x="1.87" y="0.16" />
+<vertex x="1.89" y="-0.05" />
+<vertex x="1.98" y="-0.15" />
+<vertex x="2.13" y="-0.18" />
+<vertex x="2.31" y="-0.21" />
+<vertex x="2.44" y="-0.31" />
+<vertex x="2.45" y="-0.47" />
+<vertex x="2.34" y="-0.58" />
+<vertex x="2.18" y="-0.62" />
+<vertex x="2.00" y="-0.61" />
+<vertex x="1.85" y="-0.52" />
+<vertex x="1.78" y="-0.36" />
+<vertex x="1.68" y="-0.27" />
+<vertex x="1.48" y="-0.26" />
+<vertex x="1.30" y="-0.30" />
+<vertex x="1.23" y="-0.41" />
+<vertex x="1.24" y="-0.56" />
+<vertex x="1.30" y="-0.73" />
+<vertex x="1.40" y="-0.88" />
+<vertex x="1.51" y="-0.99" />
+<vertex x="1.65" y="-1.08" />
+<vertex x="1.80" y="-1.14" />
+<vertex x="1.96" y="-1.18" />
+<vertex x="2.15" y="-1.19" />
+<vertex x="2.32" y="-1.17" />
+<vertex x="2.49" y="-1.13" />
+<vertex x="2.64" y="-1.06" />
+<vertex x="2.77" y="-0.97" />
+<vertex x="2.89" y="-0.85" />
+<vertex x="2.97" y="-0.71" />
+<vertex x="3.02" y="-0.55" />
+<vertex x="3.04" y="-0.38" />
+<vertex x="3.01" y="-0.21" />
+<vertex x="2.92" y="-0.07" />
+<vertex x="2.80" y="0.06" />
+<vertex x="2.80" y="0.15" />
+<vertex x="2.91" y="0.26" />
+<vertex x="2.98" y="0.41" />
+<vertex x="2.99" y="0.58" />
+<vertex x="2.95" y="0.74" />
+<vertex x="2.88" y="0.89" />
+<vertex x="2.77" y="1.03" />
+<vertex x="2.53" y="1.27" />
+<vertex x="2.53" y="1.27" />
 </polygon>
 <polygon width="0.005" layer="21">
-<vertex x="4.61" y="-0.22" />
-<vertex x="4.61" y="-0.08" />
-<vertex x="4.60" y="0.05" />
-<vertex x="4.55" y="0.18" />
-<vertex x="4.47" y="0.29" />
-<vertex x="4.37" y="0.37" />
-<vertex x="4.26" y="0.43" />
-<vertex x="4.13" y="0.47" />
-<vertex x="3.98" y="0.47" />
-<vertex x="3.83" y="0.46" />
-<vertex x="3.70" y="0.42" />
-<vertex x="3.59" y="0.37" />
-<vertex x="3.48" y="0.29" />
-<vertex x="3.39" y="0.19" />
-<vertex x="3.32" y="0.08" />
-<vertex x="3.28" y="-0.05" />
-<vertex x="3.26" y="-0.19" />
-<vertex x="3.26" y="-0.33" />
-<vertex x="3.29" y="-0.46" />
-<vertex x="3.34" y="-0.58" />
-<vertex x="3.41" y="-0.70" />
-<vertex x="3.50" y="-0.80" />
-<vertex x="3.62" y="-0.87" />
-<vertex x="3.74" y="-0.92" />
-<vertex x="3.87" y="-0.94" />
-<vertex x="4.03" y="-0.95" />
-<vertex x="4.23" y="-0.93" />
-<vertex x="4.38" y="-0.90" />
-<vertex x="4.48" y="-0.85" />
-<vertex x="4.53" y="-0.78" />
-<vertex x="4.54" y="-0.68" />
-<vertex x="4.47" y="-0.54" />
-<vertex x="4.37" y="-0.49" />
-<vertex x="4.24" y="-0.53" />
-<vertex x="4.12" y="-0.55" />
-<vertex x="3.97" y="-0.55" />
-<vertex x="3.84" y="-0.51" />
-<vertex x="3.75" y="-0.41" />
-<vertex x="3.85" y="-0.38" />
-<vertex x="3.80" y="-0.15" />
-<vertex x="3.76" y="-0.08" />
-<vertex x="3.87" y="0.03" />
-<vertex x="3.99" y="0.07" />
-<vertex x="4.12" y="0.03" />
-<vertex x="4.16" y="-0.09" />
-<vertex x="4.07" y="-0.15" />
-<vertex x="3.80" y="-0.15" />
-<vertex x="3.85" y="-0.38" />
-<vertex x="4.26" y="-0.38" />
-<vertex x="4.39" y="-0.38" />
-<vertex x="4.51" y="-0.33" />
-<vertex x="4.61" y="-0.23" />
-<vertex x="4.61" y="-0.22" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="7.01" y="0.96" />
-<vertex x="6.96" y="0.85" />
-<vertex x="6.96" y="0.70" />
-<vertex x="6.96" y="0.02" />
-<vertex x="6.95" y="-0.12" />
-<vertex x="6.91" y="-0.25" />
-<vertex x="6.85" y="-0.36" />
-<vertex x="6.75" y="-0.45" />
-<vertex x="6.62" y="-0.49" />
-<vertex x="6.48" y="-0.48" />
-<vertex x="6.35" y="-0.43" />
-<vertex x="6.28" y="-0.32" />
-<vertex x="6.22" y="-0.20" />
-<vertex x="6.20" y="-0.06" />
-<vertex x="6.20" y="0.75" />
-<vertex x="6.18" y="0.89" />
-<vertex x="6.09" y="0.98" />
-<vertex x="5.95" y="0.99" />
-<vertex x="5.82" y="0.97" />
-<vertex x="5.74" y="0.87" />
-<vertex x="5.74" y="0.73" />
-<vertex x="5.74" y="-0.08" />
-<vertex x="5.75" y="-0.22" />
-<vertex x="5.79" y="-0.35" />
-<vertex x="5.83" y="-0.48" />
-<vertex x="5.90" y="-0.59" />
-<vertex x="5.98" y="-0.70" />
-<vertex x="6.08" y="-0.79" />
-<vertex x="6.20" y="-0.86" />
-<vertex x="6.32" y="-0.91" />
-<vertex x="6.46" y="-0.94" />
-<vertex x="6.60" y="-0.95" />
-<vertex x="6.73" y="-0.93" />
-<vertex x="6.86" y="-0.90" />
-<vertex x="6.98" y="-0.84" />
-<vertex x="7.10" y="-0.76" />
-<vertex x="7.19" y="-0.66" />
-<vertex x="7.27" y="-0.55" />
-<vertex x="7.33" y="-0.43" />
-<vertex x="7.38" y="-0.31" />
-<vertex x="7.41" y="-0.18" />
-<vertex x="7.42" y="-0.04" />
-<vertex x="7.42" y="0.78" />
-<vertex x="7.39" y="0.91" />
-<vertex x="7.28" y="0.98" />
-<vertex x="7.14" y="0.99" />
-<vertex x="7.01" y="0.96" />
-<vertex x="7.01" y="0.96" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="7.85" y="-0.65" />
-<vertex x="7.93" y="-0.74" />
-<vertex x="8.05" y="-0.83" />
-<vertex x="8.16" y="-0.89" />
-<vertex x="8.29" y="-0.93" />
-<vertex x="8.43" y="-0.95" />
-<vertex x="8.57" y="-0.94" />
-<vertex x="8.70" y="-0.92" />
-<vertex x="8.82" y="-0.87" />
-<vertex x="8.94" y="-0.80" />
-<vertex x="9.03" y="-0.71" />
-<vertex x="9.11" y="-0.60" />
-<vertex x="9.15" y="-0.47" />
-<vertex x="9.16" y="-0.33" />
-<vertex x="9.15" y="-0.19" />
-<vertex x="9.11" y="-0.07" />
-<vertex x="9.04" y="0.05" />
-<vertex x="8.94" y="0.13" />
-<vertex x="8.82" y="0.18" />
-<vertex x="8.68" y="0.22" />
-<vertex x="8.42" y="0.29" />
-<vertex x="8.30" y="0.35" />
-<vertex x="8.27" y="0.48" />
-<vertex x="8.35" y="0.57" />
-<vertex x="8.49" y="0.60" />
-<vertex x="8.61" y="0.55" />
-<vertex x="8.73" y="0.47" />
-<vertex x="8.85" y="0.45" />
-<vertex x="8.95" y="0.52" />
-<vertex x="9.04" y="0.66" />
-<vertex x="9.04" y="0.76" />
-<vertex x="8.94" y="0.86" />
-<vertex x="8.85" y="0.93" />
-<vertex x="8.71" y="0.98" />
-<vertex x="8.58" y="1.01" />
-<vertex x="8.44" y="1.02" />
-<vertex x="8.29" y="1.00" />
-<vertex x="8.16" y="0.97" />
-<vertex x="8.05" y="0.91" />
-<vertex x="7.95" y="0.82" />
-<vertex x="7.87" y="0.71" />
-<vertex x="7.83" y="0.59" />
-<vertex x="7.81" y="0.45" />
-<vertex x="7.82" y="0.31" />
-<vertex x="7.86" y="0.19" />
-<vertex x="7.94" y="0.07" />
-<vertex x="8.04" y="-0.01" />
-<vertex x="8.16" y="-0.07" />
-<vertex x="8.29" y="-0.12" />
-<vertex x="8.42" y="-0.15" />
-<vertex x="8.55" y="-0.18" />
-<vertex x="8.67" y="-0.24" />
-<vertex x="8.70" y="-0.37" />
-<vertex x="8.64" y="-0.47" />
-<vertex x="8.52" y="-0.51" />
-<vertex x="8.38" y="-0.49" />
-<vertex x="8.26" y="-0.42" />
-<vertex x="8.14" y="-0.31" />
-<vertex x="8.04" y="-0.27" />
-<vertex x="7.91" y="-0.31" />
-<vertex x="7.81" y="-0.43" />
-<vertex x="7.79" y="-0.53" />
-<vertex x="7.85" y="-0.65" />
-<vertex x="7.85" y="-0.65" />
-</polygon>
-<polygon width="0.005" layer="21">
-<vertex x="10.66" y="0.93" />
-<vertex x="10.54" y="0.99" />
-<vertex x="10.41" y="0.97" />
-<vertex x="10.30" y="0.88" />
-<vertex x="10.24" y="0.76" />
-<vertex x="9.59" y="-0.59" />
-<vertex x="9.54" y="-0.72" />
-<vertex x="9.59" y="-0.83" />
-<vertex x="9.73" y="-0.91" />
-<vertex x="9.85" y="-0.95" />
-<vertex x="9.96" y="-0.88" />
-<vertex x="10.02" y="-0.76" />
-<vertex x="10.08" y="-0.64" />
-<vertex x="10.14" y="-0.51" />
-<vertex x="10.82" y="-0.51" />
-<vertex x="10.66" y="-0.14" />
-<vertex x="10.39" y="-0.14" />
-<vertex x="10.36" y="-0.07" />
-<vertex x="10.47" y="0.18" />
-<vertex x="10.49" y="0.23" />
-<vertex x="10.61" y="-0.02" />
-<vertex x="10.66" y="-0.13" />
-<vertex x="10.83" y="-0.52" />
-<vertex x="10.90" y="-0.61" />
-<vertex x="10.96" y="-0.73" />
-<vertex x="11.03" y="-0.86" />
-<vertex x="11.12" y="-0.94" />
-<vertex x="11.24" y="-0.93" />
-<vertex x="11.39" y="-0.85" />
-<vertex x="11.45" y="-0.75" />
-<vertex x="11.43" y="-0.63" />
-<vertex x="11.37" y="-0.50" />
-<vertex x="10.71" y="0.85" />
-<vertex x="10.66" y="0.93" />
+<vertex x="5.11" y="-0.61" />
+<vertex x="4.60" y="-0.61" />
+<vertex x="4.57" y="-0.57" />
+<vertex x="4.70" y="-0.51" />
+<vertex x="4.84" y="-0.42" />
+<vertex x="4.99" y="-0.30" />
+<vertex x="5.11" y="-0.18" />
+<vertex x="5.20" y="-0.04" />
+<vertex x="5.26" y="0.12" />
+<vertex x="5.29" y="0.28" />
+<vertex x="5.29" y="0.46" />
+<vertex x="5.25" y="0.62" />
+<vertex x="5.19" y="0.77" />
+<vertex x="5.10" y="0.91" />
+<vertex x="4.98" y="1.04" />
+<vertex x="4.85" y="1.13" />
+<vertex x="4.70" y="1.20" />
+<vertex x="4.54" y="1.23" />
+<vertex x="4.35" y="1.23" />
+<vertex x="4.18" y="1.21" />
+<vertex x="4.03" y="1.15" />
+<vertex x="3.89" y="1.07" />
+<vertex x="3.77" y="0.95" />
+<vertex x="3.67" y="0.81" />
+<vertex x="3.60" y="0.66" />
+<vertex x="3.56" y="0.50" />
+<vertex x="3.55" y="0.32" />
+<vertex x="3.57" y="0.17" />
+<vertex x="3.68" y="0.09" />
+<vertex x="3.89" y="0.07" />
+<vertex x="4.05" y="0.12" />
+<vertex x="4.12" y="0.24" />
+<vertex x="4.14" y="0.41" />
+<vertex x="4.20" y="0.56" />
+<vertex x="4.34" y="0.65" />
+<vertex x="4.51" y="0.65" />
+<vertex x="4.65" y="0.56" />
+<vertex x="4.72" y="0.41" />
+<vertex x="4.69" y="0.26" />
+<vertex x="4.59" y="0.11" />
+<vertex x="4.47" y="-0.01" />
+<vertex x="4.33" y="-0.11" />
+<vertex x="3.89" y="-0.36" />
+<vertex x="3.76" y="-0.47" />
+<vertex x="3.65" y="-0.59" />
+<vertex x="3.57" y="-0.75" />
+<vertex x="3.55" y="-0.91" />
+<vertex x="3.60" y="-1.06" />
+<vertex x="3.73" y="-1.17" />
+<vertex x="3.90" y="-1.19" />
+<vertex x="5.07" y="-1.19" />
+<vertex x="5.25" y="-1.17" />
+<vertex x="5.37" y="-1.09" />
+<vertex x="5.39" y="-0.92" />
+<vertex x="5.38" y="-0.75" />
+<vertex x="5.28" y="-0.63" />
+<vertex x="5.11" y="-0.61" />
+<vertex x="5.11" y="-0.61" />
 </polygon>
 </package>
-<package name="7#15V321858">
+<package name="MADE_IN32321857">
+<polygon width="0.005" layer="21">
+<vertex x="-3.03" y="0.66" />
+<vertex x="-3.10" y="0.71" />
+<vertex x="-3.22" y="0.72" />
+<vertex x="-3.32" y="0.69" />
+<vertex x="-3.40" y="0.59" />
+<vertex x="-3.50" y="0.45" />
+<vertex x="-3.73" y="0.15" />
+<vertex x="-3.81" y="0.11" />
+<vertex x="-4.17" y="0.60" />
+<vertex x="-4.23" y="0.68" />
+<vertex x="-4.33" y="0.72" />
+<vertex x="-4.45" y="0.72" />
+<vertex x="-4.52" y="0.68" />
+<vertex x="-4.55" y="0.58" />
+<vertex x="-4.55" y="-0.54" />
+<vertex x="-4.54" y="-0.64" />
+<vertex x="-4.48" y="-0.70" />
+<vertex x="-4.35" y="-0.71" />
+<vertex x="-4.25" y="-0.68" />
+<vertex x="-4.21" y="-0.61" />
+<vertex x="-4.21" y="0.10" />
+<vertex x="-4.19" y="0.09" />
+<vertex x="-3.92" y="-0.27" />
+<vertex x="-3.84" y="-0.33" />
+<vertex x="-3.74" y="-0.34" />
+<vertex x="-3.65" y="-0.29" />
+<vertex x="-3.60" y="-0.22" />
+<vertex x="-3.36" y="0.12" />
+<vertex x="-3.36" y="-0.49" />
+<vertex x="-3.36" y="-0.60" />
+<vertex x="-3.31" y="-0.68" />
+<vertex x="-3.22" y="-0.71" />
+<vertex x="-3.11" y="-0.71" />
+<vertex x="-3.04" y="-0.66" />
+<vertex x="-3.01" y="-0.56" />
+<vertex x="-3.01" y="0.57" />
+<vertex x="-3.03" y="0.66" />
+<vertex x="-3.03" y="0.66" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="-1.92" y="0.70" />
+<vertex x="-2.01" y="0.74" />
+<vertex x="-2.11" y="0.73" />
+<vertex x="-2.19" y="0.66" />
+<vertex x="-2.23" y="0.57" />
+<vertex x="-2.73" y="-0.44" />
+<vertex x="-2.76" y="-0.54" />
+<vertex x="-2.73" y="-0.62" />
+<vertex x="-2.62" y="-0.68" />
+<vertex x="-2.53" y="-0.71" />
+<vertex x="-2.45" y="-0.66" />
+<vertex x="-2.40" y="-0.57" />
+<vertex x="-2.31" y="-0.39" />
+<vertex x="-1.80" y="-0.39" />
+<vertex x="-1.92" y="-0.10" />
+<vertex x="-2.12" y="-0.10" />
+<vertex x="-2.15" y="-0.05" />
+<vertex x="-2.06" y="0.14" />
+<vertex x="-2.05" y="0.17" />
+<vertex x="-1.96" y="-0.01" />
+<vertex x="-1.92" y="-0.10" />
+<vertex x="-1.80" y="-0.39" />
+<vertex x="-1.74" y="-0.46" />
+<vertex x="-1.65" y="-0.65" />
+<vertex x="-1.58" y="-0.71" />
+<vertex x="-1.48" y="-0.70" />
+<vertex x="-1.37" y="-0.64" />
+<vertex x="-1.33" y="-0.56" />
+<vertex x="-1.35" y="-0.47" />
+<vertex x="-1.39" y="-0.37" />
+<vertex x="-1.88" y="0.64" />
+<vertex x="-1.92" y="0.70" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="-0.87" y="0.72" />
+<vertex x="-0.95" y="0.68" />
+<vertex x="-0.97" y="0.59" />
+<vertex x="-0.97" y="-0.53" />
+<vertex x="-0.96" y="-0.64" />
+<vertex x="-0.90" y="-0.70" />
+<vertex x="-0.79" y="-0.71" />
+<vertex x="-0.48" y="-0.71" />
+<vertex x="-0.38" y="-0.71" />
+<vertex x="-0.28" y="-0.69" />
+<vertex x="-0.19" y="-0.66" />
+<vertex x="-0.30" y="-0.37" />
+<vertex x="-0.60" y="-0.37" />
+<vertex x="-0.62" y="-0.28" />
+<vertex x="-0.62" y="0.33" />
+<vertex x="-0.57" y="0.38" />
+<vertex x="-0.47" y="0.38" />
+<vertex x="-0.37" y="0.37" />
+<vertex x="-0.28" y="0.34" />
+<vertex x="-0.19" y="0.28" />
+<vertex x="-0.13" y="0.20" />
+<vertex x="-0.09" y="0.11" />
+<vertex x="-0.08" y="0.01" />
+<vertex x="-0.09" y="-0.10" />
+<vertex x="-0.13" y="-0.19" />
+<vertex x="-0.19" y="-0.26" />
+<vertex x="-0.27" y="-0.34" />
+<vertex x="-0.30" y="-0.37" />
+<vertex x="-0.18" y="-0.66" />
+<vertex x="-0.10" y="-0.62" />
+<vertex x="-0.01" y="-0.56" />
+<vertex x="0.07" y="-0.49" />
+<vertex x="0.13" y="-0.41" />
+<vertex x="0.19" y="-0.33" />
+<vertex x="0.23" y="-0.24" />
+<vertex x="0.25" y="-0.14" />
+<vertex x="0.27" y="-0.04" />
+<vertex x="0.27" y="0.06" />
+<vertex x="0.25" y="0.17" />
+<vertex x="0.23" y="0.26" />
+<vertex x="0.19" y="0.35" />
+<vertex x="0.13" y="0.44" />
+<vertex x="0.06" y="0.51" />
+<vertex x="-0.02" y="0.58" />
+<vertex x="-0.10" y="0.64" />
+<vertex x="-0.19" y="0.68" />
+<vertex x="-0.29" y="0.71" />
+<vertex x="-0.39" y="0.72" />
+<vertex x="-0.49" y="0.72" />
+<vertex x="-0.80" y="0.72" />
+<vertex x="-0.87" y="0.72" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="0.92" y="-0.37" />
+<vertex x="0.92" y="-0.26" />
+<vertex x="0.93" y="-0.17" />
+<vertex x="1.24" y="-0.17" />
+<vertex x="1.35" y="-0.17" />
+<vertex x="1.43" y="-0.14" />
+<vertex x="1.47" y="-0.06" />
+<vertex x="1.47" y="0.07" />
+<vertex x="1.43" y="0.15" />
+<vertex x="1.34" y="0.17" />
+<vertex x="0.93" y="0.17" />
+<vertex x="0.92" y="0.26" />
+<vertex x="0.92" y="0.36" />
+<vertex x="1.01" y="0.38" />
+<vertex x="1.52" y="0.38" />
+<vertex x="1.62" y="0.39" />
+<vertex x="1.68" y="0.44" />
+<vertex x="1.69" y="0.56" />
+<vertex x="1.67" y="0.67" />
+<vertex x="1.60" y="0.71" />
+<vertex x="1.50" y="0.72" />
+<vertex x="0.78" y="0.72" />
+<vertex x="0.67" y="0.71" />
+<vertex x="0.60" y="0.67" />
+<vertex x="0.57" y="0.58" />
+<vertex x="0.57" y="-0.55" />
+<vertex x="0.59" y="-0.65" />
+<vertex x="0.65" y="-0.70" />
+<vertex x="0.77" y="-0.71" />
+<vertex x="1.48" y="-0.71" />
+<vertex x="1.59" y="-0.71" />
+<vertex x="1.66" y="-0.67" />
+<vertex x="1.69" y="-0.57" />
+<vertex x="1.68" y="-0.45" />
+<vertex x="1.63" y="-0.38" />
+<vertex x="1.53" y="-0.37" />
+<vertex x="0.92" y="-0.37" />
+<vertex x="0.92" y="-0.37" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="2.50" y="0.55" />
+<vertex x="2.51" y="-0.57" />
+<vertex x="2.52" y="-0.66" />
+<vertex x="2.60" y="-0.70" />
+<vertex x="2.73" y="-0.71" />
+<vertex x="2.82" y="-0.68" />
+<vertex x="2.85" y="-0.59" />
+<vertex x="2.85" y="-0.49" />
+<vertex x="2.85" y="0.53" />
+<vertex x="2.84" y="0.63" />
+<vertex x="2.80" y="0.70" />
+<vertex x="2.69" y="0.72" />
+<vertex x="2.57" y="0.71" />
+<vertex x="2.51" y="0.65" />
+<vertex x="2.50" y="0.55" />
+<vertex x="2.50" y="0.55" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="4.09" y="0.69" />
+<vertex x="4.06" y="0.61" />
+<vertex x="4.06" y="0.49" />
+<vertex x="4.06" y="-0.11" />
+<vertex x="3.82" y="0.20" />
+<vertex x="3.52" y="0.62" />
+<vertex x="3.45" y="0.69" />
+<vertex x="3.35" y="0.72" />
+<vertex x="3.25" y="0.71" />
+<vertex x="3.17" y="0.66" />
+<vertex x="3.15" y="0.56" />
+<vertex x="3.15" y="-0.56" />
+<vertex x="3.17" y="-0.65" />
+<vertex x="3.23" y="-0.70" />
+<vertex x="3.37" y="-0.71" />
+<vertex x="3.46" y="-0.68" />
+<vertex x="3.49" y="-0.60" />
+<vertex x="3.49" y="0.01" />
+<vertex x="3.49" y="0.10" />
+<vertex x="3.73" y="-0.21" />
+<vertex x="4.04" y="-0.62" />
+<vertex x="4.12" y="-0.70" />
+<vertex x="4.22" y="-0.71" />
+<vertex x="4.34" y="-0.69" />
+<vertex x="4.39" y="-0.63" />
+<vertex x="4.40" y="-0.54" />
+<vertex x="4.40" y="0.48" />
+<vertex x="4.40" y="0.58" />
+<vertex x="4.38" y="0.67" />
+<vertex x="4.29" y="0.72" />
+<vertex x="4.18" y="0.72" />
+<vertex x="4.09" y="0.69" />
+<vertex x="4.09" y="0.69" />
+</polygon>
+</package>
+<package name="THE_USA32321858">
+<polygon width="0.005" layer="21">
+<vertex x="-4.70" y="0.72" />
+<vertex x="-4.80" y="0.70" />
+<vertex x="-4.84" y="0.62" />
+<vertex x="-4.84" y="0.51" />
+<vertex x="-4.78" y="0.45" />
+<vertex x="-4.67" y="0.44" />
+<vertex x="-4.36" y="0.44" />
+<vertex x="-4.33" y="0.37" />
+<vertex x="-4.33" y="-0.55" />
+<vertex x="-4.32" y="-0.65" />
+<vertex x="-4.24" y="-0.71" />
+<vertex x="-4.13" y="-0.71" />
+<vertex x="-4.04" y="-0.69" />
+<vertex x="-4.00" y="-0.60" />
+<vertex x="-3.99" y="-0.49" />
+<vertex x="-3.99" y="0.43" />
+<vertex x="-3.90" y="0.44" />
+<vertex x="-3.70" y="0.44" />
+<vertex x="-3.59" y="0.44" />
+<vertex x="-3.50" y="0.47" />
+<vertex x="-3.48" y="0.57" />
+<vertex x="-3.49" y="0.67" />
+<vertex x="-3.57" y="0.72" />
+<vertex x="-3.68" y="0.72" />
+<vertex x="-4.70" y="0.72" />
+<vertex x="-4.70" y="0.72" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="-2.24" y="0.69" />
+<vertex x="-2.27" y="0.60" />
+<vertex x="-2.27" y="0.19" />
+<vertex x="-2.32" y="0.14" />
+<vertex x="-2.73" y="0.14" />
+<vertex x="-2.78" y="0.19" />
+<vertex x="-2.78" y="0.50" />
+<vertex x="-2.79" y="0.61" />
+<vertex x="-2.82" y="0.68" />
+<vertex x="-2.91" y="0.72" />
+<vertex x="-3.04" y="0.71" />
+<vertex x="-3.11" y="0.67" />
+<vertex x="-3.13" y="0.57" />
+<vertex x="-3.13" y="-0.55" />
+<vertex x="-3.12" y="-0.65" />
+<vertex x="-3.05" y="-0.70" />
+<vertex x="-2.92" y="-0.71" />
+<vertex x="-2.82" y="-0.68" />
+<vertex x="-2.79" y="-0.60" />
+<vertex x="-2.78" y="-0.50" />
+<vertex x="-2.78" y="-0.19" />
+<vertex x="-2.73" y="-0.14" />
+<vertex x="-2.32" y="-0.14" />
+<vertex x="-2.27" y="-0.19" />
+<vertex x="-2.27" y="-0.50" />
+<vertex x="-2.26" y="-0.60" />
+<vertex x="-2.23" y="-0.68" />
+<vertex x="-2.13" y="-0.71" />
+<vertex x="-2.00" y="-0.70" />
+<vertex x="-1.94" y="-0.64" />
+<vertex x="-1.92" y="-0.55" />
+<vertex x="-1.92" y="0.58" />
+<vertex x="-1.95" y="0.67" />
+<vertex x="-2.03" y="0.72" />
+<vertex x="-2.14" y="0.72" />
+<vertex x="-2.24" y="0.69" />
+<vertex x="-2.24" y="0.69" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="-1.27" y="-0.37" />
+<vertex x="-1.27" y="-0.26" />
+<vertex x="-1.26" y="-0.17" />
+<vertex x="-0.95" y="-0.17" />
+<vertex x="-0.84" y="-0.17" />
+<vertex x="-0.76" y="-0.14" />
+<vertex x="-0.72" y="-0.06" />
+<vertex x="-0.72" y="0.07" />
+<vertex x="-0.76" y="0.15" />
+<vertex x="-0.85" y="0.17" />
+<vertex x="-1.26" y="0.17" />
+<vertex x="-1.27" y="0.26" />
+<vertex x="-1.27" y="0.36" />
+<vertex x="-1.18" y="0.38" />
+<vertex x="-0.67" y="0.38" />
+<vertex x="-0.57" y="0.39" />
+<vertex x="-0.51" y="0.44" />
+<vertex x="-0.50" y="0.56" />
+<vertex x="-0.52" y="0.67" />
+<vertex x="-0.59" y="0.71" />
+<vertex x="-0.69" y="0.72" />
+<vertex x="-1.41" y="0.72" />
+<vertex x="-1.52" y="0.71" />
+<vertex x="-1.59" y="0.67" />
+<vertex x="-1.61" y="0.58" />
+<vertex x="-1.62" y="-0.55" />
+<vertex x="-1.60" y="-0.65" />
+<vertex x="-1.54" y="-0.70" />
+<vertex x="-1.42" y="-0.71" />
+<vertex x="-0.71" y="-0.71" />
+<vertex x="-0.60" y="-0.71" />
+<vertex x="-0.53" y="-0.67" />
+<vertex x="-0.50" y="-0.57" />
+<vertex x="-0.51" y="-0.45" />
+<vertex x="-0.56" y="-0.38" />
+<vertex x="-0.66" y="-0.37" />
+<vertex x="-1.27" y="-0.37" />
+<vertex x="-1.27" y="-0.37" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="1.27" y="0.72" />
+<vertex x="1.23" y="0.64" />
+<vertex x="1.23" y="0.53" />
+<vertex x="1.23" y="0.02" />
+<vertex x="1.22" y="-0.09" />
+<vertex x="1.20" y="-0.18" />
+<vertex x="1.15" y="-0.27" />
+<vertex x="1.07" y="-0.34" />
+<vertex x="0.98" y="-0.36" />
+<vertex x="0.87" y="-0.36" />
+<vertex x="0.78" y="-0.32" />
+<vertex x="0.72" y="-0.24" />
+<vertex x="0.68" y="-0.15" />
+<vertex x="0.66" y="-0.05" />
+<vertex x="0.66" y="0.57" />
+<vertex x="0.65" y="0.67" />
+<vertex x="0.58" y="0.73" />
+<vertex x="0.48" y="0.74" />
+<vertex x="0.38" y="0.73" />
+<vertex x="0.32" y="0.65" />
+<vertex x="0.31" y="0.55" />
+<vertex x="0.32" y="-0.06" />
+<vertex x="0.33" y="-0.17" />
+<vertex x="0.35" y="-0.26" />
+<vertex x="0.39" y="-0.36" />
+<vertex x="0.44" y="-0.44" />
+<vertex x="0.50" y="-0.52" />
+<vertex x="0.57" y="-0.59" />
+<vertex x="0.66" y="-0.65" />
+<vertex x="0.76" y="-0.68" />
+<vertex x="0.85" y="-0.71" />
+<vertex x="0.96" y="-0.71" />
+<vertex x="1.06" y="-0.70" />
+<vertex x="1.16" y="-0.67" />
+<vertex x="1.25" y="-0.63" />
+<vertex x="1.33" y="-0.57" />
+<vertex x="1.40" y="-0.50" />
+<vertex x="1.46" y="-0.41" />
+<vertex x="1.51" y="-0.32" />
+<vertex x="1.55" y="-0.23" />
+<vertex x="1.57" y="-0.13" />
+<vertex x="1.57" y="-0.03" />
+<vertex x="1.57" y="0.59" />
+<vertex x="1.56" y="0.68" />
+<vertex x="1.47" y="0.73" />
+<vertex x="1.37" y="0.74" />
+<vertex x="1.27" y="0.72" />
+<vertex x="1.27" y="0.72" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="1.90" y="-0.49" />
+<vertex x="1.96" y="-0.55" />
+<vertex x="2.05" y="-0.62" />
+<vertex x="2.13" y="-0.67" />
+<vertex x="2.23" y="-0.70" />
+<vertex x="2.33" y="-0.71" />
+<vertex x="2.44" y="-0.71" />
+<vertex x="2.53" y="-0.69" />
+<vertex x="2.63" y="-0.65" />
+<vertex x="2.72" y="-0.60" />
+<vertex x="2.79" y="-0.53" />
+<vertex x="2.84" y="-0.45" />
+<vertex x="2.87" y="-0.35" />
+<vertex x="2.89" y="-0.25" />
+<vertex x="2.88" y="-0.14" />
+<vertex x="2.85" y="-0.05" />
+<vertex x="2.79" y="0.04" />
+<vertex x="2.72" y="0.10" />
+<vertex x="2.63" y="0.13" />
+<vertex x="2.52" y="0.16" />
+<vertex x="2.33" y="0.22" />
+<vertex x="2.24" y="0.26" />
+<vertex x="2.22" y="0.36" />
+<vertex x="2.28" y="0.43" />
+<vertex x="2.38" y="0.45" />
+<vertex x="2.47" y="0.41" />
+<vertex x="2.56" y="0.35" />
+<vertex x="2.65" y="0.34" />
+<vertex x="2.73" y="0.39" />
+<vertex x="2.79" y="0.49" />
+<vertex x="2.80" y="0.57" />
+<vertex x="2.72" y="0.65" />
+<vertex x="2.65" y="0.70" />
+<vertex x="2.54" y="0.74" />
+<vertex x="2.45" y="0.76" />
+<vertex x="2.34" y="0.76" />
+<vertex x="2.23" y="0.75" />
+<vertex x="2.13" y="0.72" />
+<vertex x="2.05" y="0.68" />
+<vertex x="1.98" y="0.61" />
+<vertex x="1.92" y="0.53" />
+<vertex x="1.88" y="0.44" />
+<vertex x="1.87" y="0.34" />
+<vertex x="1.88" y="0.23" />
+<vertex x="1.91" y="0.14" />
+<vertex x="1.97" y="0.05" />
+<vertex x="2.04" y="-0.01" />
+<vertex x="2.13" y="-0.05" />
+<vertex x="2.23" y="-0.09" />
+<vertex x="2.33" y="-0.12" />
+<vertex x="2.43" y="-0.13" />
+<vertex x="2.51" y="-0.18" />
+<vertex x="2.54" y="-0.27" />
+<vertex x="2.50" y="-0.35" />
+<vertex x="2.40" y="-0.38" />
+<vertex x="2.30" y="-0.37" />
+<vertex x="2.20" y="-0.31" />
+<vertex x="2.12" y="-0.24" />
+<vertex x="2.04" y="-0.20" />
+<vertex x="1.95" y="-0.23" />
+<vertex x="1.87" y="-0.32" />
+<vertex x="1.85" y="-0.40" />
+<vertex x="1.90" y="-0.49" />
+<vertex x="1.90" y="-0.49" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="4.01" y="0.70" />
+<vertex x="3.92" y="0.74" />
+<vertex x="3.82" y="0.73" />
+<vertex x="3.74" y="0.66" />
+<vertex x="3.69" y="0.57" />
+<vertex x="3.20" y="-0.44" />
+<vertex x="3.17" y="-0.54" />
+<vertex x="3.20" y="-0.62" />
+<vertex x="3.31" y="-0.68" />
+<vertex x="3.40" y="-0.71" />
+<vertex x="3.48" y="-0.66" />
+<vertex x="3.53" y="-0.57" />
+<vertex x="3.62" y="-0.39" />
+<vertex x="4.13" y="-0.39" />
+<vertex x="4.01" y="-0.10" />
+<vertex x="3.81" y="-0.10" />
+<vertex x="3.78" y="-0.05" />
+<vertex x="3.87" y="0.14" />
+<vertex x="3.88" y="0.17" />
+<vertex x="3.97" y="-0.01" />
+<vertex x="4.01" y="-0.10" />
+<vertex x="4.13" y="-0.39" />
+<vertex x="4.19" y="-0.46" />
+<vertex x="4.28" y="-0.65" />
+<vertex x="4.35" y="-0.71" />
+<vertex x="4.44" y="-0.70" />
+<vertex x="4.55" y="-0.64" />
+<vertex x="4.60" y="-0.56" />
+<vertex x="4.58" y="-0.47" />
+<vertex x="4.54" y="-0.37" />
+<vertex x="4.04" y="0.64" />
+<vertex x="4.01" y="0.70" />
+</polygon>
+</package>
+<package name="MADE_IN32321859">
+<polygon width="0.005" layer="21">
+<vertex x="-3.54" y="0.77" />
+<vertex x="-3.61" y="0.83" />
+<vertex x="-3.76" y="0.84" />
+<vertex x="-3.87" y="0.80" />
+<vertex x="-3.96" y="0.68" />
+<vertex x="-4.09" y="0.53" />
+<vertex x="-4.35" y="0.18" />
+<vertex x="-4.44" y="0.13" />
+<vertex x="-4.87" y="0.70" />
+<vertex x="-4.94" y="0.80" />
+<vertex x="-5.05" y="0.84" />
+<vertex x="-5.19" y="0.83" />
+<vertex x="-5.28" y="0.79" />
+<vertex x="-5.30" y="0.68" />
+<vertex x="-5.30" y="-0.63" />
+<vertex x="-5.30" y="-0.74" />
+<vertex x="-5.22" y="-0.81" />
+<vertex x="-5.08" y="-0.83" />
+<vertex x="-4.96" y="-0.80" />
+<vertex x="-4.91" y="-0.71" />
+<vertex x="-4.91" y="0.12" />
+<vertex x="-4.89" y="0.10" />
+<vertex x="-4.80" y="-0.01" />
+<vertex x="-4.58" y="-0.32" />
+<vertex x="-4.48" y="-0.39" />
+<vertex x="-4.36" y="-0.40" />
+<vertex x="-4.26" y="-0.33" />
+<vertex x="-4.21" y="-0.26" />
+<vertex x="-4.05" y="-0.04" />
+<vertex x="-3.92" y="0.14" />
+<vertex x="-3.92" y="-0.57" />
+<vertex x="-3.91" y="-0.70" />
+<vertex x="-3.87" y="-0.79" />
+<vertex x="-3.76" y="-0.83" />
+<vertex x="-3.63" y="-0.82" />
+<vertex x="-3.55" y="-0.78" />
+<vertex x="-3.52" y="-0.66" />
+<vertex x="-3.51" y="0.67" />
+<vertex x="-3.54" y="0.77" />
+<vertex x="-3.54" y="0.77" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="-2.24" y="0.81" />
+<vertex x="-2.34" y="0.86" />
+<vertex x="-2.46" y="0.85" />
+<vertex x="-2.55" y="0.77" />
+<vertex x="-2.61" y="0.67" />
+<vertex x="-3.18" y="-0.52" />
+<vertex x="-3.22" y="-0.63" />
+<vertex x="-3.18" y="-0.72" />
+<vertex x="-3.06" y="-0.80" />
+<vertex x="-2.95" y="-0.83" />
+<vertex x="-2.85" y="-0.77" />
+<vertex x="-2.80" y="-0.66" />
+<vertex x="-2.75" y="-0.56" />
+<vertex x="-2.69" y="-0.45" />
+<vertex x="-2.10" y="-0.45" />
+<vertex x="-2.24" y="-0.12" />
+<vertex x="-2.48" y="-0.12" />
+<vertex x="-2.50" y="-0.06" />
+<vertex x="-2.41" y="0.16" />
+<vertex x="-2.39" y="0.20" />
+<vertex x="-2.28" y="-0.01" />
+<vertex x="-2.24" y="-0.12" />
+<vertex x="-2.10" y="-0.45" />
+<vertex x="-2.03" y="-0.53" />
+<vertex x="-1.98" y="-0.64" />
+<vertex x="-1.92" y="-0.75" />
+<vertex x="-1.84" y="-0.82" />
+<vertex x="-1.73" y="-0.81" />
+<vertex x="-1.60" y="-0.74" />
+<vertex x="-1.55" y="-0.65" />
+<vertex x="-1.57" y="-0.55" />
+<vertex x="-1.62" y="-0.44" />
+<vertex x="-2.20" y="0.75" />
+<vertex x="-2.24" y="0.81" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="-1.02" y="0.83" />
+<vertex x="-1.11" y="0.79" />
+<vertex x="-1.13" y="0.69" />
+<vertex x="-1.13" y="-0.62" />
+<vertex x="-1.12" y="-0.75" />
+<vertex x="-1.06" y="-0.81" />
+<vertex x="-0.92" y="-0.83" />
+<vertex x="-0.56" y="-0.83" />
+<vertex x="-0.44" y="-0.83" />
+<vertex x="-0.33" y="-0.81" />
+<vertex x="-0.22" y="-0.78" />
+<vertex x="-0.35" y="-0.43" />
+<vertex x="-0.71" y="-0.43" />
+<vertex x="-0.73" y="-0.33" />
+<vertex x="-0.73" y="0.38" />
+<vertex x="-0.67" y="0.44" />
+<vertex x="-0.55" y="0.44" />
+<vertex x="-0.43" y="0.43" />
+<vertex x="-0.32" y="0.39" />
+<vertex x="-0.22" y="0.33" />
+<vertex x="-0.15" y="0.23" />
+<vertex x="-0.10" y="0.13" />
+<vertex x="-0.09" y="0.01" />
+<vertex x="-0.10" y="-0.11" />
+<vertex x="-0.15" y="-0.22" />
+<vertex x="-0.23" y="-0.31" />
+<vertex x="-0.31" y="-0.39" />
+<vertex x="-0.35" y="-0.43" />
+<vertex x="-0.22" y="-0.77" />
+<vertex x="-0.11" y="-0.72" />
+<vertex x="-0.01" y="-0.66" />
+<vertex x="0.08" y="-0.58" />
+<vertex x="0.15" y="-0.48" />
+<vertex x="0.22" y="-0.38" />
+<vertex x="0.26" y="-0.28" />
+<vertex x="0.30" y="-0.17" />
+<vertex x="0.31" y="-0.05" />
+<vertex x="0.31" y="0.08" />
+<vertex x="0.30" y="0.19" />
+<vertex x="0.26" y="0.31" />
+<vertex x="0.22" y="0.41" />
+<vertex x="0.15" y="0.51" />
+<vertex x="0.07" y="0.60" />
+<vertex x="-0.02" y="0.68" />
+<vertex x="-0.12" y="0.74" />
+<vertex x="-0.23" y="0.79" />
+<vertex x="-0.34" y="0.82" />
+<vertex x="-0.46" y="0.84" />
+<vertex x="-0.57" y="0.84" />
+<vertex x="-0.93" y="0.84" />
+<vertex x="-1.02" y="0.83" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="1.07" y="-0.43" />
+<vertex x="1.07" y="-0.31" />
+<vertex x="1.08" y="-0.20" />
+<vertex x="1.44" y="-0.20" />
+<vertex x="1.57" y="-0.20" />
+<vertex x="1.66" y="-0.16" />
+<vertex x="1.72" y="-0.07" />
+<vertex x="1.72" y="0.08" />
+<vertex x="1.67" y="0.17" />
+<vertex x="1.57" y="0.20" />
+<vertex x="1.09" y="0.20" />
+<vertex x="1.07" y="0.30" />
+<vertex x="1.07" y="0.42" />
+<vertex x="1.18" y="0.44" />
+<vertex x="1.77" y="0.44" />
+<vertex x="1.89" y="0.45" />
+<vertex x="1.95" y="0.51" />
+<vertex x="1.97" y="0.66" />
+<vertex x="1.95" y="0.78" />
+<vertex x="1.86" y="0.83" />
+<vertex x="1.74" y="0.84" />
+<vertex x="0.91" y="0.84" />
+<vertex x="0.78" y="0.83" />
+<vertex x="0.70" y="0.79" />
+<vertex x="0.67" y="0.67" />
+<vertex x="0.67" y="-0.64" />
+<vertex x="0.68" y="-0.76" />
+<vertex x="0.76" y="-0.82" />
+<vertex x="0.90" y="-0.83" />
+<vertex x="1.73" y="-0.83" />
+<vertex x="1.85" y="-0.83" />
+<vertex x="1.94" y="-0.79" />
+<vertex x="1.97" y="-0.67" />
+<vertex x="1.96" y="-0.52" />
+<vertex x="1.90" y="-0.45" />
+<vertex x="1.79" y="-0.43" />
+<vertex x="1.07" y="-0.43" />
+<vertex x="1.07" y="-0.43" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="2.92" y="0.64" />
+<vertex x="2.92" y="-0.67" />
+<vertex x="2.94" y="-0.77" />
+<vertex x="3.03" y="-0.82" />
+<vertex x="3.18" y="-0.83" />
+<vertex x="3.29" y="-0.79" />
+<vertex x="3.32" y="-0.69" />
+<vertex x="3.32" y="-0.57" />
+<vertex x="3.32" y="0.61" />
+<vertex x="3.32" y="0.74" />
+<vertex x="3.26" y="0.81" />
+<vertex x="3.14" y="0.84" />
+<vertex x="2.99" y="0.82" />
+<vertex x="2.93" y="0.75" />
+<vertex x="2.92" y="0.64" />
+<vertex x="2.92" y="0.64" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="4.77" y="0.81" />
+<vertex x="4.74" y="0.71" />
+<vertex x="4.74" y="0.58" />
+<vertex x="4.73" y="-0.13" />
+<vertex x="4.59" y="0.06" />
+<vertex x="4.46" y="0.24" />
+<vertex x="4.11" y="0.72" />
+<vertex x="4.02" y="0.80" />
+<vertex x="3.91" y="0.84" />
+<vertex x="3.79" y="0.83" />
+<vertex x="3.70" y="0.77" />
+<vertex x="3.68" y="0.66" />
+<vertex x="3.68" y="-0.65" />
+<vertex x="3.70" y="-0.76" />
+<vertex x="3.77" y="-0.82" />
+<vertex x="3.93" y="-0.83" />
+<vertex x="4.03" y="-0.79" />
+<vertex x="4.07" y="-0.70" />
+<vertex x="4.07" y="0.01" />
+<vertex x="4.07" y="0.11" />
+<vertex x="4.35" y="-0.25" />
+<vertex x="4.71" y="-0.72" />
+<vertex x="4.80" y="-0.82" />
+<vertex x="4.92" y="-0.83" />
+<vertex x="5.06" y="-0.81" />
+<vertex x="5.12" y="-0.74" />
+<vertex x="5.14" y="-0.63" />
+<vertex x="5.14" y="0.55" />
+<vertex x="5.14" y="0.68" />
+<vertex x="5.10" y="0.79" />
+<vertex x="5.01" y="0.84" />
+<vertex x="4.88" y="0.84" />
+<vertex x="4.77" y="0.81" />
+<vertex x="4.77" y="0.81" />
+</polygon>
+</package>
+<package name="THE_USA32321860">
+<polygon width="0.005" layer="21">
+<vertex x="-5.49" y="0.84" />
+<vertex x="-5.60" y="0.82" />
+<vertex x="-5.65" y="0.72" />
+<vertex x="-5.65" y="0.59" />
+<vertex x="-5.57" y="0.52" />
+<vertex x="-5.45" y="0.51" />
+<vertex x="-5.09" y="0.51" />
+<vertex x="-5.05" y="0.43" />
+<vertex x="-5.05" y="-0.65" />
+<vertex x="-5.04" y="-0.76" />
+<vertex x="-4.95" y="-0.82" />
+<vertex x="-4.82" y="-0.83" />
+<vertex x="-4.71" y="-0.80" />
+<vertex x="-4.66" y="-0.70" />
+<vertex x="-4.66" y="-0.58" />
+<vertex x="-4.66" y="0.50" />
+<vertex x="-4.55" y="0.51" />
+<vertex x="-4.31" y="0.51" />
+<vertex x="-4.18" y="0.51" />
+<vertex x="-4.08" y="0.55" />
+<vertex x="-4.07" y="0.67" />
+<vertex x="-4.08" y="0.79" />
+<vertex x="-4.17" y="0.84" />
+<vertex x="-4.30" y="0.84" />
+<vertex x="-5.49" y="0.84" />
+<vertex x="-5.49" y="0.84" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="-2.61" y="0.81" />
+<vertex x="-2.64" y="0.70" />
+<vertex x="-2.64" y="0.22" />
+<vertex x="-2.71" y="0.17" />
+<vertex x="-3.19" y="0.17" />
+<vertex x="-3.25" y="0.22" />
+<vertex x="-3.25" y="0.58" />
+<vertex x="-3.25" y="0.71" />
+<vertex x="-3.29" y="0.80" />
+<vertex x="-3.40" y="0.84" />
+<vertex x="-3.55" y="0.83" />
+<vertex x="-3.63" y="0.78" />
+<vertex x="-3.65" y="0.67" />
+<vertex x="-3.65" y="-0.65" />
+<vertex x="-3.63" y="-0.76" />
+<vertex x="-3.56" y="-0.82" />
+<vertex x="-3.41" y="-0.83" />
+<vertex x="-3.29" y="-0.79" />
+<vertex x="-3.25" y="-0.70" />
+<vertex x="-3.25" y="-0.58" />
+<vertex x="-3.25" y="-0.22" />
+<vertex x="-3.18" y="-0.17" />
+<vertex x="-2.71" y="-0.17" />
+<vertex x="-2.64" y="-0.22" />
+<vertex x="-2.64" y="-0.58" />
+<vertex x="-2.64" y="-0.70" />
+<vertex x="-2.60" y="-0.79" />
+<vertex x="-2.48" y="-0.83" />
+<vertex x="-2.33" y="-0.82" />
+<vertex x="-2.26" y="-0.75" />
+<vertex x="-2.24" y="-0.64" />
+<vertex x="-2.24" y="0.68" />
+<vertex x="-2.27" y="0.78" />
+<vertex x="-2.37" y="0.84" />
+<vertex x="-2.50" y="0.84" />
+<vertex x="-2.61" y="0.81" />
+<vertex x="-2.61" y="0.81" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="-1.48" y="-0.43" />
+<vertex x="-1.48" y="-0.31" />
+<vertex x="-1.47" y="-0.20" />
+<vertex x="-1.11" y="-0.20" />
+<vertex x="-0.99" y="-0.20" />
+<vertex x="-0.89" y="-0.16" />
+<vertex x="-0.84" y="-0.07" />
+<vertex x="-0.84" y="0.08" />
+<vertex x="-0.89" y="0.17" />
+<vertex x="-0.99" y="0.20" />
+<vertex x="-1.47" y="0.20" />
+<vertex x="-1.48" y="0.30" />
+<vertex x="-1.48" y="0.42" />
+<vertex x="-1.38" y="0.44" />
+<vertex x="-0.79" y="0.44" />
+<vertex x="-0.67" y="0.45" />
+<vertex x="-0.60" y="0.51" />
+<vertex x="-0.58" y="0.66" />
+<vertex x="-0.61" y="0.78" />
+<vertex x="-0.69" y="0.83" />
+<vertex x="-0.81" y="0.84" />
+<vertex x="-1.64" y="0.84" />
+<vertex x="-1.77" y="0.83" />
+<vertex x="-1.85" y="0.79" />
+<vertex x="-1.88" y="0.67" />
+<vertex x="-1.88" y="-0.64" />
+<vertex x="-1.87" y="-0.76" />
+<vertex x="-1.80" y="-0.82" />
+<vertex x="-1.66" y="-0.83" />
+<vertex x="-0.83" y="-0.83" />
+<vertex x="-0.70" y="-0.83" />
+<vertex x="-0.62" y="-0.79" />
+<vertex x="-0.58" y="-0.67" />
+<vertex x="-0.59" y="-0.52" />
+<vertex x="-0.65" y="-0.45" />
+<vertex x="-0.77" y="-0.43" />
+<vertex x="-1.48" y="-0.43" />
+<vertex x="-1.48" y="-0.43" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="1.48" y="0.84" />
+<vertex x="1.44" y="0.74" />
+<vertex x="1.43" y="0.61" />
+<vertex x="1.43" y="0.02" />
+<vertex x="1.43" y="-0.10" />
+<vertex x="1.40" y="-0.21" />
+<vertex x="1.34" y="-0.32" />
+<vertex x="1.25" y="-0.39" />
+<vertex x="1.14" y="-0.43" />
+<vertex x="1.01" y="-0.42" />
+<vertex x="0.91" y="-0.37" />
+<vertex x="0.84" y="-0.28" />
+<vertex x="0.79" y="-0.17" />
+<vertex x="0.77" y="-0.05" />
+<vertex x="0.77" y="0.66" />
+<vertex x="0.76" y="0.78" />
+<vertex x="0.68" y="0.85" />
+<vertex x="0.56" y="0.87" />
+<vertex x="0.44" y="0.85" />
+<vertex x="0.37" y="0.76" />
+<vertex x="0.37" y="0.64" />
+<vertex x="0.37" y="-0.07" />
+<vertex x="0.38" y="-0.19" />
+<vertex x="0.41" y="-0.31" />
+<vertex x="0.45" y="-0.42" />
+<vertex x="0.51" y="-0.52" />
+<vertex x="0.58" y="-0.61" />
+<vertex x="0.67" y="-0.69" />
+<vertex x="0.77" y="-0.75" />
+<vertex x="0.88" y="-0.80" />
+<vertex x="1.00" y="-0.82" />
+<vertex x="1.12" y="-0.83" />
+<vertex x="1.24" y="-0.82" />
+<vertex x="1.35" y="-0.78" />
+<vertex x="1.46" y="-0.73" />
+<vertex x="1.56" y="-0.66" />
+<vertex x="1.64" y="-0.58" />
+<vertex x="1.71" y="-0.48" />
+<vertex x="1.76" y="-0.38" />
+<vertex x="1.80" y="-0.27" />
+<vertex x="1.83" y="-0.15" />
+<vertex x="1.84" y="-0.03" />
+<vertex x="1.84" y="0.68" />
+<vertex x="1.82" y="0.80" />
+<vertex x="1.72" y="0.86" />
+<vertex x="1.59" y="0.86" />
+<vertex x="1.48" y="0.84" />
+<vertex x="1.48" y="0.84" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="2.22" y="-0.57" />
+<vertex x="2.29" y="-0.65" />
+<vertex x="2.39" y="-0.72" />
+<vertex x="2.49" y="-0.78" />
+<vertex x="2.61" y="-0.82" />
+<vertex x="2.72" y="-0.83" />
+<vertex x="2.84" y="-0.83" />
+<vertex x="2.96" y="-0.80" />
+<vertex x="3.07" y="-0.76" />
+<vertex x="3.17" y="-0.70" />
+<vertex x="3.25" y="-0.62" />
+<vertex x="3.32" y="-0.52" />
+<vertex x="3.35" y="-0.41" />
+<vertex x="3.37" y="-0.29" />
+<vertex x="3.36" y="-0.17" />
+<vertex x="3.32" y="-0.06" />
+<vertex x="3.26" y="0.04" />
+<vertex x="3.17" y="0.11" />
+<vertex x="3.06" y="0.16" />
+<vertex x="2.94" y="0.19" />
+<vertex x="2.71" y="0.25" />
+<vertex x="2.61" y="0.31" />
+<vertex x="2.59" y="0.42" />
+<vertex x="2.66" y="0.50" />
+<vertex x="2.78" y="0.52" />
+<vertex x="2.88" y="0.48" />
+<vertex x="2.99" y="0.41" />
+<vertex x="3.09" y="0.39" />
+<vertex x="3.18" y="0.46" />
+<vertex x="3.26" y="0.57" />
+<vertex x="3.26" y="0.66" />
+<vertex x="3.17" y="0.76" />
+<vertex x="3.09" y="0.82" />
+<vertex x="2.97" y="0.86" />
+<vertex x="2.86" y="0.88" />
+<vertex x="2.73" y="0.89" />
+<vertex x="2.60" y="0.88" />
+<vertex x="2.49" y="0.85" />
+<vertex x="2.39" y="0.79" />
+<vertex x="2.31" y="0.72" />
+<vertex x="2.24" y="0.62" />
+<vertex x="2.20" y="0.51" />
+<vertex x="2.18" y="0.40" />
+<vertex x="2.19" y="0.27" />
+<vertex x="2.23" y="0.16" />
+<vertex x="2.30" y="0.06" />
+<vertex x="2.38" y="-0.01" />
+<vertex x="2.49" y="-0.06" />
+<vertex x="2.60" y="-0.10" />
+<vertex x="2.72" y="-0.13" />
+<vertex x="2.83" y="-0.16" />
+<vertex x="2.93" y="-0.21" />
+<vertex x="2.96" y="-0.32" />
+<vertex x="2.91" y="-0.41" />
+<vertex x="2.80" y="-0.45" />
+<vertex x="2.68" y="-0.43" />
+<vertex x="2.57" y="-0.36" />
+<vertex x="2.47" y="-0.28" />
+<vertex x="2.38" y="-0.24" />
+<vertex x="2.27" y="-0.27" />
+<vertex x="2.18" y="-0.37" />
+<vertex x="2.16" y="-0.46" />
+<vertex x="2.22" y="-0.57" />
+<vertex x="2.22" y="-0.57" />
+</polygon>
+<polygon width="0.005" layer="21">
+<vertex x="4.67" y="0.81" />
+<vertex x="4.57" y="0.86" />
+<vertex x="4.46" y="0.85" />
+<vertex x="4.36" y="0.77" />
+<vertex x="4.31" y="0.67" />
+<vertex x="3.74" y="-0.52" />
+<vertex x="3.70" y="-0.63" />
+<vertex x="3.74" y="-0.72" />
+<vertex x="3.86" y="-0.80" />
+<vertex x="3.96" y="-0.83" />
+<vertex x="4.06" y="-0.77" />
+<vertex x="4.12" y="-0.66" />
+<vertex x="4.17" y="-0.56" />
+<vertex x="4.22" y="-0.45" />
+<vertex x="4.82" y="-0.45" />
+<vertex x="4.68" y="-0.12" />
+<vertex x="4.44" y="-0.12" />
+<vertex x="4.41" y="-0.06" />
+<vertex x="4.51" y="0.16" />
+<vertex x="4.53" y="0.20" />
+<vertex x="4.63" y="-0.01" />
+<vertex x="4.68" y="-0.12" />
+<vertex x="4.82" y="-0.45" />
+<vertex x="4.89" y="-0.53" />
+<vertex x="4.94" y="-0.64" />
+<vertex x="5.00" y="-0.75" />
+<vertex x="5.08" y="-0.82" />
+<vertex x="5.19" y="-0.81" />
+<vertex x="5.31" y="-0.74" />
+<vertex x="5.37" y="-0.65" />
+<vertex x="5.35" y="-0.55" />
+<vertex x="5.29" y="-0.44" />
+<vertex x="4.72" y="0.75" />
+<vertex x="4.67" y="0.81" />
+</polygon>
+</package>
+<package name="7#15V32321861">
 <polygon width="0.005" layer="21">
 <vertex x="-1.92" y="0.60" />
 <vertex x="-2.51" y="0.60" />
@@ -11402,7 +11039,7 @@
 <vertex x="2.35" y="0.58" />
 </polygon>
 </package>
-<package name="V321858">
+<package name="V32321861">
 <polygon width="0.005" layer="21">
 <vertex x="-0.93" y="0.47" />
 <vertex x="-1.00" y="0.49" />
@@ -11429,7 +11066,7 @@
 <vertex x="-0.93" y="0.47" />
 </polygon>
 </package>
-<package name="D#321859">
+<package name="D#32321862">
 <polygon width="0.005" layer="21">
 <vertex x="-2.41" y="0.48" />
 <vertex x="-2.46" y="0.45" />
@@ -11519,7 +11156,7 @@
 <vertex x="-1.05" y="0.11" />
 </polygon>
 </package>
-<package name="D#321860">
+<package name="D#32321863">
 <polygon width="0.005" layer="21">
 <vertex x="-2.29" y="0.48" />
 <vertex x="-2.33" y="0.45" />
@@ -11590,7 +11227,7 @@
 <vertex x="-0.94" y="-0.10" />
 </polygon>
 </package>
-<package name="G321861">
+<package name="G32321864">
 <polygon width="0.005" layer="21">
 <vertex x="-1.17" y="0.12" />
 <vertex x="-1.24" y="0.10" />
@@ -11661,7 +11298,7 @@
 <vertex x="-1.17" y="0.12" />
 </polygon>
 </package>
-<package name="#36#A0#321862">
+<package name="#36#A0#32321865">
 <polygon width="0.005" layer="21">
 <vertex x="0.77" y="0.85" />
 <vertex x="0.43" y="0.85" />
@@ -11919,7 +11556,7 @@
 <vertex x="0.77" y="0.85" />
 </polygon>
 </package>
-<package name="#39#A3#321862">
+<package name="#39#A3#32321865">
 <polygon width="0.005" layer="21">
 <vertex x="0.83" y="0.85" />
 <vertex x="0.50" y="0.85" />
@@ -12174,34 +11811,61 @@
 <vertex x="0.83" y="0.85" />
 </polygon>
 </package>
-<package name="#34#A6#321862">
+<package name="#34#A6#32321865">
 <polygon width="0.005" layer="21">
-<vertex x="0.83" y="0.85" />
+<vertex x="0.82" y="0.85" />
 <vertex x="0.49" y="0.85" />
-<vertex x="0.42" y="0.83" />
+<vertex x="0.42" y="0.82" />
 <vertex x="0.42" y="-0.78" />
-<vertex x="0.44" y="-0.85" />
-<vertex x="7.13" y="-0.85" />
-<vertex x="7.18" y="-0.79" />
-<vertex x="7.55" y="-0.03" />
-<vertex x="7.55" y="0.05" />
-<vertex x="7.17" y="0.80" />
-<vertex x="7.11" y="0.85" />
+<vertex x="0.45" y="-0.85" />
+<vertex x="6.71" y="-0.85" />
+<vertex x="6.79" y="-0.84" />
+<vertex x="6.88" y="-0.83" />
+<vertex x="6.96" y="-0.81" />
+<vertex x="7.04" y="-0.78" />
+<vertex x="7.12" y="-0.75" />
+<vertex x="7.19" y="-0.71" />
+<vertex x="7.26" y="-0.66" />
+<vertex x="7.32" y="-0.60" />
+<vertex x="7.38" y="-0.54" />
+<vertex x="7.43" y="-0.47" />
+<vertex x="7.47" y="-0.40" />
+<vertex x="7.51" y="-0.32" />
+<vertex x="7.53" y="-0.24" />
+<vertex x="7.55" y="-0.16" />
+<vertex x="7.57" y="-0.07" />
+<vertex x="7.57" y="0.01" />
+<vertex x="7.56" y="0.10" />
+<vertex x="7.55" y="0.18" />
+<vertex x="7.53" y="0.26" />
+<vertex x="7.50" y="0.34" />
+<vertex x="7.46" y="0.42" />
+<vertex x="7.42" y="0.49" />
+<vertex x="7.36" y="0.55" />
+<vertex x="7.30" y="0.61" />
+<vertex x="7.24" y="0.67" />
+<vertex x="7.17" y="0.72" />
+<vertex x="7.10" y="0.76" />
+<vertex x="7.02" y="0.79" />
+<vertex x="6.94" y="0.82" />
+<vertex x="6.86" y="0.84" />
+<vertex x="6.77" y="0.85" />
+<vertex x="6.69" y="0.85" />
 <vertex x="0.85" y="0.85" />
 <vertex x="1.07" y="0.55" />
 <vertex x="1.14" y="0.59" />
 <vertex x="1.22" y="0.62" />
 <vertex x="1.31" y="0.63" />
 <vertex x="1.48" y="0.64" />
-<vertex x="1.60" y="0.58" />
-<vertex x="1.66" y="0.52" />
-<vertex x="1.72" y="0.45" />
+<vertex x="1.54" y="0.63" />
+<vertex x="1.66" y="0.51" />
+<vertex x="1.72" y="0.44" />
 <vertex x="1.75" y="0.37" />
 <vertex x="1.77" y="0.29" />
 <vertex x="1.76" y="0.20" />
 <vertex x="1.73" y="0.13" />
 <vertex x="1.67" y="0.07" />
-<vertex x="1.68" y="0.03" />
+<vertex x="1.68" y="0.02" />
 <vertex x="1.74" y="-0.04" />
 <vertex x="1.78" y="-0.11" />
 <vertex x="1.79" y="-0.19" />
@@ -12219,7 +11883,6 @@
 <vertex x="2.60" y="0.02" />
 <vertex x="2.62" y="0.08" />
 <vertex x="2.62" y="0.51" />
-<vertex x="2.64" y="0.58" />
 <vertex x="2.71" y="0.60" />
 <vertex x="2.81" y="0.60" />
 <vertex x="2.88" y="0.56" />
@@ -12231,25 +11894,25 @@
 <vertex x="3.72" y="0.72" />
 <vertex x="3.77" y="0.77" />
 <vertex x="3.85" y="0.76" />
-<vertex x="3.94" y="0.71" />
+<vertex x="3.94" y="0.70" />
 <vertex x="3.96" y="0.65" />
 <vertex x="3.93" y="0.56" />
-<vertex x="4.81" y="0.13" />
+<vertex x="4.80" y="0.13" />
 <vertex x="4.82" y="0.12" />
 <vertex x="4.89" y="-0.03" />
 <vertex x="4.89" y="-0.08" />
-<vertex x="4.72" y="-0.08" />
+<vertex x="5.02" y="-0.32" />
 <vertex x="4.60" y="-0.32" />
 <vertex x="4.56" y="-0.39" />
 <vertex x="4.52" y="-0.47" />
 <vertex x="4.48" y="-0.54" />
 <vertex x="4.41" y="-0.59" />
-<vertex x="4.34" y="-0.58" />
+<vertex x="4.34" y="-0.57" />
 <vertex x="4.25" y="-0.52" />
 <vertex x="4.22" y="-0.46" />
 <vertex x="4.24" y="-0.38" />
 <vertex x="4.68" y="0.53" />
-<vertex x="4.74" y="0.59" />
+<vertex x="4.74" y="0.60" />
 <vertex x="4.82" y="0.62" />
 <vertex x="4.90" y="0.59" />
 <vertex x="4.95" y="0.52" />
@@ -12262,7 +11925,7 @@
 <vertex x="6.10" y="0.13" />
 <vertex x="6.18" y="0.13" />
 <vertex x="6.26" y="0.11" />
-<vertex x="6.34" y="0.08" />
+<vertex x="6.34" y="0.07" />
 <vertex x="6.41" y="0.02" />
 <vertex x="6.46" y="-0.05" />
 <vertex x="6.50" y="-0.12" />
@@ -12312,7 +11975,7 @@
 <vertex x="6.15" y="-0.12" />
 <vertex x="6.21" y="-0.17" />
 <vertex x="6.22" y="-0.26" />
-<vertex x="6.17" y="-0.31" />
+<vertex x="6.18" y="-0.31" />
 <vertex x="6.02" y="-0.32" />
 <vertex x="5.98" y="-0.25" />
 <vertex x="5.40" y="-0.40" />
@@ -12323,7 +11986,7 @@
 <vertex x="5.14" y="-0.54" />
 <vertex x="5.07" y="-0.38" />
 <vertex x="5.02" y="-0.32" />
-<vertex x="4.60" y="-0.32" />
+<vertex x="4.89" y="-0.08" />
 <vertex x="4.72" y="-0.08" />
 <vertex x="4.74" y="-0.02" />
 <vertex x="4.80" y="0.13" />
@@ -12332,22 +11995,22 @@
 <vertex x="3.39" y="-0.56" />
 <vertex x="3.32" y="-0.59" />
 <vertex x="3.23" y="-0.56" />
-<vertex x="3.17" y="-0.52" />
+<vertex x="3.17" y="-0.51" />
 <vertex x="3.16" y="-0.44" />
 <vertex x="2.90" y="-0.45" />
 <vertex x="2.89" y="-0.53" />
-<vertex x="2.84" y="-0.59" />
+<vertex x="2.83" y="-0.59" />
 <vertex x="2.75" y="-0.59" />
-<vertex x="2.66" y="-0.58" />
+<vertex x="2.66" y="-0.57" />
 <vertex x="2.62" y="-0.51" />
 <vertex x="2.62" y="-0.43" />
 <vertex x="2.62" y="-0.26" />
 <vertex x="2.54" y="-0.25" />
-<vertex x="2.21" y="-0.25" />
-<vertex x="2.11" y="-0.24" />
+<vertex x="2.20" y="-0.25" />
+<vertex x="2.10" y="-0.24" />
 <vertex x="2.05" y="-0.20" />
 <vertex x="2.03" y="-0.12" />
-<vertex x="1.79" y="-0.19" />
+<vertex x="1.79" y="-0.20" />
 <vertex x="1.79" y="-0.28" />
 <vertex x="1.76" y="-0.36" />
 <vertex x="1.72" y="-0.43" />
@@ -12358,28 +12021,28 @@
 <vertex x="1.34" y="-0.59" />
 <vertex x="1.25" y="-0.59" />
 <vertex x="1.17" y="-0.57" />
-<vertex x="1.09" y="-0.54" />
-<vertex x="1.03" y="-0.49" />
+<vertex x="1.09" y="-0.53" />
+<vertex x="1.02" y="-0.49" />
 <vertex x="0.97" y="-0.43" />
 <vertex x="0.92" y="-0.36" />
 <vertex x="0.90" y="-0.27" />
 <vertex x="0.89" y="-0.20" />
-<vertex x="0.93" y="-0.15" />
+<vertex x="0.94" y="-0.15" />
 <vertex x="1.03" y="-0.13" />
 <vertex x="1.12" y="-0.14" />
 <vertex x="1.17" y="-0.19" />
 <vertex x="1.21" y="-0.27" />
 <vertex x="1.29" y="-0.31" />
 <vertex x="1.38" y="-0.31" />
-<vertex x="1.45" y="-0.29" />
+<vertex x="1.46" y="-0.29" />
 <vertex x="1.50" y="-0.22" />
 <vertex x="1.49" y="-0.15" />
 <vertex x="1.42" y="-0.10" />
-<vertex x="1.33" y="-0.09" />
+<vertex x="1.32" y="-0.09" />
 <vertex x="1.25" y="-0.07" />
 <vertex x="1.22" y="-0.01" />
 <vertex x="1.21" y="0.10" />
-<vertex x="1.24" y="0.17" />
+<vertex x="1.25" y="0.17" />
 <vertex x="1.31" y="0.19" />
 <vertex x="1.42" y="0.20" />
 <vertex x="1.48" y="0.24" />
@@ -12388,18 +12051,18 @@
 <vertex x="1.30" y="0.35" />
 <vertex x="1.23" y="0.30" />
 <vertex x="1.18" y="0.23" />
-<vertex x="1.12" y="0.20" />
-<vertex x="1.04" y="0.21" />
+<vertex x="1.11" y="0.19" />
+<vertex x="1.04" y="0.22" />
 <vertex x="0.96" y="0.27" />
 <vertex x="0.94" y="0.34" />
-<vertex x="0.96" y="0.41" />
-<vertex x="1.01" y="0.49" />
+<vertex x="0.96" y="0.42" />
+<vertex x="1.01" y="0.50" />
 <vertex x="1.07" y="0.55" />
 <vertex x="0.85" y="0.85" />
-<vertex x="0.83" y="0.85" />
+<vertex x="0.82" y="0.85" />
 </polygon>
 </package>
-<package name="#35#A7#321862">
+<package name="#35#A7#32321865">
 <polygon width="0.005" layer="21">
 <vertex x="0.84" y="0.85" />
 <vertex x="0.50" y="0.85" />
@@ -12625,7 +12288,7 @@
 <vertex x="0.84" y="0.85" />
 </polygon>
 </package>
-<package name="#32#A4#321862">
+<package name="#32#A4#32321865">
 <polygon width="0.005" layer="21">
 <vertex x="0.80" y="0.85" />
 <vertex x="0.47" y="0.85" />
@@ -12872,7 +12535,7 @@
 <vertex x="0.80" y="0.85" />
 </polygon>
 </package>
-<package name="#33#A5#321862">
+<package name="#33#A5#32321865">
 <polygon width="0.005" layer="21">
 <vertex x="0.84" y="0.85" />
 <vertex x="0.50" y="0.85" />
@@ -13150,7 +12813,7 @@
 <vertex x="0.84" y="0.85" />
 </polygon>
 </package>
-<package name="#VIN#321862">
+<package name="#VIN#32321865">
 <polygon width="0.005" layer="21">
 <vertex x="0.85" y="0.85" />
 <vertex x="0.51" y="0.85" />
@@ -13237,7 +12900,7 @@
 <vertex x="0.85" y="0.85" />
 </polygon>
 </package>
-<package name="#GND#321863">
+<package name="#GND#32321866">
 <polygon width="0.005" layer="21">
 <vertex x="0.76" y="0.85" />
 <vertex x="0.43" y="0.85" />
@@ -13403,7 +13066,7 @@
 <vertex x="0.76" y="0.85" />
 </polygon>
 </package>
-<package name="#5V#321864">
+<package name="#5V#32321867">
 <polygon width="0.005" layer="21">
 <vertex x="0.78" y="0.85" />
 <vertex x="0.44" y="0.85" />
@@ -13498,7 +13161,7 @@
 <vertex x="0.78" y="0.85" />
 </polygon>
 </package>
-<package name="#3#3V#321864">
+<package name="#3#3V#32321867">
 <polygon width="0.005" layer="21">
 <vertex x="0.78" y="0.85" />
 <vertex x="0.44" y="0.85" />
@@ -13683,7 +13346,7 @@
 <vertex x="0.78" y="0.85" />
 </polygon>
 </package>
-<package name="##RESET##321864">
+<package name="##RESET##32321867">
 <polygon width="0.005" layer="21">
 <vertex x="0.81" y="0.85" />
 <vertex x="0.47" y="0.85" />
@@ -13929,7 +13592,7 @@
 <vertex x="0.81" y="0.85" />
 </polygon>
 </package>
-<package name="#IOREF#321865">
+<package name="#IOREF#32321868">
 <polygon width="0.005" layer="21">
 <vertex x="0.78" y="0.85" />
 <vertex x="0.44" y="0.85" />
@@ -14154,7 +13817,7 @@
 <vertex x="0.78" y="0.85" />
 </polygon>
 </package>
-<package name="#1#TX#O#321866">
+<package name="#1#TX#O#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-7.85" y="0.85" />
 <vertex x="-8.62" y="0.85" />
@@ -14360,7 +14023,7 @@
 <vertex x="-7.85" y="0.85" />
 </polygon>
 </package>
-<package name="#3#RX#I#321866">
+<package name="#3#RX#I#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-7.11" y="0.85" />
 <vertex x="-7.45" y="0.85" />
@@ -14578,7 +14241,7 @@
 <vertex x="-7.11" y="0.85" />
 </polygon>
 </package>
-<package name="#5##CS##321866">
+<package name="#5##CS##32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-5.42" y="0.85" />
 <vertex x="-6.18" y="0.85" />
@@ -14801,7 +14464,7 @@
 <vertex x="-5.42" y="0.85" />
 </polygon>
 </package>
-<package name="#23#PICO#321866">
+<package name="#23#PICO#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-8.75" y="0.85" />
 <vertex x="-9.52" y="0.85" />
@@ -15151,7 +14814,7 @@
 <vertex x="-8.75" y="0.85" />
 </polygon>
 </package>
-<package name="#19#POCI#321866">
+<package name="#19#POCI#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-8.25" y="0.85" />
 <vertex x="-8.59" y="0.85" />
@@ -15460,7 +15123,7 @@
 <vertex x="-8.25" y="0.85" />
 </polygon>
 </package>
-<package name="#18#SCK#321866">
+<package name="#18#SCK#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-7.43" y="0.85" />
 <vertex x="-8.20" y="0.85" />
@@ -15746,7 +15409,7 @@
 <vertex x="-7.43" y="0.85" />
 </polygon>
 </package>
-<package name="##ALERT##4#321866">
+<package name="##ALERT##4#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-7.48" y="0.68" />
 <vertex x="-7.55" y="0.67" />
@@ -16017,7 +15680,7 @@
 <vertex x="-7.48" y="0.68" />
 </polygon>
 </package>
-<package name="#13#TCK#321866">
+<package name="#13#TCK#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-7.80" y="0.84" />
 <vertex x="-7.88" y="0.83" />
@@ -16287,7 +15950,7 @@
 <vertex x="-7.80" y="0.84" />
 </polygon>
 </package>
-<package name="#14#TMS#321866">
+<package name="#14#TMS#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-7.95" y="0.84" />
 <vertex x="-8.03" y="0.83" />
@@ -16526,7 +16189,7 @@
 <vertex x="-7.95" y="0.84" />
 </polygon>
 </package>
-<package name="#16#321866">
+<package name="#16#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-2.79" y="0.85" />
 <vertex x="-2.87" y="0.84" />
@@ -16651,7 +16314,7 @@
 <vertex x="-2.79" y="0.85" />
 </polygon>
 </package>
-<package name="#17#321866">
+<package name="#17#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-2.87" y="0.84" />
 <vertex x="-2.95" y="0.83" />
@@ -16753,7 +16416,7 @@
 <vertex x="-2.87" y="0.84" />
 </polygon>
 </package>
-<package name="#25#321866">
+<package name="#25#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-3.07" y="0.85" />
 <vertex x="-3.16" y="0.84" />
@@ -16907,7 +16570,7 @@
 <vertex x="-3.07" y="0.85" />
 </polygon>
 </package>
-<package name="#26#321866">
+<package name="#26#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-3.17" y="0.84" />
 <vertex x="-3.25" y="0.83" />
@@ -17069,7 +16732,7 @@
 <vertex x="-3.17" y="0.84" />
 </polygon>
 </package>
-<package name="#27#321866">
+<package name="#27#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-3.21" y="0.84" />
 <vertex x="-3.29" y="0.83" />
@@ -17209,7 +16872,7 @@
 <vertex x="-3.21" y="0.84" />
 </polygon>
 </package>
-<package name="#21#SDA#321866">
+<package name="#21#SDA#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-7.81" y="0.84" />
 <vertex x="-7.90" y="0.83" />
@@ -17495,7 +17158,7 @@
 <vertex x="-7.81" y="0.84" />
 </polygon>
 </package>
-<package name="#22#SCL#321866">
+<package name="#22#SCL#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-7.82" y="0.84" />
 <vertex x="-7.90" y="0.83" />
@@ -17815,7 +17478,7 @@
 <vertex x="-7.82" y="0.84" />
 </polygon>
 </package>
-<package name="#3#3V#321866">
+<package name="#3#3V#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-5.27" y="0.85" />
 <vertex x="-5.61" y="0.85" />
@@ -18000,7 +17663,7 @@
 <vertex x="-5.27" y="0.85" />
 </polygon>
 </package>
-<package name="#GND#321866">
+<package name="#GND#32321869">
 <polygon width="0.005" layer="21">
 <vertex x="-4.81" y="0.85" />
 <vertex x="-5.15" y="0.85" />
@@ -18166,7 +17829,7 @@
 <vertex x="-4.81" y="0.85" />
 </polygon>
 </package>
-<package name="INPUT_ONLY321867">
+<package name="INPUT_ONLY32321870">
 <polygon width="0.005" layer="21">
 <vertex x="-3.80" y="0.37" />
 <vertex x="-3.80" y="-0.38" />
@@ -18525,7 +18188,7 @@
 <vertex x="3.59" y="0.22" />
 </polygon>
 </package>
-<package name="TP1321868">
+<package name="TP132321871">
 <polygon width="0.005" layer="21">
 <vertex x="-1.24" y="0.48" />
 <vertex x="-1.31" y="0.47" />
@@ -18622,6 +18285,654 @@
 <vertex x="1.04" y="0.48" />
 <vertex x="0.98" y="0.45" />
 <vertex x="0.98" y="0.45" />
+</polygon>
+</package>
+<package name="#IOT#132321872">
+<polygon width="0.005" layer="21">
+<vertex x="-1.58" y="0.85" />
+<vertex x="-1.66" y="0.84" />
+<vertex x="-1.74" y="0.82" />
+<vertex x="-1.83" y="0.80" />
+<vertex x="-1.90" y="0.76" />
+<vertex x="-1.98" y="0.72" />
+<vertex x="-2.05" y="0.67" />
+<vertex x="-2.11" y="0.62" />
+<vertex x="-2.17" y="0.56" />
+<vertex x="-2.22" y="0.49" />
+<vertex x="-2.27" y="0.42" />
+<vertex x="-2.31" y="0.35" />
+<vertex x="-2.34" y="0.27" />
+<vertex x="-2.36" y="0.19" />
+<vertex x="-2.38" y="0.10" />
+<vertex x="-2.38" y="0.02" />
+<vertex x="-2.38" y="-0.07" />
+<vertex x="-2.37" y="-0.15" />
+<vertex x="-2.35" y="-0.23" />
+<vertex x="-2.32" y="-0.31" />
+<vertex x="-2.29" y="-0.39" />
+<vertex x="-2.25" y="-0.46" />
+<vertex x="-2.20" y="-0.53" />
+<vertex x="-2.14" y="-0.59" />
+<vertex x="-2.08" y="-0.65" />
+<vertex x="-2.01" y="-0.70" />
+<vertex x="-1.94" y="-0.75" />
+<vertex x="-1.86" y="-0.78" />
+<vertex x="-1.78" y="-0.81" />
+<vertex x="-1.70" y="-0.83" />
+<vertex x="-1.62" y="-0.84" />
+<vertex x="-1.53" y="-0.85" />
+<vertex x="-1.43" y="-0.57" />
+<vertex x="-1.46" y="-0.52" />
+<vertex x="-1.47" y="-0.43" />
+<vertex x="-1.47" y="0.41" />
+<vertex x="-1.47" y="0.50" />
+<vertex x="-1.45" y="0.57" />
+<vertex x="-1.38" y="0.60" />
+<vertex x="-1.27" y="0.60" />
+<vertex x="-1.20" y="0.56" />
+<vertex x="-1.18" y="0.49" />
+<vertex x="-1.18" y="-0.44" />
+<vertex x="-0.65" y="-0.21" />
+<vertex x="-0.66" y="-0.12" />
+<vertex x="-0.63" y="-0.05" />
+<vertex x="-0.57" y="0.00" />
+<vertex x="-0.49" y="0.02" />
+<vertex x="-0.47" y="0.29" />
+<vertex x="-0.38" y="0.28" />
+<vertex x="-0.31" y="0.25" />
+<vertex x="-0.23" y="0.21" />
+<vertex x="-0.17" y="0.15" />
+<vertex x="-0.12" y="0.08" />
+<vertex x="-0.09" y="0.01" />
+<vertex x="-0.07" y="-0.07" />
+<vertex x="-0.06" y="-0.16" />
+<vertex x="-0.07" y="-0.25" />
+<vertex x="-0.10" y="-0.33" />
+<vertex x="-0.14" y="-0.40" />
+<vertex x="-0.20" y="-0.47" />
+<vertex x="-0.26" y="-0.52" />
+<vertex x="-0.34" y="-0.56" />
+<vertex x="-0.42" y="-0.58" />
+<vertex x="-0.50" y="-0.59" />
+<vertex x="-0.58" y="-0.59" />
+<vertex x="-0.66" y="-0.56" />
+<vertex x="-0.74" y="-0.52" />
+<vertex x="-0.81" y="-0.47" />
+<vertex x="-0.86" y="-0.41" />
+<vertex x="-0.91" y="-0.34" />
+<vertex x="-0.94" y="-0.26" />
+<vertex x="-0.95" y="-0.18" />
+<vertex x="-0.95" y="-0.01" />
+<vertex x="-0.91" y="0.09" />
+<vertex x="-0.78" y="0.20" />
+<vertex x="-0.71" y="0.25" />
+<vertex x="-0.63" y="0.28" />
+<vertex x="-0.55" y="0.29" />
+<vertex x="-0.47" y="0.29" />
+<vertex x="-0.49" y="0.02" />
+<vertex x="-0.41" y="-0.02" />
+<vertex x="-0.36" y="-0.08" />
+<vertex x="-0.35" y="-0.17" />
+<vertex x="-0.38" y="-0.24" />
+<vertex x="-0.45" y="-0.29" />
+<vertex x="-0.54" y="-0.30" />
+<vertex x="-0.60" y="-0.28" />
+<vertex x="-0.65" y="-0.22" />
+<vertex x="-1.18" y="-0.44" />
+<vertex x="-1.19" y="-0.53" />
+<vertex x="-1.23" y="-0.58" />
+<vertex x="-1.33" y="-0.59" />
+<vertex x="-1.43" y="-0.57" />
+<vertex x="-1.53" y="-0.85" />
+<vertex x="1.51" y="-0.85" />
+<vertex x="1.60" y="-0.84" />
+<vertex x="1.68" y="-0.83" />
+<vertex x="1.77" y="-0.82" />
+<vertex x="1.85" y="-0.79" />
+<vertex x="1.92" y="-0.75" />
+<vertex x="2.00" y="-0.71" />
+<vertex x="2.07" y="-0.66" />
+<vertex x="2.13" y="-0.61" />
+<vertex x="2.19" y="-0.54" />
+<vertex x="2.24" y="-0.48" />
+<vertex x="2.28" y="-0.40" />
+<vertex x="2.32" y="-0.33" />
+<vertex x="2.35" y="-0.25" />
+<vertex x="2.37" y="-0.17" />
+<vertex x="2.38" y="-0.08" />
+<vertex x="2.38" y="0.00" />
+<vertex x="2.38" y="0.09" />
+<vertex x="2.37" y="0.17" />
+<vertex x="2.34" y="0.25" />
+<vertex x="2.32" y="0.33" />
+<vertex x="2.28" y="0.41" />
+<vertex x="2.23" y="0.48" />
+<vertex x="2.18" y="0.55" />
+<vertex x="2.13" y="0.61" />
+<vertex x="2.06" y="0.66" />
+<vertex x="1.99" y="0.71" />
+<vertex x="1.92" y="0.76" />
+<vertex x="1.84" y="0.79" />
+<vertex x="1.76" y="0.82" />
+<vertex x="1.68" y="0.83" />
+<vertex x="1.59" y="0.84" />
+<vertex x="1.51" y="0.85" />
+<vertex x="1.30" y="0.57" />
+<vertex x="1.31" y="0.48" />
+<vertex x="1.30" y="0.40" />
+<vertex x="1.23" y="0.37" />
+<vertex x="1.14" y="0.36" />
+<vertex x="0.89" y="0.36" />
+<vertex x="0.88" y="0.28" />
+<vertex x="0.88" y="-0.49" />
+<vertex x="0.86" y="-0.56" />
+<vertex x="0.79" y="-0.59" />
+<vertex x="0.69" y="-0.59" />
+<vertex x="0.62" y="-0.56" />
+<vertex x="0.61" y="-0.48" />
+<vertex x="0.61" y="0.28" />
+<vertex x="0.60" y="0.36" />
+<vertex x="0.35" y="0.36" />
+<vertex x="0.26" y="0.37" />
+<vertex x="0.19" y="0.40" />
+<vertex x="0.17" y="0.48" />
+<vertex x="0.19" y="0.57" />
+<vertex x="0.26" y="0.60" />
+<vertex x="0.29" y="0.60" />
+<vertex x="1.14" y="0.60" />
+<vertex x="1.23" y="0.60" />
+<vertex x="1.30" y="0.57" />
+<vertex x="1.51" y="0.85" />
+<vertex x="-1.54" y="0.85" />
+<vertex x="-1.58" y="0.85" />
+</polygon>
+</package>
+<package name="#IOT#132321873">
+<polygon width="0.005" layer="21">
+<vertex x="-1.89" y="1.01" />
+<vertex x="-1.99" y="1.00" />
+<vertex x="-2.09" y="0.98" />
+<vertex x="-2.19" y="0.95" />
+<vertex x="-2.28" y="0.92" />
+<vertex x="-2.37" y="0.87" />
+<vertex x="-2.46" y="0.81" />
+<vertex x="-2.54" y="0.74" />
+<vertex x="-2.61" y="0.67" />
+<vertex x="-2.67" y="0.59" />
+<vertex x="-2.72" y="0.51" />
+<vertex x="-2.77" y="0.42" />
+<vertex x="-2.81" y="0.32" />
+<vertex x="-2.83" y="0.22" />
+<vertex x="-2.85" y="0.12" />
+<vertex x="-2.86" y="0.02" />
+<vertex x="-2.86" y="-0.08" />
+<vertex x="-2.84" y="-0.18" />
+<vertex x="-2.82" y="-0.28" />
+<vertex x="-2.79" y="-0.37" />
+<vertex x="-2.75" y="-0.47" />
+<vertex x="-2.70" y="-0.55" />
+<vertex x="-2.64" y="-0.64" />
+<vertex x="-2.57" y="-0.71" />
+<vertex x="-2.49" y="-0.78" />
+<vertex x="-2.41" y="-0.84" />
+<vertex x="-2.33" y="-0.89" />
+<vertex x="-2.23" y="-0.94" />
+<vertex x="-2.14" y="-0.97" />
+<vertex x="-2.04" y="-1.00" />
+<vertex x="-1.94" y="-1.01" />
+<vertex x="-1.84" y="-1.02" />
+<vertex x="-1.71" y="-0.69" />
+<vertex x="-1.76" y="-0.63" />
+<vertex x="-1.76" y="-0.52" />
+<vertex x="-1.76" y="0.50" />
+<vertex x="-1.76" y="0.59" />
+<vertex x="-1.74" y="0.68" />
+<vertex x="-1.66" y="0.72" />
+<vertex x="-1.53" y="0.72" />
+<vertex x="-1.44" y="0.67" />
+<vertex x="-1.42" y="0.59" />
+<vertex x="-1.42" y="0.48" />
+<vertex x="-1.42" y="-0.53" />
+<vertex x="-0.78" y="-0.26" />
+<vertex x="-0.80" y="-0.15" />
+<vertex x="-0.76" y="-0.06" />
+<vertex x="-0.68" y="0.00" />
+<vertex x="-0.58" y="0.02" />
+<vertex x="-0.56" y="0.35" />
+<vertex x="-0.46" y="0.34" />
+<vertex x="-0.37" y="0.30" />
+<vertex x="-0.28" y="0.25" />
+<vertex x="-0.21" y="0.18" />
+<vertex x="-0.15" y="0.10" />
+<vertex x="-0.10" y="0.01" />
+<vertex x="-0.08" y="-0.09" />
+<vertex x="-0.08" y="-0.20" />
+<vertex x="-0.09" y="-0.30" />
+<vertex x="-0.12" y="-0.39" />
+<vertex x="-0.17" y="-0.48" />
+<vertex x="-0.24" y="-0.56" />
+<vertex x="-0.31" y="-0.62" />
+<vertex x="-0.40" y="-0.67" />
+<vertex x="-0.50" y="-0.70" />
+<vertex x="-0.60" y="-0.71" />
+<vertex x="-0.70" y="-0.70" />
+<vertex x="-0.80" y="-0.67" />
+<vertex x="-0.89" y="-0.63" />
+<vertex x="-0.97" y="-0.57" />
+<vertex x="-1.04" y="-0.49" />
+<vertex x="-1.09" y="-0.41" />
+<vertex x="-1.13" y="-0.31" />
+<vertex x="-1.14" y="-0.21" />
+<vertex x="-1.14" y="-0.01" />
+<vertex x="-1.09" y="0.11" />
+<vertex x="-0.94" y="0.24" />
+<vertex x="-0.85" y="0.30" />
+<vertex x="-0.76" y="0.33" />
+<vertex x="-0.66" y="0.35" />
+<vertex x="-0.56" y="0.35" />
+<vertex x="-0.58" y="0.02" />
+<vertex x="-0.49" y="-0.02" />
+<vertex x="-0.43" y="-0.10" />
+<vertex x="-0.42" y="-0.20" />
+<vertex x="-0.46" y="-0.29" />
+<vertex x="-0.55" y="-0.35" />
+<vertex x="-0.64" y="-0.37" />
+<vertex x="-0.72" y="-0.33" />
+<vertex x="-0.78" y="-0.26" />
+<vertex x="-1.42" y="-0.53" />
+<vertex x="-1.43" y="-0.63" />
+<vertex x="-1.48" y="-0.70" />
+<vertex x="-1.60" y="-0.71" />
+<vertex x="-1.71" y="-0.69" />
+<vertex x="-1.84" y="-1.02" />
+<vertex x="1.82" y="-1.02" />
+<vertex x="1.92" y="-1.01" />
+<vertex x="2.02" y="-1.00" />
+<vertex x="2.12" y="-0.98" />
+<vertex x="2.22" y="-0.95" />
+<vertex x="2.31" y="-0.90" />
+<vertex x="2.40" y="-0.85" />
+<vertex x="2.48" y="-0.79" />
+<vertex x="2.55" y="-0.73" />
+<vertex x="2.62" y="-0.65" />
+<vertex x="2.68" y="-0.57" />
+<vertex x="2.74" y="-0.48" />
+<vertex x="2.78" y="-0.39" />
+<vertex x="2.82" y="-0.30" />
+<vertex x="2.84" y="-0.20" />
+<vertex x="2.86" y="-0.10" />
+<vertex x="2.86" y="0.00" />
+<vertex x="2.85" y="0.10" />
+<vertex x="2.84" y="0.20" />
+<vertex x="2.81" y="0.30" />
+<vertex x="2.78" y="0.40" />
+<vertex x="2.73" y="0.49" />
+<vertex x="2.68" y="0.58" />
+<vertex x="2.62" y="0.66" />
+<vertex x="2.55" y="0.73" />
+<vertex x="2.47" y="0.80" />
+<vertex x="2.39" y="0.86" />
+<vertex x="2.30" y="0.91" />
+<vertex x="2.21" y="0.95" />
+<vertex x="2.11" y="0.98" />
+<vertex x="2.01" y="1.00" />
+<vertex x="1.91" y="1.01" />
+<vertex x="1.81" y="1.02" />
+<vertex x="1.56" y="0.68" />
+<vertex x="1.57" y="0.58" />
+<vertex x="1.56" y="0.48" />
+<vertex x="1.48" y="0.44" />
+<vertex x="1.37" y="0.44" />
+<vertex x="1.06" y="0.44" />
+<vertex x="1.06" y="0.34" />
+<vertex x="1.06" y="-0.48" />
+<vertex x="1.06" y="-0.58" />
+<vertex x="1.03" y="-0.67" />
+<vertex x="0.94" y="-0.71" />
+<vertex x="0.83" y="-0.71" />
+<vertex x="0.75" y="-0.67" />
+<vertex x="0.73" y="-0.58" />
+<vertex x="0.73" y="0.34" />
+<vertex x="0.72" y="0.44" />
+<vertex x="0.42" y="0.44" />
+<vertex x="0.31" y="0.44" />
+<vertex x="0.23" y="0.48" />
+<vertex x="0.21" y="0.58" />
+<vertex x="0.23" y="0.68" />
+<vertex x="0.31" y="0.72" />
+<vertex x="0.35" y="0.72" />
+<vertex x="1.37" y="0.72" />
+<vertex x="1.47" y="0.72" />
+<vertex x="1.56" y="0.68" />
+<vertex x="1.81" y="1.02" />
+<vertex x="-1.84" y="1.02" />
+<vertex x="-1.89" y="1.01" />
+</polygon>
+</package>
+<package name="#IOT#132321874">
+<polygon width="0.005" layer="21">
+<vertex x="-2.21" y="1.18" />
+<vertex x="-2.33" y="1.17" />
+<vertex x="-2.44" y="1.15" />
+<vertex x="-2.56" y="1.11" />
+<vertex x="-2.67" y="1.07" />
+<vertex x="-2.77" y="1.01" />
+<vertex x="-2.87" y="0.94" />
+<vertex x="-2.96" y="0.87" />
+<vertex x="-3.04" y="0.78" />
+<vertex x="-3.11" y="0.69" />
+<vertex x="-3.18" y="0.59" />
+<vertex x="-3.23" y="0.49" />
+<vertex x="-3.28" y="0.38" />
+<vertex x="-3.31" y="0.26" />
+<vertex x="-3.33" y="0.15" />
+<vertex x="-3.34" y="0.03" />
+<vertex x="-3.33" y="-0.09" />
+<vertex x="-3.32" y="-0.21" />
+<vertex x="-3.29" y="-0.32" />
+<vertex x="-3.25" y="-0.44" />
+<vertex x="-3.20" y="-0.54" />
+<vertex x="-3.14" y="-0.65" />
+<vertex x="-3.08" y="-0.74" />
+<vertex x="-3.00" y="-0.83" />
+<vertex x="-2.91" y="-0.91" />
+<vertex x="-2.81" y="-0.98" />
+<vertex x="-2.71" y="-1.04" />
+<vertex x="-2.61" y="-1.09" />
+<vertex x="-2.50" y="-1.13" />
+<vertex x="-2.38" y="-1.16" />
+<vertex x="-2.26" y="-1.18" />
+<vertex x="-2.15" y="-1.19" />
+<vertex x="-2.00" y="-0.80" />
+<vertex x="-2.05" y="-0.73" />
+<vertex x="-2.06" y="-0.61" />
+<vertex x="-2.06" y="0.58" />
+<vertex x="-2.06" y="0.69" />
+<vertex x="-2.03" y="0.79" />
+<vertex x="-1.93" y="0.84" />
+<vertex x="-1.78" y="0.84" />
+<vertex x="-1.68" y="0.79" />
+<vertex x="-1.65" y="0.69" />
+<vertex x="-1.65" y="0.56" />
+<vertex x="-1.65" y="-0.62" />
+<vertex x="-0.91" y="-0.30" />
+<vertex x="-0.93" y="-0.17" />
+<vertex x="-0.89" y="-0.07" />
+<vertex x="-0.79" y="0.01" />
+<vertex x="-0.68" y="0.02" />
+<vertex x="-0.65" y="0.41" />
+<vertex x="-0.54" y="0.39" />
+<vertex x="-0.43" y="0.35" />
+<vertex x="-0.33" y="0.29" />
+<vertex x="-0.24" y="0.21" />
+<vertex x="-0.17" y="0.12" />
+<vertex x="-0.12" y="0.01" />
+<vertex x="-0.10" y="-0.10" />
+<vertex x="-0.09" y="-0.23" />
+<vertex x="-0.10" y="-0.35" />
+<vertex x="-0.14" y="-0.46" />
+<vertex x="-0.20" y="-0.56" />
+<vertex x="-0.28" y="-0.65" />
+<vertex x="-0.37" y="-0.73" />
+<vertex x="-0.47" y="-0.78" />
+<vertex x="-0.59" y="-0.82" />
+<vertex x="-0.70" y="-0.83" />
+<vertex x="-0.82" y="-0.82" />
+<vertex x="-0.93" y="-0.79" />
+<vertex x="-1.04" y="-0.73" />
+<vertex x="-1.13" y="-0.66" />
+<vertex x="-1.21" y="-0.57" />
+<vertex x="-1.27" y="-0.47" />
+<vertex x="-1.31" y="-0.36" />
+<vertex x="-1.33" y="-0.25" />
+<vertex x="-1.33" y="-0.01" />
+<vertex x="-1.28" y="0.12" />
+<vertex x="-1.19" y="0.20" />
+<vertex x="-1.10" y="0.28" />
+<vertex x="-1.00" y="0.35" />
+<vertex x="-0.89" y="0.39" />
+<vertex x="-0.77" y="0.41" />
+<vertex x="-0.65" y="0.41" />
+<vertex x="-0.68" y="0.02" />
+<vertex x="-0.57" y="-0.02" />
+<vertex x="-0.51" y="-0.11" />
+<vertex x="-0.49" y="-0.24" />
+<vertex x="-0.54" y="-0.34" />
+<vertex x="-0.64" y="-0.41" />
+<vertex x="-0.75" y="-0.43" />
+<vertex x="-0.84" y="-0.39" />
+<vertex x="-0.91" y="-0.30" />
+<vertex x="-1.65" y="-0.62" />
+<vertex x="-1.67" y="-0.74" />
+<vertex x="-1.73" y="-0.81" />
+<vertex x="-1.87" y="-0.83" />
+<vertex x="-2.00" y="-0.80" />
+<vertex x="-2.14" y="-1.19" />
+<vertex x="2.12" y="-1.19" />
+<vertex x="2.24" y="-1.18" />
+<vertex x="2.36" y="-1.17" />
+<vertex x="2.47" y="-1.14" />
+<vertex x="2.58" y="-1.10" />
+<vertex x="2.69" y="-1.05" />
+<vertex x="2.80" y="-1.00" />
+<vertex x="2.89" y="-0.93" />
+<vertex x="2.98" y="-0.85" />
+<vertex x="3.06" y="-0.76" />
+<vertex x="3.13" y="-0.67" />
+<vertex x="3.19" y="-0.57" />
+<vertex x="3.24" y="-0.46" />
+<vertex x="3.28" y="-0.35" />
+<vertex x="3.31" y="-0.23" />
+<vertex x="3.33" y="-0.11" />
+<vertex x="3.34" y="0.00" />
+<vertex x="3.33" y="0.12" />
+<vertex x="3.31" y="0.24" />
+<vertex x="3.28" y="0.35" />
+<vertex x="3.24" y="0.46" />
+<vertex x="3.19" y="0.57" />
+<vertex x="3.13" y="0.67" />
+<vertex x="3.06" y="0.77" />
+<vertex x="2.98" y="0.85" />
+<vertex x="2.89" y="0.93" />
+<vertex x="2.79" y="1.00" />
+<vertex x="2.69" y="1.06" />
+<vertex x="2.58" y="1.11" />
+<vertex x="2.47" y="1.14" />
+<vertex x="2.35" y="1.17" />
+<vertex x="2.23" y="1.18" />
+<vertex x="2.11" y="1.19" />
+<vertex x="1.82" y="0.79" />
+<vertex x="1.83" y="0.68" />
+<vertex x="1.82" y="0.56" />
+<vertex x="1.72" y="0.51" />
+<vertex x="1.60" y="0.51" />
+<vertex x="1.24" y="0.51" />
+<vertex x="1.24" y="0.39" />
+<vertex x="1.24" y="-0.55" />
+<vertex x="1.24" y="-0.68" />
+<vertex x="1.20" y="-0.78" />
+<vertex x="1.10" y="-0.83" />
+<vertex x="0.97" y="-0.83" />
+<vertex x="0.87" y="-0.78" />
+<vertex x="0.85" y="-0.68" />
+<vertex x="0.85" y="0.40" />
+<vertex x="0.84" y="0.51" />
+<vertex x="0.48" y="0.51" />
+<vertex x="0.36" y="0.51" />
+<vertex x="0.26" y="0.56" />
+<vertex x="0.24" y="0.68" />
+<vertex x="0.27" y="0.79" />
+<vertex x="0.36" y="0.84" />
+<vertex x="0.41" y="0.84" />
+<vertex x="1.59" y="0.84" />
+<vertex x="1.72" y="0.84" />
+<vertex x="1.82" y="0.79" />
+<vertex x="2.11" y="1.19" />
+<vertex x="-2.15" y="1.19" />
+<vertex x="-2.21" y="1.18" />
+</polygon>
+</package>
+<package name="#IOT#132321875">
+<polygon width="0.005" layer="21">
+<vertex x="-2.52" y="1.35" />
+<vertex x="-2.66" y="1.34" />
+<vertex x="-2.79" y="1.31" />
+<vertex x="-2.92" y="1.27" />
+<vertex x="-3.05" y="1.22" />
+<vertex x="-3.16" y="1.16" />
+<vertex x="-3.28" y="1.08" />
+<vertex x="-3.38" y="0.99" />
+<vertex x="-3.47" y="0.90" />
+<vertex x="-3.56" y="0.79" />
+<vertex x="-3.63" y="0.68" />
+<vertex x="-3.69" y="0.56" />
+<vertex x="-3.74" y="0.43" />
+<vertex x="-3.78" y="0.30" />
+<vertex x="-3.80" y="0.17" />
+<vertex x="-3.81" y="0.03" />
+<vertex x="-3.81" y="-0.10" />
+<vertex x="-3.79" y="-0.24" />
+<vertex x="-3.76" y="-0.37" />
+<vertex x="-3.72" y="-0.50" />
+<vertex x="-3.66" y="-0.62" />
+<vertex x="-3.59" y="-0.74" />
+<vertex x="-3.51" y="-0.85" />
+<vertex x="-3.42" y="-0.95" />
+<vertex x="-3.33" y="-1.04" />
+<vertex x="-3.22" y="-1.12" />
+<vertex x="-3.10" y="-1.19" />
+<vertex x="-2.98" y="-1.25" />
+<vertex x="-2.85" y="-1.30" />
+<vertex x="-2.72" y="-1.33" />
+<vertex x="-2.59" y="-1.35" />
+<vertex x="-2.45" y="-1.35" />
+<vertex x="-2.28" y="-0.92" />
+<vertex x="-2.34" y="-0.84" />
+<vertex x="-2.35" y="-0.69" />
+<vertex x="-2.35" y="0.66" />
+<vertex x="-2.35" y="0.79" />
+<vertex x="-2.32" y="0.91" />
+<vertex x="-2.21" y="0.96" />
+<vertex x="-2.03" y="0.95" />
+<vertex x="-1.92" y="0.90" />
+<vertex x="-1.89" y="0.78" />
+<vertex x="-1.89" y="0.64" />
+<vertex x="-1.89" y="-0.71" />
+<vertex x="-1.05" y="-0.34" />
+<vertex x="-1.06" y="-0.20" />
+<vertex x="-1.02" y="-0.07" />
+<vertex x="-0.91" y="0.01" />
+<vertex x="-0.78" y="0.03" />
+<vertex x="-0.75" y="0.47" />
+<vertex x="-0.61" y="0.45" />
+<vertex x="-0.49" y="0.40" />
+<vertex x="-0.38" y="0.33" />
+<vertex x="-0.27" y="0.24" />
+<vertex x="-0.19" y="0.13" />
+<vertex x="-0.14" y="0.01" />
+<vertex x="-0.11" y="-0.12" />
+<vertex x="-0.10" y="-0.26" />
+<vertex x="-0.12" y="-0.40" />
+<vertex x="-0.16" y="-0.52" />
+<vertex x="-0.23" y="-0.64" />
+<vertex x="-0.32" y="-0.75" />
+<vertex x="-0.42" y="-0.83" />
+<vertex x="-0.54" y="-0.89" />
+<vertex x="-0.67" y="-0.93" />
+<vertex x="-0.80" y="-0.95" />
+<vertex x="-0.93" y="-0.94" />
+<vertex x="-1.06" y="-0.90" />
+<vertex x="-1.18" y="-0.84" />
+<vertex x="-1.29" y="-0.76" />
+<vertex x="-1.38" y="-0.66" />
+<vertex x="-1.46" y="-0.54" />
+<vertex x="-1.50" y="-0.42" />
+<vertex x="-1.52" y="-0.28" />
+<vertex x="-1.52" y="-0.01" />
+<vertex x="-1.46" y="0.14" />
+<vertex x="-1.36" y="0.23" />
+<vertex x="-1.25" y="0.32" />
+<vertex x="-1.14" y="0.40" />
+<vertex x="-1.02" y="0.44" />
+<vertex x="-0.88" y="0.47" />
+<vertex x="-0.75" y="0.47" />
+<vertex x="-0.78" y="0.03" />
+<vertex x="-0.66" y="-0.02" />
+<vertex x="-0.58" y="-0.13" />
+<vertex x="-0.56" y="-0.27" />
+<vertex x="-0.62" y="-0.39" />
+<vertex x="-0.73" y="-0.47" />
+<vertex x="-0.86" y="-0.49" />
+<vertex x="-0.96" y="-0.44" />
+<vertex x="-1.04" y="-0.34" />
+<vertex x="-1.89" y="-0.71" />
+<vertex x="-1.90" y="-0.84" />
+<vertex x="-1.98" y="-0.93" />
+<vertex x="-2.13" y="-0.95" />
+<vertex x="-2.28" y="-0.92" />
+<vertex x="-2.45" y="-1.35" />
+<vertex x="2.42" y="-1.35" />
+<vertex x="2.56" y="-1.35" />
+<vertex x="2.69" y="-1.33" />
+<vertex x="2.83" y="-1.30" />
+<vertex x="2.95" y="-1.26" />
+<vertex x="3.08" y="-1.21" />
+<vertex x="3.19" y="-1.14" />
+<vertex x="3.30" y="-1.06" />
+<vertex x="3.41" y="-0.97" />
+<vertex x="3.50" y="-0.87" />
+<vertex x="3.58" y="-0.76" />
+<vertex x="3.65" y="-0.65" />
+<vertex x="3.71" y="-0.52" />
+<vertex x="3.75" y="-0.40" />
+<vertex x="3.79" y="-0.27" />
+<vertex x="3.81" y="-0.13" />
+<vertex x="3.81" y="0.00" />
+<vertex x="3.81" y="0.14" />
+<vertex x="3.79" y="0.27" />
+<vertex x="3.75" y="0.40" />
+<vertex x="3.71" y="0.53" />
+<vertex x="3.65" y="0.65" />
+<vertex x="3.57" y="0.77" />
+<vertex x="3.49" y="0.88" />
+<vertex x="3.40" y="0.97" />
+<vertex x="3.30" y="1.06" />
+<vertex x="3.19" y="1.14" />
+<vertex x="3.07" y="1.21" />
+<vertex x="2.95" y="1.26" />
+<vertex x="2.82" y="1.31" />
+<vertex x="2.69" y="1.34" />
+<vertex x="2.55" y="1.35" />
+<vertex x="2.42" y="1.35" />
+<vertex x="2.08" y="0.91" />
+<vertex x="2.09" y="0.78" />
+<vertex x="2.08" y="0.64" />
+<vertex x="1.97" y="0.59" />
+<vertex x="1.82" y="0.58" />
+<vertex x="1.42" y="0.58" />
+<vertex x="1.42" y="0.45" />
+<vertex x="1.42" y="-0.63" />
+<vertex x="1.41" y="-0.78" />
+<vertex x="1.37" y="-0.90" />
+<vertex x="1.26" y="-0.94" />
+<vertex x="1.11" y="-0.94" />
+<vertex x="1.00" y="-0.89" />
+<vertex x="0.97" y="-0.77" />
+<vertex x="0.97" y="0.46" />
+<vertex x="0.96" y="0.58" />
+<vertex x="0.55" y="0.58" />
+<vertex x="0.41" y="0.59" />
+<vertex x="0.30" y="0.64" />
+<vertex x="0.28" y="0.77" />
+<vertex x="0.30" y="0.91" />
+<vertex x="0.42" y="0.96" />
+<vertex x="0.47" y="0.96" />
+<vertex x="1.82" y="0.96" />
+<vertex x="1.96" y="0.96" />
+<vertex x="2.08" y="0.91" />
+<vertex x="2.42" y="1.35" />
+<vertex x="-2.46" y="1.35" />
+<vertex x="-2.52" y="1.35" />
 </polygon>
 </package>
 </packages>
@@ -18794,125 +19105,143 @@
 <symbol name="ESP321855">
 <text x="0" y="0" size="1.778" layer="94">ESP32</text>
 </symbol>
-<symbol name="REDBOARD321856">
-<text x="0" y="0" size="1.778" layer="94">RedBoard</text>
+<symbol name="ESP32321856">
+<text x="0" y="0" size="1.778" layer="94">ESP32</text>
 </symbol>
-<symbol name="ESP32_REDBOARD321857">
-<text x="0" y="0" size="1.778" layer="94">ESP32_RedBoard</text>
+<symbol name="MADE_IN32321857">
+<text x="0" y="0" size="1.778" layer="94">MADE_IN</text>
 </symbol>
-<symbol name="MADE_IN_THE_USA321857">
-<text x="0" y="0" size="1.778" layer="94">Made_in_the_USA</text>
+<symbol name="THE_USA32321858">
+<text x="0" y="0" size="1.778" layer="94">THE_USA</text>
 </symbol>
-<symbol name="7#15V321858">
+<symbol name="MADE_IN32321859">
+<text x="0" y="0" size="1.778" layer="94">MADE_IN</text>
+</symbol>
+<symbol name="THE_USA32321860">
+<text x="0" y="0" size="1.778" layer="94">THE_USA</text>
+</symbol>
+<symbol name="7#15V32321861">
 <text x="0" y="0" size="1.778" layer="94">7#15V</text>
 </symbol>
-<symbol name="V321858">
+<symbol name="V32321861">
 <text x="0" y="0" size="1.778" layer="94">V</text>
 </symbol>
-<symbol name="D#321859">
+<symbol name="D#32321862">
 <text x="0" y="0" size="1.778" layer="94">D#</text>
 </symbol>
-<symbol name="D#321860">
+<symbol name="D#32321863">
 <text x="0" y="0" size="1.778" layer="94">D#</text>
 </symbol>
-<symbol name="G321861">
+<symbol name="G32321864">
 <text x="0" y="0" size="1.778" layer="94">G</text>
 </symbol>
-<symbol name="#36#A0#321862">
+<symbol name="#36#A0#32321865">
 <text x="0" y="0" size="1.778" layer="94">#36#A0#</text>
 </symbol>
-<symbol name="#39#A3#321862">
+<symbol name="#39#A3#32321865">
 <text x="0" y="0" size="1.778" layer="94">#39#A3#</text>
 </symbol>
-<symbol name="#34#A6#321862">
+<symbol name="#34#A6#32321865">
 <text x="0" y="0" size="1.778" layer="94">#34#A6#</text>
 </symbol>
-<symbol name="#35#A7#321862">
+<symbol name="#35#A7#32321865">
 <text x="0" y="0" size="1.778" layer="94">#35#A7#</text>
 </symbol>
-<symbol name="#32#A4#321862">
+<symbol name="#32#A4#32321865">
 <text x="0" y="0" size="1.778" layer="94">#32#A4#</text>
 </symbol>
-<symbol name="#33#A5#321862">
+<symbol name="#33#A5#32321865">
 <text x="0" y="0" size="1.778" layer="94">#33#A5#</text>
 </symbol>
-<symbol name="#VIN#321862">
+<symbol name="#VIN#32321865">
 <text x="0" y="0" size="1.778" layer="94">#VIN#</text>
 </symbol>
-<symbol name="#GND#321863">
+<symbol name="#GND#32321866">
 <text x="0" y="0" size="1.778" layer="94">#GND#</text>
 </symbol>
-<symbol name="#5V#321864">
+<symbol name="#5V#32321867">
 <text x="0" y="0" size="1.778" layer="94">#5V#</text>
 </symbol>
-<symbol name="#3#3V#321864">
+<symbol name="#3#3V#32321867">
 <text x="0" y="0" size="1.778" layer="94">#3#3V#</text>
 </symbol>
-<symbol name="##RESET##321864">
+<symbol name="##RESET##32321867">
 <text x="0" y="0" size="1.778" layer="94">##RESET##</text>
 </symbol>
-<symbol name="#IOREF#321865">
+<symbol name="#IOREF#32321868">
 <text x="0" y="0" size="1.778" layer="94">#IOREF#</text>
 </symbol>
-<symbol name="#1#TX#O#321866">
+<symbol name="#1#TX#O#32321869">
 <text x="0" y="0" size="1.778" layer="94">#1#TX#O#</text>
 </symbol>
-<symbol name="#3#RX#I#321866">
+<symbol name="#3#RX#I#32321869">
 <text x="0" y="0" size="1.778" layer="94">#3#RX#I#</text>
 </symbol>
-<symbol name="#5##CS##321866">
+<symbol name="#5##CS##32321869">
 <text x="0" y="0" size="1.778" layer="94">#5##CS##</text>
 </symbol>
-<symbol name="#23#PICO#321866">
+<symbol name="#23#PICO#32321869">
 <text x="0" y="0" size="1.778" layer="94">#23#PICO#</text>
 </symbol>
-<symbol name="#19#POCI#321866">
+<symbol name="#19#POCI#32321869">
 <text x="0" y="0" size="1.778" layer="94">#19#POCI#</text>
 </symbol>
-<symbol name="#18#SCK#321866">
+<symbol name="#18#SCK#32321869">
 <text x="0" y="0" size="1.778" layer="94">#18#SCK#</text>
 </symbol>
-<symbol name="##ALERT##4#321866">
+<symbol name="##ALERT##4#32321869">
 <text x="0" y="0" size="1.778" layer="94">##ALERT##4#</text>
 </symbol>
-<symbol name="#13#TCK#321866">
+<symbol name="#13#TCK#32321869">
 <text x="0" y="0" size="1.778" layer="94">#13#TCK#</text>
 </symbol>
-<symbol name="#14#TMS#321866">
+<symbol name="#14#TMS#32321869">
 <text x="0" y="0" size="1.778" layer="94">#14#TMS#</text>
 </symbol>
-<symbol name="#16#321866">
+<symbol name="#16#32321869">
 <text x="0" y="0" size="1.778" layer="94">#16#</text>
 </symbol>
-<symbol name="#17#321866">
+<symbol name="#17#32321869">
 <text x="0" y="0" size="1.778" layer="94">#17#</text>
 </symbol>
-<symbol name="#25#321866">
+<symbol name="#25#32321869">
 <text x="0" y="0" size="1.778" layer="94">#25#</text>
 </symbol>
-<symbol name="#26#321866">
+<symbol name="#26#32321869">
 <text x="0" y="0" size="1.778" layer="94">#26#</text>
 </symbol>
-<symbol name="#27#321866">
+<symbol name="#27#32321869">
 <text x="0" y="0" size="1.778" layer="94">#27#</text>
 </symbol>
-<symbol name="#21#SDA#321866">
+<symbol name="#21#SDA#32321869">
 <text x="0" y="0" size="1.778" layer="94">#21#SDA#</text>
 </symbol>
-<symbol name="#22#SCL#321866">
+<symbol name="#22#SCL#32321869">
 <text x="0" y="0" size="1.778" layer="94">#22#SCL#</text>
 </symbol>
-<symbol name="#3#3V#321866">
+<symbol name="#3#3V#32321869">
 <text x="0" y="0" size="1.778" layer="94">#3#3V#</text>
 </symbol>
-<symbol name="#GND#321866">
+<symbol name="#GND#32321869">
 <text x="0" y="0" size="1.778" layer="94">#GND#</text>
 </symbol>
-<symbol name="INPUT_ONLY321867">
+<symbol name="INPUT_ONLY32321870">
 <text x="0" y="0" size="1.778" layer="94">Input_Only</text>
 </symbol>
-<symbol name="TP1321868">
+<symbol name="TP132321871">
 <text x="0" y="0" size="1.778" layer="94">TP1</text>
+</symbol>
+<symbol name="#IOT#132321872">
+<text x="0" y="0" size="1.778" layer="94">#IoT#</text>
+</symbol>
+<symbol name="#IOT#132321873">
+<text x="0" y="0" size="1.778" layer="94">#IoT#</text>
+</symbol>
+<symbol name="#IOT#132321874">
+<text x="0" y="0" size="1.778" layer="94">#IoT#</text>
+</symbol>
+<symbol name="#IOT#132321875">
+<text x="0" y="0" size="1.778" layer="94">#IoT#</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -19588,480 +19917,552 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="REDBOARD321856">
+<deviceset name="ESP32321856">
 <gates>
-<gate name="G$1" symbol="REDBOARD321856" x="0" y="0" />
+<gate name="G$1" symbol="ESP32321856" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="REDBOARD321856">
+<device name="" package="ESP32321856">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ESP32_REDBOARD321857">
+<deviceset name="MADE_IN32321857">
 <gates>
-<gate name="G$1" symbol="ESP32_REDBOARD321857" x="0" y="0" />
+<gate name="G$1" symbol="MADE_IN32321857" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="ESP32_REDBOARD321857">
+<device name="" package="MADE_IN32321857">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MADE_IN_THE_USA321857">
+<deviceset name="THE_USA32321858">
 <gates>
-<gate name="G$1" symbol="MADE_IN_THE_USA321857" x="0" y="0" />
+<gate name="G$1" symbol="THE_USA32321858" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="MADE_IN_THE_USA321857">
+<device name="" package="THE_USA32321858">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="7#15V321858">
+<deviceset name="MADE_IN32321859">
 <gates>
-<gate name="G$1" symbol="7#15V321858" x="0" y="0" />
+<gate name="G$1" symbol="MADE_IN32321859" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="7#15V321858">
+<device name="" package="MADE_IN32321859">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="V321858">
+<deviceset name="THE_USA32321860">
 <gates>
-<gate name="G$1" symbol="V321858" x="0" y="0" />
+<gate name="G$1" symbol="THE_USA32321860" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="V321858">
+<device name="" package="THE_USA32321860">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="D#321859">
+<deviceset name="7#15V32321861">
 <gates>
-<gate name="G$1" symbol="D#321859" x="0" y="0" />
+<gate name="G$1" symbol="7#15V32321861" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="D#321859">
+<device name="" package="7#15V32321861">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="D#321860">
+<deviceset name="V32321861">
 <gates>
-<gate name="G$1" symbol="D#321860" x="0" y="0" />
+<gate name="G$1" symbol="V32321861" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="D#321860">
+<device name="" package="V32321861">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="G321861">
+<deviceset name="D#32321862">
 <gates>
-<gate name="G$1" symbol="G321861" x="0" y="0" />
+<gate name="G$1" symbol="D#32321862" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="G321861">
+<device name="" package="D#32321862">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#36#A0#321862">
+<deviceset name="D#32321863">
 <gates>
-<gate name="G$1" symbol="#36#A0#321862" x="0" y="0" />
+<gate name="G$1" symbol="D#32321863" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#36#A0#321862">
+<device name="" package="D#32321863">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#39#A3#321862">
+<deviceset name="G32321864">
 <gates>
-<gate name="G$1" symbol="#39#A3#321862" x="0" y="0" />
+<gate name="G$1" symbol="G32321864" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#39#A3#321862">
+<device name="" package="G32321864">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#34#A6#321862">
+<deviceset name="#36#A0#32321865">
 <gates>
-<gate name="G$1" symbol="#34#A6#321862" x="0" y="0" />
+<gate name="G$1" symbol="#36#A0#32321865" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#34#A6#321862">
+<device name="" package="#36#A0#32321865">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#35#A7#321862">
+<deviceset name="#39#A3#32321865">
 <gates>
-<gate name="G$1" symbol="#35#A7#321862" x="0" y="0" />
+<gate name="G$1" symbol="#39#A3#32321865" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#35#A7#321862">
+<device name="" package="#39#A3#32321865">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#32#A4#321862">
+<deviceset name="#34#A6#32321865">
 <gates>
-<gate name="G$1" symbol="#32#A4#321862" x="0" y="0" />
+<gate name="G$1" symbol="#34#A6#32321865" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#32#A4#321862">
+<device name="" package="#34#A6#32321865">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#33#A5#321862">
+<deviceset name="#35#A7#32321865">
 <gates>
-<gate name="G$1" symbol="#33#A5#321862" x="0" y="0" />
+<gate name="G$1" symbol="#35#A7#32321865" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#33#A5#321862">
+<device name="" package="#35#A7#32321865">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#VIN#321862">
+<deviceset name="#32#A4#32321865">
 <gates>
-<gate name="G$1" symbol="#VIN#321862" x="0" y="0" />
+<gate name="G$1" symbol="#32#A4#32321865" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#VIN#321862">
+<device name="" package="#32#A4#32321865">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#GND#321863">
+<deviceset name="#33#A5#32321865">
 <gates>
-<gate name="G$1" symbol="#GND#321863" x="0" y="0" />
+<gate name="G$1" symbol="#33#A5#32321865" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#GND#321863">
+<device name="" package="#33#A5#32321865">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#5V#321864">
+<deviceset name="#VIN#32321865">
 <gates>
-<gate name="G$1" symbol="#5V#321864" x="0" y="0" />
+<gate name="G$1" symbol="#VIN#32321865" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#5V#321864">
+<device name="" package="#VIN#32321865">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#3#3V#321864">
+<deviceset name="#GND#32321866">
 <gates>
-<gate name="G$1" symbol="#3#3V#321864" x="0" y="0" />
+<gate name="G$1" symbol="#GND#32321866" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#3#3V#321864">
+<device name="" package="#GND#32321866">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="##RESET##321864">
+<deviceset name="#5V#32321867">
 <gates>
-<gate name="G$1" symbol="##RESET##321864" x="0" y="0" />
+<gate name="G$1" symbol="#5V#32321867" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="##RESET##321864">
+<device name="" package="#5V#32321867">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#IOREF#321865">
+<deviceset name="#3#3V#32321867">
 <gates>
-<gate name="G$1" symbol="#IOREF#321865" x="0" y="0" />
+<gate name="G$1" symbol="#3#3V#32321867" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#IOREF#321865">
+<device name="" package="#3#3V#32321867">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#1#TX#O#321866">
+<deviceset name="##RESET##32321867">
 <gates>
-<gate name="G$1" symbol="#1#TX#O#321866" x="0" y="0" />
+<gate name="G$1" symbol="##RESET##32321867" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#1#TX#O#321866">
+<device name="" package="##RESET##32321867">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#3#RX#I#321866">
+<deviceset name="#IOREF#32321868">
 <gates>
-<gate name="G$1" symbol="#3#RX#I#321866" x="0" y="0" />
+<gate name="G$1" symbol="#IOREF#32321868" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#3#RX#I#321866">
+<device name="" package="#IOREF#32321868">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#5##CS##321866">
+<deviceset name="#1#TX#O#32321869">
 <gates>
-<gate name="G$1" symbol="#5##CS##321866" x="0" y="0" />
+<gate name="G$1" symbol="#1#TX#O#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#5##CS##321866">
+<device name="" package="#1#TX#O#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#23#PICO#321866">
+<deviceset name="#3#RX#I#32321869">
 <gates>
-<gate name="G$1" symbol="#23#PICO#321866" x="0" y="0" />
+<gate name="G$1" symbol="#3#RX#I#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#23#PICO#321866">
+<device name="" package="#3#RX#I#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#19#POCI#321866">
+<deviceset name="#5##CS##32321869">
 <gates>
-<gate name="G$1" symbol="#19#POCI#321866" x="0" y="0" />
+<gate name="G$1" symbol="#5##CS##32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#19#POCI#321866">
+<device name="" package="#5##CS##32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#18#SCK#321866">
+<deviceset name="#23#PICO#32321869">
 <gates>
-<gate name="G$1" symbol="#18#SCK#321866" x="0" y="0" />
+<gate name="G$1" symbol="#23#PICO#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#18#SCK#321866">
+<device name="" package="#23#PICO#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="##ALERT##4#321866">
+<deviceset name="#19#POCI#32321869">
 <gates>
-<gate name="G$1" symbol="##ALERT##4#321866" x="0" y="0" />
+<gate name="G$1" symbol="#19#POCI#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="##ALERT##4#321866">
+<device name="" package="#19#POCI#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#13#TCK#321866">
+<deviceset name="#18#SCK#32321869">
 <gates>
-<gate name="G$1" symbol="#13#TCK#321866" x="0" y="0" />
+<gate name="G$1" symbol="#18#SCK#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#13#TCK#321866">
+<device name="" package="#18#SCK#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#14#TMS#321866">
+<deviceset name="##ALERT##4#32321869">
 <gates>
-<gate name="G$1" symbol="#14#TMS#321866" x="0" y="0" />
+<gate name="G$1" symbol="##ALERT##4#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#14#TMS#321866">
+<device name="" package="##ALERT##4#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#16#321866">
+<deviceset name="#13#TCK#32321869">
 <gates>
-<gate name="G$1" symbol="#16#321866" x="0" y="0" />
+<gate name="G$1" symbol="#13#TCK#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#16#321866">
+<device name="" package="#13#TCK#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#17#321866">
+<deviceset name="#14#TMS#32321869">
 <gates>
-<gate name="G$1" symbol="#17#321866" x="0" y="0" />
+<gate name="G$1" symbol="#14#TMS#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#17#321866">
+<device name="" package="#14#TMS#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#25#321866">
+<deviceset name="#16#32321869">
 <gates>
-<gate name="G$1" symbol="#25#321866" x="0" y="0" />
+<gate name="G$1" symbol="#16#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#25#321866">
+<device name="" package="#16#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#26#321866">
+<deviceset name="#17#32321869">
 <gates>
-<gate name="G$1" symbol="#26#321866" x="0" y="0" />
+<gate name="G$1" symbol="#17#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#26#321866">
+<device name="" package="#17#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#27#321866">
+<deviceset name="#25#32321869">
 <gates>
-<gate name="G$1" symbol="#27#321866" x="0" y="0" />
+<gate name="G$1" symbol="#25#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#27#321866">
+<device name="" package="#25#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#21#SDA#321866">
+<deviceset name="#26#32321869">
 <gates>
-<gate name="G$1" symbol="#21#SDA#321866" x="0" y="0" />
+<gate name="G$1" symbol="#26#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#21#SDA#321866">
+<device name="" package="#26#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#22#SCL#321866">
+<deviceset name="#27#32321869">
 <gates>
-<gate name="G$1" symbol="#22#SCL#321866" x="0" y="0" />
+<gate name="G$1" symbol="#27#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#22#SCL#321866">
+<device name="" package="#27#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#3#3V#321866">
+<deviceset name="#21#SDA#32321869">
 <gates>
-<gate name="G$1" symbol="#3#3V#321866" x="0" y="0" />
+<gate name="G$1" symbol="#21#SDA#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#3#3V#321866">
+<device name="" package="#21#SDA#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="#GND#321866">
+<deviceset name="#22#SCL#32321869">
 <gates>
-<gate name="G$1" symbol="#GND#321866" x="0" y="0" />
+<gate name="G$1" symbol="#22#SCL#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="#GND#321866">
+<device name="" package="#22#SCL#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="INPUT_ONLY321867">
+<deviceset name="#3#3V#32321869">
 <gates>
-<gate name="G$1" symbol="INPUT_ONLY321867" x="0" y="0" />
+<gate name="G$1" symbol="#3#3V#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="INPUT_ONLY321867">
+<device name="" package="#3#3V#32321869">
 <technologies>
 <technology name="" />
 </technologies>
 </device>
 </devices>
 </deviceset>
-<deviceset name="TP1321868">
+<deviceset name="#GND#32321869">
 <gates>
-<gate name="G$1" symbol="TP1321868" x="0" y="0" />
+<gate name="G$1" symbol="#GND#32321869" x="0" y="0" />
 </gates>
 <devices>
-<device name="" package="TP1321868">
+<device name="" package="#GND#32321869">
+<technologies>
+<technology name="" />
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="INPUT_ONLY32321870">
+<gates>
+<gate name="G$1" symbol="INPUT_ONLY32321870" x="0" y="0" />
+</gates>
+<devices>
+<device name="" package="INPUT_ONLY32321870">
+<technologies>
+<technology name="" />
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="TP132321871">
+<gates>
+<gate name="G$1" symbol="TP132321871" x="0" y="0" />
+</gates>
+<devices>
+<device name="" package="TP132321871">
+<technologies>
+<technology name="" />
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="#IOT#132321872">
+<gates>
+<gate name="G$1" symbol="#IOT#132321872" x="0" y="0" />
+</gates>
+<devices>
+<device name="" package="#IOT#132321872">
+<technologies>
+<technology name="" />
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="#IOT#132321873">
+<gates>
+<gate name="G$1" symbol="#IOT#132321873" x="0" y="0" />
+</gates>
+<devices>
+<device name="" package="#IOT#132321873">
+<technologies>
+<technology name="" />
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="#IOT#132321874">
+<gates>
+<gate name="G$1" symbol="#IOT#132321874" x="0" y="0" />
+</gates>
+<devices>
+<device name="" package="#IOT#132321874">
+<technologies>
+<technology name="" />
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="#IOT#132321875">
+<gates>
+<gate name="G$1" symbol="#IOT#132321875" x="0" y="0" />
+</gates>
+<devices>
+<device name="" package="#IOT#132321875">
 <technologies>
 <technology name="" />
 </technologies>
