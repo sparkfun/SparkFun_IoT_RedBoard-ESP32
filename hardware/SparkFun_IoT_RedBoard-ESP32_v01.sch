@@ -47467,7 +47467,6 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME" device=".1_INCH" value="SFE_LOGO_NAME.1_INCH"/>
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="QWIIC_LOGO" device="_5MM"/>
 <part name="LOGO3" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="MINI"/>
-<part name="LOGO4" library="SparkFun-Aesthetics" deviceset="QWIIC_LOGO" device="_5MM"/>
 <part name="SUPPLY28" library="SparkFun-PowerSymbols" deviceset="VIN" device=""/>
 <part name="LOGO5" library="SparkFun-Aesthetics" deviceset="SPECIAL_INSTRUCTIONS" device="-ORDERING"/>
 <part name="J16" library="SparkFun-Connectors" deviceset="CONN_02" device="1X02_NO_SILK"/>
@@ -47585,6 +47584,7 @@ Header</text>
 <wire x1="195.58" y1="35.56" x2="195.58" y2="0" width="0.254" layer="97" style="longdash"/>
 <wire x1="154.94" y1="40.64" x2="154.94" y2="0" width="0.254" layer="97" style="longdash"/>
 <wire x1="243.84" y1="35.56" x2="243.84" y2="0" width="0.254" layer="97" style="longdash"/>
+<text x="152.4" y="269.24" size="1.778" layer="94" font="vector" ratio="11" align="bottom-center">Inputs are NOT 5V tolerant.</text>
 </plain>
 <instances>
 <instance part="C4" gate="G$1" x="254" y="220.98" smashed="yes" rot="MR0">
@@ -48254,7 +48254,6 @@ Header</text>
 <instance part="LOGO1" gate="G$1" x="246.38" y="5.08" smashed="yes"/>
 <instance part="LOGO2" gate="G$1" x="317.5" y="27.94" smashed="yes"/>
 <instance part="LOGO3" gate="G$1" x="317.5" y="12.7" smashed="yes"/>
-<instance part="LOGO4" gate="G$1" x="317.5" y="27.94" smashed="yes"/>
 <instance part="SUPPLY28" gate="G$1" x="142.24" y="129.54" smashed="yes">
 <attribute name="VALUE" x="142.24" y="132.334" size="1.778" layer="96" align="bottom-center"/>
 </instance>
@@ -48659,7 +48658,7 @@ Header</text>
 <pinref part="SUPPLY28" gate="G$1" pin="VIN"/>
 </segment>
 </net>
-<net name="VUSB" class="1">
+<net name="VBUS" class="1">
 <segment>
 <pinref part="C4" gate="G$1" pin="1"/>
 <wire x1="254" y1="236.22" x2="256.54" y2="236.22" width="0.1524" layer="91"/>
