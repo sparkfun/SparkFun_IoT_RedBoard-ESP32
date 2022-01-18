@@ -47483,15 +47483,15 @@ T.Igoe, G.Martino, D.Mellis</text>
 <text x="421.64" y="7.62" size="2.54" layer="94" font="vector">v01</text>
 <text x="254" y="254" size="1.778" layer="97" font="vector">This is the penny-in-the-fuse jumper.
 Close only if you know what you're doing.</text>
-<text x="30.48" y="104.14" size="1.778" layer="97">JTAG</text>
-<text x="184.15" y="264.922" size="1.27" layer="96">J6</text>
-<text x="135.636" y="264.922" size="1.27" layer="96">J5</text>
-<text x="184.15" y="229.362" size="1.27" layer="96">J8</text>
-<text x="135.89" y="229.362" size="1.27" layer="96">J7</text>
-<text x="184.15" y="168.402" size="1.27" layer="96">J12</text>
-<text x="135.636" y="168.148" size="1.27" layer="96">J11</text>
-<text x="184.15" y="198.882" size="1.27" layer="96">J10</text>
-<text x="135.89" y="198.882" size="1.27" layer="96">J9</text>
+<text x="30.48" y="106.68" size="1.778" layer="97" font="vector">JTAG</text>
+<text x="184.15" y="264.922" size="1.27" layer="96" font="vector">J6</text>
+<text x="135.636" y="264.922" size="1.27" layer="96" font="vector">J5</text>
+<text x="184.15" y="229.362" size="1.27" layer="96" font="vector">J8</text>
+<text x="135.89" y="229.362" size="1.27" layer="96" font="vector">J7</text>
+<text x="184.15" y="168.402" size="1.27" layer="96" font="vector">J12</text>
+<text x="135.636" y="168.148" size="1.27" layer="96" font="vector">J11</text>
+<text x="184.15" y="198.882" size="1.27" layer="96" font="vector">J10</text>
+<text x="135.89" y="198.882" size="1.27" layer="96" font="vector">J9</text>
 <text x="22.86" y="17.78" size="1.524" layer="97" font="vector">Boot Mode Configuration
 Pin        Default     Boot   Download
 GPIO0        1         1       0
@@ -47531,7 +47531,7 @@ R_PROG=2k : I_CHG=500mA</text>
 <text x="401.32" y="81.28" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">I2C Pullups</text>
 <text x="149.86" y="139.7" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">External Power 5V Regulator</text>
 <text x="147.32" y="81.28" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">3.3V Regulator</text>
-<text x="50.8" y="132.08" size="2.54" layer="97" font="vector" ratio="11" align="bottom-center">JTAG Header</text>
+<text x="50.8" y="134.62" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">JTAG Header</text>
 <text x="50.8" y="157.48" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Fuel Gauge !ALERT!
 Connection Jumper</text>
 <text x="50.8" y="86.36" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Auto Reset</text>
@@ -47585,6 +47585,14 @@ Header</text>
 <wire x1="154.94" y1="40.64" x2="154.94" y2="0" width="0.254" layer="97" style="longdash"/>
 <wire x1="243.84" y1="35.56" x2="243.84" y2="0" width="0.254" layer="97" style="longdash"/>
 <text x="152.4" y="269.24" size="1.778" layer="94" font="vector" ratio="11" align="bottom-center">Inputs are NOT 5V tolerant.</text>
+<text x="386.08" y="213.36" size="1.524" layer="97">I2C Address: 0x36</text>
+<text x="50.8" y="96.52" size="1.27" layer="97" font="vector" align="bottom-center">Open jumpers to isolate GPIO13 
+and GPIO14 from the JTAG header</text>
+<text x="53.34" y="142.24" size="1.27" layer="97" font="vector" align="bottom-center">Close jumper to enable !GAUGE_ALERT!
+to be connected to ESP32 GPIO pin 4</text>
+<text x="129.54" y="2.54" size="1.27" layer="97" font="vector" align="bottom-center">Open jumper to measure
+board current on J14</text>
+<text x="403.86" y="40.64" size="1.27" layer="97" font="vector" align="bottom-center">Open jumper to remove I2C pullups.</text>
 </plain>
 <instances>
 <instance part="C4" gate="G$1" x="254" y="220.98" smashed="yes" rot="MR0">
@@ -47684,9 +47692,9 @@ Header</text>
 <instance part="J7" gate="G$1" x="137.16" y="218.44" smashed="yes" rot="R180">
 <attribute name="VALUE" x="139.954" y="210.82" size="1.778" layer="96" font="vector" rot="R270"/>
 </instance>
-<instance part="J4" gate="G$1" x="33.02" y="114.3" smashed="yes">
-<attribute name="VALUE" x="29.21" y="104.394" size="1.778" layer="96" font="vector"/>
-<attribute name="NAME" x="29.21" y="122.428" size="1.778" layer="95" font="vector"/>
+<instance part="J4" gate="G$1" x="33.02" y="116.84" smashed="yes">
+<attribute name="VALUE" x="29.21" y="106.934" size="1.778" layer="96" font="vector"/>
+<attribute name="NAME" x="29.21" y="124.968" size="1.778" layer="95" font="vector"/>
 </instance>
 <instance part="R7" gate="G$1" x="45.72" y="53.34" smashed="yes">
 <attribute name="NAME" x="45.72" y="54.864" size="1.778" layer="95" font="vector" align="bottom-center"/>
@@ -47860,8 +47868,8 @@ Header</text>
 <instance part="GND35" gate="1" x="231.14" y="5.08" smashed="yes">
 <attribute name="VALUE" x="231.14" y="4.826" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="GND1" gate="1" x="22.86" y="104.14" smashed="yes">
-<attribute name="VALUE" x="22.86" y="103.886" size="1.778" layer="96" align="top-center"/>
+<instance part="GND1" gate="1" x="22.86" y="106.68" smashed="yes">
+<attribute name="VALUE" x="22.86" y="106.426" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="JP11" gate="G$1" x="406.4" y="63.5" smashed="yes" rot="R270">
 <attribute name="NAME" x="406.4" y="60.96" size="1.778" layer="95" font="vector" align="center"/>
@@ -47884,7 +47892,7 @@ Header</text>
 </instance>
 <instance part="J15" gate="J1" x="393.7" y="111.76" smashed="yes" rot="MR0">
 <attribute name="NAME" x="398.78" y="124.968" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="398.78" y="96.52" size="1.778" layer="96" rot="MR0"/>
+<attribute name="VALUE" x="398.78" y="96.52" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
 <instance part="SUPPLY27" gate="G$1" x="403.86" y="124.46" smashed="yes">
 <attribute name="VALUE" x="403.86" y="127.254" size="1.778" layer="96" align="bottom-center"/>
@@ -47895,13 +47903,13 @@ Header</text>
 <instance part="GND24" gate="1" x="254" y="213.36" smashed="yes">
 <attribute name="VALUE" x="254" y="213.106" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="JP13" gate="G$1" x="50.8" y="101.6" smashed="yes">
-<attribute name="NAME" x="50.8" y="98.044" size="1.778" layer="95" font="vector" align="center"/>
-<attribute name="VALUE" x="50.8" y="98.552" size="1.778" layer="96" font="vector" align="center" display="off"/>
+<instance part="JP13" gate="G$1" x="50.8" y="104.14" smashed="yes">
+<attribute name="NAME" x="50.8" y="100.584" size="1.778" layer="95" font="vector" align="center"/>
+<attribute name="VALUE" x="50.8" y="101.092" size="1.778" layer="96" font="vector" align="center" display="off"/>
 </instance>
-<instance part="JP14" gate="G$1" x="50.8" y="124.46" smashed="yes">
-<attribute name="NAME" x="50.8" y="127.508" size="1.778" layer="95" font="vector" align="center"/>
-<attribute name="VALUE" x="50.8" y="121.412" size="1.778" layer="96" font="vector" align="center" display="off"/>
+<instance part="JP14" gate="G$1" x="50.8" y="127" smashed="yes">
+<attribute name="NAME" x="50.8" y="130.048" size="1.778" layer="95" font="vector" align="center"/>
+<attribute name="VALUE" x="50.8" y="123.952" size="1.778" layer="96" font="vector" align="center" display="off"/>
 </instance>
 <instance part="C10" gate="G$1" x="170.18" y="121.92" smashed="yes">
 <attribute name="NAME" x="171.196" y="122.555" size="1.778" layer="95" font="vector"/>
@@ -48266,9 +48274,9 @@ Header</text>
 <attribute name="VALUE" x="297.18" y="187.706" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="LOGO6" gate="G$1" x="247.65" y="4.826" smashed="yes"/>
-<instance part="TP1" gate="G$1" x="48.26" y="106.68" smashed="yes">
-<attribute name="NAME" x="53.34" y="106.68" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="45.72" y="104.14" size="1.778" layer="96" font="vector" display="off"/>
+<instance part="TP1" gate="G$1" x="48.26" y="109.22" smashed="yes">
+<attribute name="NAME" x="53.34" y="109.22" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="45.72" y="106.68" size="1.778" layer="96" font="vector" display="off"/>
 </instance>
 </instances>
 <busses>
@@ -48440,20 +48448,20 @@ Header</text>
 </segment>
 <segment>
 <pinref part="J4" gate="G$1" pin="3"/>
-<wire x1="25.4" y1="116.84" x2="22.86" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="116.84" x2="22.86" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="119.38" x2="22.86" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="119.38" x2="22.86" y2="116.84" width="0.1524" layer="91"/>
 <pinref part="J4" gate="G$1" pin="9"/>
+<wire x1="22.86" y1="116.84" x2="22.86" y2="114.3" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="114.3" x2="22.86" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="111.76" x2="22.86" y2="109.22" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="109.22" x2="22.86" y2="106.68" width="0.1524" layer="91"/>
-<wire x1="25.4" y1="109.22" x2="22.86" y2="109.22" width="0.1524" layer="91"/>
-<junction x="22.86" y="109.22"/>
-<pinref part="J4" gate="G$1" pin="7"/>
 <wire x1="25.4" y1="111.76" x2="22.86" y2="111.76" width="0.1524" layer="91"/>
 <junction x="22.86" y="111.76"/>
-<pinref part="J4" gate="G$1" pin="5"/>
+<pinref part="J4" gate="G$1" pin="7"/>
 <wire x1="25.4" y1="114.3" x2="22.86" y2="114.3" width="0.1524" layer="91"/>
 <junction x="22.86" y="114.3"/>
+<pinref part="J4" gate="G$1" pin="5"/>
+<wire x1="25.4" y1="116.84" x2="22.86" y2="116.84" width="0.1524" layer="91"/>
+<junction x="22.86" y="116.84"/>
 <pinref part="GND1" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -48793,12 +48801,12 @@ Header</text>
 <net name="ESP32_GPIO12_TDI" class="0">
 <segment>
 <pinref part="J4" gate="G$1" pin="8"/>
-<wire x1="40.64" y1="111.76" x2="45.72" y2="111.76" width="0.1524" layer="91"/>
-<label x="48.26" y="111.76" size="1.27" layer="95" xref="yes"/>
-<wire x1="45.72" y1="111.76" x2="48.26" y2="111.76" width="0.1524" layer="91"/>
-<wire x1="45.72" y1="111.76" x2="45.72" y2="106.68" width="0.1524" layer="91"/>
-<junction x="45.72" y="111.76"/>
-<wire x1="45.72" y1="106.68" x2="48.26" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="114.3" x2="45.72" y2="114.3" width="0.1524" layer="91"/>
+<label x="48.26" y="114.3" size="1.27" layer="95" xref="yes"/>
+<wire x1="45.72" y1="114.3" x2="48.26" y2="114.3" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="114.3" x2="45.72" y2="109.22" width="0.1524" layer="91"/>
+<junction x="45.72" y="114.3"/>
+<wire x1="45.72" y1="109.22" x2="48.26" y2="109.22" width="0.1524" layer="91"/>
 <pinref part="TP1" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -48810,13 +48818,13 @@ Header</text>
 <net name="ESP32_GPIO13_TCK" class="0">
 <segment>
 <pinref part="J4" gate="G$1" pin="4"/>
-<wire x1="40.64" y1="116.84" x2="43.18" y2="116.84" width="0.1524" layer="91"/>
-<label x="48.26" y="116.84" size="1.27" layer="95" xref="yes"/>
-<wire x1="43.18" y1="116.84" x2="48.26" y2="116.84" width="0.1524" layer="91"/>
-<wire x1="43.18" y1="116.84" x2="43.18" y2="101.6" width="0.1524" layer="91"/>
-<junction x="43.18" y="116.84"/>
+<wire x1="40.64" y1="119.38" x2="43.18" y2="119.38" width="0.1524" layer="91"/>
+<label x="48.26" y="119.38" size="1.27" layer="95" xref="yes"/>
+<wire x1="43.18" y1="119.38" x2="48.26" y2="119.38" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="119.38" x2="43.18" y2="104.14" width="0.1524" layer="91"/>
+<junction x="43.18" y="119.38"/>
 <pinref part="JP13" gate="G$1" pin="1"/>
-<wire x1="43.18" y1="101.6" x2="45.72" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="104.14" x2="45.72" y2="104.14" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="U1" pin="MOSI2/IOA13"/>
@@ -48827,13 +48835,13 @@ Header</text>
 <net name="ESP32_GPIO14_TMS" class="0">
 <segment>
 <pinref part="J4" gate="G$1" pin="2"/>
-<wire x1="40.64" y1="119.38" x2="43.18" y2="119.38" width="0.1524" layer="91"/>
-<label x="48.26" y="119.38" size="1.27" layer="95" xref="yes"/>
+<wire x1="40.64" y1="121.92" x2="43.18" y2="121.92" width="0.1524" layer="91"/>
+<label x="48.26" y="121.92" size="1.27" layer="95" xref="yes"/>
 <pinref part="JP14" gate="G$1" pin="1"/>
-<wire x1="43.18" y1="119.38" x2="48.26" y2="119.38" width="0.1524" layer="91"/>
-<wire x1="45.72" y1="124.46" x2="43.18" y2="124.46" width="0.1524" layer="91"/>
-<wire x1="43.18" y1="124.46" x2="43.18" y2="119.38" width="0.1524" layer="91"/>
-<junction x="43.18" y="119.38"/>
+<wire x1="43.18" y1="121.92" x2="48.26" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="127" x2="43.18" y2="127" width="0.1524" layer="91"/>
+<wire x1="43.18" y1="127" x2="43.18" y2="121.92" width="0.1524" layer="91"/>
+<junction x="43.18" y="121.92"/>
 </segment>
 <segment>
 <pinref part="U1" gate="U1" pin="SCK2/IOA14"/>
@@ -49492,15 +49500,15 @@ Header</text>
 </segment>
 <segment>
 <pinref part="J4" gate="G$1" pin="6"/>
-<wire x1="40.64" y1="114.3" x2="48.26" y2="114.3" width="0.1524" layer="91"/>
-<label x="48.26" y="114.3" size="1.27" layer="95" xref="yes"/>
+<wire x1="40.64" y1="116.84" x2="48.26" y2="116.84" width="0.1524" layer="91"/>
+<label x="48.26" y="116.84" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="ESP32_GPIO14_HDR" class="0">
 <segment>
 <pinref part="JP14" gate="G$1" pin="2"/>
-<wire x1="55.88" y1="124.46" x2="58.42" y2="124.46" width="0.1524" layer="91"/>
-<label x="58.42" y="124.46" size="1.27" layer="95" xref="yes"/>
+<wire x1="55.88" y1="127" x2="58.42" y2="127" width="0.1524" layer="91"/>
+<label x="58.42" y="127" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J7" gate="G$1" pin="5"/>
@@ -49516,8 +49524,8 @@ Header</text>
 <net name="ESP32_GPIO13_HDR" class="0">
 <segment>
 <pinref part="JP13" gate="G$1" pin="2"/>
-<wire x1="55.88" y1="101.6" x2="58.42" y2="101.6" width="0.1524" layer="91"/>
-<label x="58.42" y="101.6" size="1.27" layer="95" xref="yes"/>
+<wire x1="55.88" y1="104.14" x2="58.42" y2="104.14" width="0.1524" layer="91"/>
+<label x="58.42" y="104.14" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J7" gate="G$1" pin="4"/>
