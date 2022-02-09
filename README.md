@@ -1,24 +1,22 @@
 SparkFun IoT RedBoard - ESP32
 ========================================
 
-[![SparkFun IoT RedBoard - ESP32](URL for picture of part)](URL for product on Sparkfun.com)
+[![SparkFun IoT RedBoard - ESP32](URL for picture of part)](https://www.sparkfun.com/products/19177)
 
-[*SparkFun IoT RedBoard - ESP32 (SKU)*](URL for product on Sparkfun.com)
+[*SparkFun IoT RedBoard - ESP32 (19177)*](https://www.sparkfun.com/products/19177)
 
 <Basic description of the part.>
 
 Repository Contents
 -------------------
 
-* **/Documentation** - Data sheets, additional product information
+* **/Documents** - Data sheets, additional product information
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
-* **/Production** - Production panel files (.brd)
 
 Documentation
 --------------
 * **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/iot-redboard-esp32-development-board-hookup-guide)** - Basic hookup guide for the SparkFun IoT RedBoard ESP32.
 
  
 License Information
