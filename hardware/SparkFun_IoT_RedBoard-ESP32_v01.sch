@@ -47942,10 +47942,11 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <sheets>
 <sheet>
 <plain>
-<text x="335.534" y="5.842" size="1.778" layer="97" font="vector">Based on Arduino by: M.Banzi, D.Cuartielles, 
+<text x="379.73" y="6.858" size="1.778" layer="97" font="vector">Based on Arduino by:
+M.Banzi, D.Cuartielles,
 T.Igoe, G.Martino, D.Mellis</text>
-<text x="355.854" y="11.176" size="2.54" layer="94" font="vector">Ricardo Ramos</text>
-<text x="421.64" y="7.62" size="2.54" layer="94" font="vector">v01</text>
+<text x="348.996" y="11.684" size="2.54" layer="94" font="vector">Ricardo Ramos</text>
+<text x="421.64" y="7.62" size="2.54" layer="94" font="vector">v02</text>
 <text x="254" y="254" size="1.778" layer="97" font="vector">This is the penny-in-the-fuse jumper.
 Close only if you know what you're doing.</text>
 <text x="30.48" y="106.68" size="1.778" layer="97" font="vector">JTAG</text>
@@ -48050,7 +48051,7 @@ Header</text>
 <wire x1="154.94" y1="40.64" x2="154.94" y2="0" width="0.254" layer="97" style="longdash"/>
 <wire x1="243.84" y1="35.56" x2="243.84" y2="0" width="0.254" layer="97" style="longdash"/>
 <text x="152.4" y="269.24" size="1.778" layer="94" font="vector" ratio="11" align="bottom-center">Inputs are NOT 5V tolerant.</text>
-<text x="386.08" y="213.36" size="1.524" layer="97">I2C Address: 0x36</text>
+<text x="383.54" y="213.36" size="1.524" layer="97" font="vector">I2C Address: 0x36</text>
 <text x="50.8" y="96.52" size="1.27" layer="97" font="vector" align="bottom-center">Open jumpers to isolate GPIO13 
 and GPIO14 from the JTAG header</text>
 <text x="53.34" y="142.24" size="1.27" layer="97" font="vector" align="bottom-center">Close jumper to enable !GAUGE_ALERT!
@@ -48058,6 +48059,7 @@ to be connected to ESP32 GPIO pin 4</text>
 <text x="129.54" y="2.54" size="1.27" layer="97" font="vector" align="bottom-center">Open jumper to measure
 board current on J14</text>
 <text x="403.86" y="40.64" size="1.27" layer="97" font="vector" align="bottom-center">Open jumper to remove I2C pullups.</text>
+<text x="331.47" y="6.604" size="2.54" layer="94" font="vector">Revised by: Dryw Wade</text>
 </plain>
 <instances>
 <instance part="C4" gate="G$1" x="254" y="220.98" smashed="yes" rot="MR0">
