@@ -48470,6 +48470,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="JP15" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1" value="SHLD"/>
 <part name="GND56" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="F1" library="SparkFun-Fuses" deviceset="PPTC" device="_0.75A" value="6V/0.75A/1.5A"/>
+<part name="JP16" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NO" device="_SILK" package3d_urn="urn:adsk.eagle:package:39279/1" value="SD_DET"/>
 </parts>
 <sheets>
 <sheet>
@@ -48590,6 +48591,8 @@ board current on J10</text>
 <wire x1="360.68" y1="236.22" x2="317.5" y2="236.22" width="0.254" layer="97" style="longdash"/>
 <wire x1="317.5" y1="203.2" x2="317.5" y2="236.22" width="0.254" layer="97" style="longdash"/>
 <text x="330.2" y="228.6" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">RGB LED</text>
+<text x="406.4" y="93.98" size="1.27" layer="97" font="vector" align="bottom-center">Close jumper to enable
+SD card detection</text>
 </plain>
 <instances>
 <instance part="C4" gate="G$1" x="144.78" y="12.7" smashed="yes" rot="MR0">
@@ -48884,15 +48887,15 @@ board current on J10</text>
 <attribute name="NAME" x="50.8" y="146.812" size="1.778" layer="95" font="vector" rot="R180" align="center"/>
 <attribute name="VALUE" x="50.8" y="152.908" size="1.778" layer="96" font="vector" rot="R180" align="center" display="off"/>
 </instance>
-<instance part="J15" gate="J1" x="393.7" y="111.76" smashed="yes" rot="MR0">
-<attribute name="NAME" x="398.78" y="124.968" size="1.778" layer="95" rot="MR0"/>
-<attribute name="VALUE" x="398.78" y="96.52" size="1.778" layer="96" rot="MR0" display="off"/>
+<instance part="J15" gate="J1" x="378.46" y="111.76" smashed="yes" rot="MR0">
+<attribute name="NAME" x="383.54" y="124.968" size="1.778" layer="95" rot="MR0"/>
+<attribute name="VALUE" x="383.54" y="96.52" size="1.778" layer="96" rot="MR0" display="off"/>
 </instance>
-<instance part="SUPPLY27" gate="G$1" x="403.86" y="124.46" smashed="yes">
-<attribute name="VALUE" x="403.86" y="127.254" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY27" gate="G$1" x="388.62" y="124.46" smashed="yes">
+<attribute name="VALUE" x="388.62" y="127.254" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="GND33" gate="1" x="403.86" y="96.52" smashed="yes">
-<attribute name="VALUE" x="403.86" y="96.266" size="1.778" layer="96" align="top-center"/>
+<instance part="GND33" gate="1" x="388.62" y="96.52" smashed="yes">
+<attribute name="VALUE" x="388.62" y="96.266" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="GND24" gate="1" x="144.78" y="5.08" smashed="yes">
 <attribute name="VALUE" x="144.78" y="4.826" size="1.778" layer="96" align="top-center"/>
@@ -49295,6 +49298,9 @@ board current on J10</text>
 <attribute name="NAME" x="159.893" y="15.113" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="161.29" y="9.906" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
+<instance part="JP16" gate="G$1" x="398.78" y="99.06" smashed="yes">
+<attribute name="NAME" x="398.78" y="101.854" size="1.778" layer="95" font="vector" align="center"/>
+</instance>
 </instances>
 <busses>
 </busses>
@@ -49487,8 +49493,8 @@ board current on J10</text>
 <segment>
 <pinref part="J15" gate="J1" pin="GND"/>
 <pinref part="GND33" gate="1" pin="GND"/>
-<wire x1="401.32" y1="101.6" x2="403.86" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="403.86" y1="101.6" x2="403.86" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="386.08" y1="101.6" x2="388.62" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="388.62" y1="101.6" x2="388.62" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <wire x1="144.78" y1="7.62" x2="144.78" y2="10.16" width="0.1524" layer="91"/>
@@ -49947,9 +49953,9 @@ board current on J10</text>
 </segment>
 <segment>
 <pinref part="SUPPLY27" gate="G$1" pin="3.3V"/>
-<wire x1="403.86" y1="124.46" x2="403.86" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="388.62" y1="124.46" x2="388.62" y2="121.92" width="0.1524" layer="91"/>
 <pinref part="J15" gate="J1" pin="VCC"/>
-<wire x1="403.86" y1="121.92" x2="401.32" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="388.62" y1="121.92" x2="386.08" y2="121.92" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <wire x1="157.48" y1="68.58" x2="160.02" y2="68.58" width="0.1524" layer="91"/>
@@ -50258,8 +50264,8 @@ board current on J10</text>
 </segment>
 <segment>
 <pinref part="J15" gate="J1" pin="DAT3/!CS!"/>
-<wire x1="401.32" y1="119.38" x2="403.86" y2="119.38" width="0.1524" layer="91"/>
-<label x="403.86" y="119.38" size="1.27" layer="95" xref="yes"/>
+<wire x1="386.08" y1="119.38" x2="388.62" y2="119.38" width="0.1524" layer="91"/>
+<label x="388.62" y="119.38" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <wire x1="132.08" y1="243.84" x2="127" y2="243.84" width="0.1524" layer="91"/>
@@ -50297,8 +50303,8 @@ board current on J10</text>
 </segment>
 <segment>
 <pinref part="J15" gate="J1" pin="CLK/SCK"/>
-<wire x1="401.32" y1="109.22" x2="403.86" y2="109.22" width="0.1524" layer="91"/>
-<label x="403.86" y="109.22" size="1.27" layer="95" xref="yes"/>
+<wire x1="386.08" y1="109.22" x2="388.62" y2="109.22" width="0.1524" layer="91"/>
+<label x="388.62" y="109.22" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="D6" gate="G$1" pin="A"/>
@@ -50324,8 +50330,8 @@ board current on J10</text>
 </segment>
 <segment>
 <pinref part="J15" gate="J1" pin="DAT0/SDO"/>
-<wire x1="401.32" y1="111.76" x2="403.86" y2="111.76" width="0.1524" layer="91"/>
-<label x="403.86" y="111.76" size="1.27" layer="95" xref="yes"/>
+<wire x1="386.08" y1="111.76" x2="388.62" y2="111.76" width="0.1524" layer="91"/>
+<label x="388.62" y="111.76" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <wire x1="132.08" y1="248.92" x2="127" y2="248.92" width="0.1524" layer="91"/>
@@ -50436,6 +50442,11 @@ board current on J10</text>
 <wire x1="180.34" y1="213.36" x2="177.8" y2="213.36" width="0.1524" layer="91"/>
 <label x="177.8" y="213.36" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="J8" gate="G$1" pin="6"/>
+</segment>
+<segment>
+<pinref part="JP16" gate="G$1" pin="2"/>
+<wire x1="403.86" y1="99.06" x2="406.4" y2="99.06" width="0.1524" layer="91"/>
+<label x="406.4" y="99.06" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="V_USB" class="0">
@@ -50949,8 +50960,8 @@ board current on J10</text>
 </segment>
 <segment>
 <pinref part="J15" gate="J1" pin="CMD/SDI"/>
-<wire x1="401.32" y1="106.68" x2="403.86" y2="106.68" width="0.1524" layer="91"/>
-<label x="403.86" y="106.68" size="1.27" layer="95" xref="yes"/>
+<wire x1="386.08" y1="106.68" x2="388.62" y2="106.68" width="0.1524" layer="91"/>
+<label x="388.62" y="106.68" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <wire x1="132.08" y1="246.38" x2="127" y2="246.38" width="0.1524" layer="91"/>
@@ -51004,6 +51015,15 @@ board current on J10</text>
 <pinref part="J2" gate="J1" pin="SHLD"/>
 <wire x1="231.14" y1="210.82" x2="231.14" y2="223.52" width="0.1524" layer="91"/>
 <wire x1="231.14" y1="223.52" x2="223.52" y2="223.52" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$27" class="0">
+<segment>
+<pinref part="J15" gate="J1" pin="DET"/>
+<wire x1="386.08" y1="104.14" x2="391.16" y2="104.14" width="0.1524" layer="91"/>
+<wire x1="391.16" y1="104.14" x2="391.16" y2="99.06" width="0.1524" layer="91"/>
+<pinref part="JP16" gate="G$1" pin="1"/>
+<wire x1="391.16" y1="99.06" x2="393.7" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
