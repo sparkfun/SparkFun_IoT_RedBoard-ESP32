@@ -48471,6 +48471,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND56" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="F1" library="SparkFun-Fuses" deviceset="PPTC" device="_0.75A" value="6V/0.75A/1.5A"/>
 <part name="JP16" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NO" device="_SILK" package3d_urn="urn:adsk.eagle:package:39279/1" value="SD_DET"/>
+<part name="JP17" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="JP18" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="JP19" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="JP20" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="JP21" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
 </parts>
 <sheets>
 <sheet>
@@ -48509,7 +48514,7 @@ If RTS is HIGH, toggling DTR from LOW to HIGH resets to bootloader.</text>
 <text x="152.4" y="48.26" size="1.524" layer="97" font="vector" align="top-center">6V max in
 600mA out
 </text>
-<text x="264.16" y="160.02" size="2.032" layer="97" font="vector" rot="MR0" align="center-left">Charge current:
+<text x="309.88" y="157.48" size="2.032" layer="97" font="vector" rot="MR0" align="center-left">Charge current:
 I_CHG = 1000 / R_PROG
 R_PROG=2k : I_CHG=500mA</text>
 <text x="53.34" y="271.78" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">ESP32</text>
@@ -48593,6 +48598,15 @@ board current on J10</text>
 <text x="330.2" y="228.6" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">RGB LED</text>
 <text x="406.4" y="93.98" size="1.27" layer="97" font="vector" align="bottom-center">Close jumper to enable
 SD card detection</text>
+<text x="317.5" y="246.38" size="1.27" layer="97" font="vector" align="bottom-center">Cut traces to
+remove TX and
+RX LEDs</text>
+<text x="259.08" y="167.64" size="1.27" layer="97" font="vector" align="bottom-center">Cut trace to
+remove charge LED</text>
+<text x="337.82" y="96.52" size="1.27" layer="97" font="vector" align="bottom-center">Cut trace to
+remove power LED</text>
+<text x="220.98" y="12.7" size="1.27" layer="97" font="vector" align="bottom-center">Cut trace to
+remove status LED</text>
 </plain>
 <instances>
 <instance part="C4" gate="G$1" x="144.78" y="12.7" smashed="yes" rot="MR0">
@@ -48629,17 +48643,17 @@ SD card detection</text>
 <attribute name="NAME" x="268.224" y="226.314" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="266.7" y="223.012" size="1.778" layer="96" rot="R270"/>
 </instance>
-<instance part="R5" gate="G$1" x="307.34" y="248.92" smashed="yes" rot="R90">
-<attribute name="NAME" x="305.816" y="248.92" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="308.864" y="248.92" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R5" gate="G$1" x="292.1" y="266.7" smashed="yes" rot="R180">
+<attribute name="NAME" x="292.1" y="265.176" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
+<attribute name="VALUE" x="292.1" y="268.224" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
 <instance part="C7" gate="G$1" x="264.16" y="223.52" smashed="yes">
 <attribute name="NAME" x="263.144" y="226.568" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="263.144" y="216.916" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="R4" gate="G$1" x="299.72" y="248.92" smashed="yes" rot="R90">
-<attribute name="NAME" x="298.196" y="248.92" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="301.244" y="248.92" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R4" gate="G$1" x="292.1" y="256.54" smashed="yes" rot="R180">
+<attribute name="NAME" x="292.1" y="255.016" size="1.778" layer="95" font="vector" rot="R180" align="bottom-center"/>
+<attribute name="VALUE" x="292.1" y="258.064" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
 <instance part="J2" gate="J1" x="210.82" y="228.6" smashed="yes">
 <attribute name="VALUE" x="210.82" y="216.154" size="1.778" layer="96" font="vector" rot="MR180" align="top-left"/>
@@ -48719,11 +48733,11 @@ SD card detection</text>
 <instance part="SUPPLY1" gate="G$1" x="264.16" y="243.84" smashed="yes">
 <attribute name="VALUE" x="264.16" y="246.634" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="SUPPLY2" gate="G$1" x="299.72" y="266.7" smashed="yes">
-<attribute name="VALUE" x="299.72" y="269.494" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY2" gate="G$1" x="274.32" y="259.08" smashed="yes">
+<attribute name="VALUE" x="274.32" y="261.874" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="SUPPLY3" gate="G$1" x="307.34" y="266.7" smashed="yes">
-<attribute name="VALUE" x="307.34" y="269.494" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY3" gate="G$1" x="274.32" y="269.24" smashed="yes">
+<attribute name="VALUE" x="274.32" y="272.034" size="1.778" layer="96" align="bottom-center"/>
 </instance>
 <instance part="SUPPLY5" gate="G$1" x="33.02" y="264.16" smashed="yes">
 <attribute name="VALUE" x="33.02" y="266.954" size="1.778" layer="96" align="bottom-center"/>
@@ -48778,21 +48792,21 @@ SD card detection</text>
 <attribute name="NAME" x="343.916" y="254" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="345.948" y="254" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="D2" gate="G$1" x="299.72" y="261.62" smashed="yes">
-<attribute name="NAME" x="298.831" y="262.128" size="1.778" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="301.625" y="257.048" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
+<instance part="D2" gate="G$1" x="279.4" y="256.54" smashed="yes" rot="R90">
+<attribute name="NAME" x="286.512" y="255.651" size="1.778" layer="95" font="vector" rot="R180"/>
+<attribute name="VALUE" x="286.512" y="258.445" size="1.778" layer="96" font="vector" rot="R180" align="top-left"/>
 </instance>
-<instance part="D3" gate="G$1" x="307.34" y="261.62" smashed="yes">
-<attribute name="NAME" x="306.451" y="262.128" size="1.778" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="309.245" y="257.048" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
+<instance part="D3" gate="G$1" x="279.4" y="266.7" smashed="yes" rot="R90">
+<attribute name="NAME" x="286.512" y="265.811" size="1.778" layer="95" font="vector" rot="R180"/>
+<attribute name="VALUE" x="286.512" y="268.605" size="1.778" layer="96" font="vector" rot="R180" align="top-left"/>
 </instance>
-<instance part="D6" gate="G$1" x="223.52" y="22.86" smashed="yes" rot="R90">
-<attribute name="NAME" x="228.092" y="19.431" size="1.778" layer="95" font="vector" rot="R180"/>
-<attribute name="VALUE" x="228.092" y="24.765" size="1.778" layer="96" font="vector" rot="R180" align="top-left"/>
+<instance part="D6" gate="G$1" x="223.52" y="25.4" smashed="yes" rot="R90">
+<attribute name="NAME" x="228.092" y="21.971" size="1.778" layer="95" font="vector" rot="R180"/>
+<attribute name="VALUE" x="228.092" y="27.305" size="1.778" layer="96" font="vector" rot="R180" align="top-left"/>
 </instance>
-<instance part="R9" gate="G$1" x="231.14" y="15.24" smashed="yes" rot="R90">
-<attribute name="NAME" x="229.616" y="15.24" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="232.664" y="15.24" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R9" gate="G$1" x="231.14" y="17.78" smashed="yes" rot="R90">
+<attribute name="NAME" x="229.616" y="17.78" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="232.664" y="17.78" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
 <instance part="U1" gate="U1" x="55.88" y="213.36" smashed="yes">
 <attribute name="NAME" x="38.1" y="251.714" size="1.778" layer="95"/>
@@ -48862,8 +48876,8 @@ SD card detection</text>
 <instance part="GND23" gate="1" x="345.44" y="243.84" smashed="yes">
 <attribute name="VALUE" x="345.44" y="243.586" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="GND35" gate="1" x="231.14" y="5.08" smashed="yes">
-<attribute name="VALUE" x="231.14" y="4.826" size="1.778" layer="96" align="top-center"/>
+<instance part="GND35" gate="1" x="215.9" y="5.08" smashed="yes">
+<attribute name="VALUE" x="215.9" y="4.826" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="GND1" gate="1" x="22.86" y="106.68" smashed="yes">
 <attribute name="VALUE" x="22.86" y="106.426" size="1.778" layer="96" align="top-center"/>
@@ -49111,27 +49125,27 @@ SD card detection</text>
 <attribute name="VALUE" x="307.34" y="187.706" size="1.778" layer="96" font="vector" rot="R180"/>
 <attribute name="NAME" x="307.34" y="177.292" size="1.778" layer="95" font="vector" rot="R180"/>
 </instance>
-<instance part="R21" gate="G$1" x="246.38" y="172.72" smashed="yes" rot="R90">
-<attribute name="NAME" x="244.856" y="172.72" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="247.904" y="172.72" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R21" gate="G$1" x="236.22" y="167.64" smashed="yes" rot="R270">
+<attribute name="NAME" x="237.744" y="167.64" size="1.778" layer="95" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="VALUE" x="234.696" y="167.64" size="1.778" layer="96" font="vector" rot="R270" align="top-center"/>
 </instance>
 <instance part="R22" gate="G$1" x="276.86" y="175.26" smashed="yes" rot="R90">
 <attribute name="NAME" x="275.336" y="175.26" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="278.384" y="175.26" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="C15" gate="G$1" x="231.14" y="177.8" smashed="yes" rot="MR0">
-<attribute name="NAME" x="229.616" y="180.721" size="1.778" layer="95" font="vector" rot="MR0"/>
-<attribute name="VALUE" x="229.616" y="175.641" size="1.778" layer="96" font="vector" rot="MR0"/>
+<instance part="C15" gate="G$1" x="228.6" y="177.8" smashed="yes" rot="MR0">
+<attribute name="NAME" x="227.076" y="180.721" size="1.778" layer="95" font="vector" rot="MR0"/>
+<attribute name="VALUE" x="227.076" y="175.641" size="1.778" layer="96" font="vector" rot="MR0"/>
 </instance>
-<instance part="D4" gate="G$1" x="238.76" y="180.34" smashed="yes">
-<attribute name="NAME" x="235.331" y="175.768" size="1.778" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="240.665" y="175.768" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
+<instance part="D4" gate="G$1" x="236.22" y="180.34" smashed="yes">
+<attribute name="NAME" x="235.331" y="173.228" size="1.778" layer="95" font="vector" rot="R90"/>
+<attribute name="VALUE" x="238.125" y="173.228" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
 </instance>
 <instance part="SUPPLY4" gate="G$1" x="292.1" y="198.12" smashed="yes">
 <attribute name="VALUE" x="292.1" y="200.914" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="GND4" gate="1" x="231.14" y="170.18" smashed="yes">
-<attribute name="VALUE" x="231.14" y="169.926" size="1.778" layer="96" align="top-center"/>
+<instance part="GND4" gate="1" x="228.6" y="170.18" smashed="yes">
+<attribute name="VALUE" x="228.6" y="169.926" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="GND14" gate="1" x="271.78" y="165.1" smashed="yes">
 <attribute name="VALUE" x="271.78" y="164.846" size="1.778" layer="96" align="top-center"/>
@@ -49234,18 +49248,18 @@ SD card detection</text>
 <instance part="SUPPLY17" gate="G$1" x="180.34" y="22.86" smashed="yes">
 <attribute name="VALUE" x="180.34" y="25.654" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="R8" gate="G$1" x="340.36" y="106.68" smashed="yes" rot="R90">
-<attribute name="NAME" x="338.836" y="106.68" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="341.884" y="106.68" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R8" gate="G$1" x="335.28" y="109.22" smashed="yes" rot="R90">
+<attribute name="NAME" x="333.756" y="109.22" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="336.804" y="109.22" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="SUPPLY6" gate="G$1" x="340.36" y="124.46" smashed="yes">
-<attribute name="VALUE" x="340.36" y="127.254" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY6" gate="G$1" x="335.28" y="127" smashed="yes">
+<attribute name="VALUE" x="335.28" y="129.794" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="D5" gate="G$1" x="340.36" y="119.38" smashed="yes">
-<attribute name="NAME" x="336.931" y="114.808" size="1.778" layer="95" font="vector" rot="R90"/>
+<instance part="D5" gate="G$1" x="335.28" y="121.92" smashed="yes">
+<attribute name="NAME" x="331.851" y="117.348" size="1.778" layer="95" font="vector" rot="R90"/>
 </instance>
-<instance part="GND51" gate="1" x="340.36" y="96.52" smashed="yes">
-<attribute name="VALUE" x="340.36" y="96.266" size="1.778" layer="96" align="top-center"/>
+<instance part="GND51" gate="1" x="350.52" y="96.52" smashed="yes">
+<attribute name="VALUE" x="350.52" y="96.266" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="LOGO1" gate="G$1" x="246.38" y="5.08" smashed="yes"/>
 <instance part="LOGO2" gate="G$1" x="317.5" y="27.94" smashed="yes"/>
@@ -49300,6 +49314,21 @@ SD card detection</text>
 </instance>
 <instance part="JP16" gate="G$1" x="398.78" y="99.06" smashed="yes">
 <attribute name="NAME" x="398.78" y="101.854" size="1.778" layer="95" font="vector" align="center"/>
+</instance>
+<instance part="JP17" gate="G$1" x="246.38" y="167.64" smashed="yes" rot="R90">
+<attribute name="NAME" x="243.332" y="167.64" size="1.778" layer="95" font="vector" rot="R90" align="center"/>
+</instance>
+<instance part="JP18" gate="G$1" x="342.9" y="101.6" smashed="yes" rot="R180">
+<attribute name="NAME" x="342.646" y="104.648" size="1.778" layer="95" font="vector" rot="R180" align="center"/>
+</instance>
+<instance part="JP19" gate="G$1" x="307.34" y="248.92" smashed="yes" rot="R90">
+<attribute name="NAME" x="304.292" y="248.92" size="1.778" layer="95" font="vector" rot="R90" align="center"/>
+</instance>
+<instance part="JP20" gate="G$1" x="299.72" y="248.92" smashed="yes" rot="R90">
+<attribute name="NAME" x="296.672" y="248.92" size="1.778" layer="95" font="vector" rot="R90" align="center"/>
+</instance>
+<instance part="JP21" gate="G$1" x="223.52" y="10.16" smashed="yes">
+<attribute name="NAME" x="223.774" y="6.858" size="1.778" layer="95" font="vector" align="center"/>
 </instance>
 </instances>
 <busses>
@@ -49468,11 +49497,6 @@ SD card detection</text>
 <pinref part="GND23" gate="1" pin="GND"/>
 </segment>
 <segment>
-<pinref part="R9" gate="G$1" pin="1"/>
-<wire x1="231.14" y1="10.16" x2="231.14" y2="7.62" width="0.1524" layer="91"/>
-<pinref part="GND35" gate="1" pin="GND"/>
-</segment>
-<segment>
 <pinref part="J4" gate="G$1" pin="3"/>
 <wire x1="25.4" y1="119.38" x2="22.86" y2="119.38" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="119.38" x2="22.86" y2="116.84" width="0.1524" layer="91"/>
@@ -49584,7 +49608,7 @@ SD card detection</text>
 <pinref part="GND49" gate="1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="231.14" y1="172.72" x2="231.14" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="228.6" y1="172.72" x2="228.6" y2="175.26" width="0.1524" layer="91"/>
 <pinref part="C15" gate="G$1" pin="2"/>
 <pinref part="GND4" gate="1" pin="GND"/>
 </segment>
@@ -49652,11 +49676,6 @@ SD card detection</text>
 <wire x1="370.84" y1="220.98" x2="370.84" y2="226.06" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R8" gate="G$1" pin="1"/>
-<wire x1="340.36" y1="101.6" x2="340.36" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="GND51" gate="1" pin="GND"/>
-</segment>
-<segment>
 <pinref part="J16" gate="G$1" pin="2"/>
 <wire x1="297.18" y1="193.04" x2="297.18" y2="190.5" width="0.1524" layer="91"/>
 <pinref part="GND53" gate="1" pin="GND"/>
@@ -49676,6 +49695,18 @@ SD card detection</text>
 <wire x1="210.82" y1="208.28" x2="210.82" y2="210.82" width="0.1524" layer="91"/>
 <pinref part="JP15" gate="G$1" pin="1"/>
 <wire x1="210.82" y1="210.82" x2="213.36" y2="210.82" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="JP18" gate="G$1" pin="1"/>
+<wire x1="347.98" y1="101.6" x2="350.52" y2="101.6" width="0.1524" layer="91"/>
+<pinref part="GND51" gate="1" pin="GND"/>
+<wire x1="350.52" y1="101.6" x2="350.52" y2="99.06" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="GND35" gate="1" pin="GND"/>
+<wire x1="215.9" y1="7.62" x2="215.9" y2="10.16" width="0.1524" layer="91"/>
+<pinref part="JP21" gate="G$1" pin="1"/>
+<wire x1="215.9" y1="10.16" x2="218.44" y2="10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="VIN" class="1">
@@ -49937,16 +49968,6 @@ SD card detection</text>
 <pinref part="SUPPLY8" gate="G$1" pin="3.3V"/>
 </segment>
 <segment>
-<pinref part="SUPPLY3" gate="G$1" pin="3.3V"/>
-<pinref part="D3" gate="G$1" pin="A"/>
-<wire x1="307.34" y1="266.7" x2="307.34" y2="264.16" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="SUPPLY2" gate="G$1" pin="3.3V"/>
-<pinref part="D2" gate="G$1" pin="A"/>
-<wire x1="299.72" y1="266.7" x2="299.72" y2="264.16" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="SUPPLY25" gate="G$1" pin="3.3V"/>
 <pinref part="JP11" gate="G$1" pin="2"/>
 <wire x1="406.4" y1="71.12" x2="406.4" y2="68.58" width="0.1524" layer="91"/>
@@ -49975,12 +49996,24 @@ SD card detection</text>
 <segment>
 <pinref part="SUPPLY6" gate="G$1" pin="3.3V"/>
 <pinref part="D5" gate="G$1" pin="A"/>
-<wire x1="340.36" y1="124.46" x2="340.36" y2="121.92" width="0.1524" layer="91"/>
+<wire x1="335.28" y1="127" x2="335.28" y2="124.46" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="D7" gate="G$1" pin="VCC"/>
 <wire x1="345.44" y1="226.06" x2="345.44" y2="228.6" width="0.1524" layer="91"/>
 <pinref part="SUPPLY29" gate="G$1" pin="3.3V"/>
+</segment>
+<segment>
+<pinref part="D3" gate="G$1" pin="A"/>
+<pinref part="SUPPLY3" gate="G$1" pin="3.3V"/>
+<wire x1="276.86" y1="266.7" x2="274.32" y2="266.7" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="266.7" x2="274.32" y2="269.24" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="D2" gate="G$1" pin="A"/>
+<pinref part="SUPPLY2" gate="G$1" pin="3.3V"/>
+<wire x1="276.86" y1="256.54" x2="274.32" y2="256.54" width="0.1524" layer="91"/>
+<wire x1="274.32" y1="256.54" x2="274.32" y2="259.08" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="ESP32_SCL" class="0">
@@ -50064,7 +50097,7 @@ SD card detection</text>
 <label x="309.88" y="238.76" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="U1" pin="RXI"/>
 <wire x1="297.18" y1="238.76" x2="299.72" y2="238.76" width="0.1524" layer="91"/>
-<pinref part="R4" gate="G$1" pin="1"/>
+<pinref part="JP20" gate="G$1" pin="1"/>
 <wire x1="299.72" y1="238.76" x2="309.88" y2="238.76" width="0.1524" layer="91"/>
 <wire x1="299.72" y1="243.84" x2="299.72" y2="238.76" width="0.1524" layer="91"/>
 <junction x="299.72" y="238.76"/>
@@ -50090,7 +50123,7 @@ SD card detection</text>
 <label x="309.88" y="241.3" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="U1" pin="TXO"/>
 <wire x1="297.18" y1="241.3" x2="307.34" y2="241.3" width="0.1524" layer="91"/>
-<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="JP19" gate="G$1" pin="1"/>
 <wire x1="307.34" y1="241.3" x2="309.88" y2="241.3" width="0.1524" layer="91"/>
 <wire x1="307.34" y1="243.84" x2="307.34" y2="241.3" width="0.1524" layer="91"/>
 <junction x="307.34" y="241.3"/>
@@ -50308,8 +50341,8 @@ SD card detection</text>
 </segment>
 <segment>
 <pinref part="D6" gate="G$1" pin="A"/>
-<wire x1="220.98" y1="22.86" x2="218.44" y2="22.86" width="0.1524" layer="91"/>
-<label x="218.44" y="22.86" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="220.98" y1="25.4" x2="218.44" y2="25.4" width="0.1524" layer="91"/>
+<label x="218.44" y="25.4" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J5" gate="J1" pin="5"/>
@@ -50400,14 +50433,14 @@ SD card detection</text>
 <segment>
 <pinref part="R4" gate="G$1" pin="2"/>
 <pinref part="D2" gate="G$1" pin="C"/>
-<wire x1="299.72" y1="254" x2="299.72" y2="256.54" width="0.1524" layer="91"/>
+<wire x1="287.02" y1="256.54" x2="284.48" y2="256.54" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
 <pinref part="D3" gate="G$1" pin="C"/>
 <pinref part="R5" gate="G$1" pin="2"/>
-<wire x1="307.34" y1="256.54" x2="307.34" y2="254" width="0.1524" layer="91"/>
+<wire x1="284.48" y1="266.7" x2="287.02" y2="266.7" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="ESP32_GPIO27" class="0">
@@ -50834,30 +50867,21 @@ SD card detection</text>
 <net name="N$1" class="0">
 <segment>
 <wire x1="248.92" y1="180.34" x2="246.38" y2="180.34" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="180.34" x2="246.38" y2="177.8" width="0.1524" layer="91"/>
 <pinref part="U5" gate="G$1" pin="STAT"/>
-<pinref part="R21" gate="G$1" pin="2"/>
-</segment>
-</net>
-<net name="N$4" class="0">
-<segment>
-<wire x1="238.76" y1="175.26" x2="238.76" y2="165.1" width="0.1524" layer="91"/>
-<wire x1="238.76" y1="165.1" x2="246.38" y2="165.1" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="165.1" x2="246.38" y2="167.64" width="0.1524" layer="91"/>
-<pinref part="R21" gate="G$1" pin="1"/>
-<pinref part="D4" gate="G$1" pin="C"/>
+<pinref part="JP17" gate="G$1" pin="2"/>
+<wire x1="246.38" y1="172.72" x2="246.38" y2="180.34" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="5V_CHG" class="0">
 <segment>
-<wire x1="248.92" y1="185.42" x2="238.76" y2="185.42" width="0.1524" layer="91"/>
-<wire x1="238.76" y1="185.42" x2="231.14" y2="185.42" width="0.1524" layer="91"/>
-<wire x1="231.14" y1="185.42" x2="231.14" y2="182.88" width="0.1524" layer="91"/>
-<wire x1="238.76" y1="182.88" x2="238.76" y2="185.42" width="0.1524" layer="91"/>
-<junction x="238.76" y="185.42"/>
-<wire x1="228.6" y1="185.42" x2="231.14" y2="185.42" width="0.1524" layer="91"/>
-<junction x="231.14" y="185.42"/>
-<label x="228.6" y="185.42" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="248.92" y1="185.42" x2="236.22" y2="185.42" width="0.1524" layer="91"/>
+<wire x1="236.22" y1="185.42" x2="228.6" y2="185.42" width="0.1524" layer="91"/>
+<wire x1="228.6" y1="185.42" x2="228.6" y2="182.88" width="0.1524" layer="91"/>
+<wire x1="236.22" y1="182.88" x2="236.22" y2="185.42" width="0.1524" layer="91"/>
+<junction x="236.22" y="185.42"/>
+<wire x1="226.06" y1="185.42" x2="228.6" y2="185.42" width="0.1524" layer="91"/>
+<junction x="228.6" y="185.42"/>
+<label x="226.06" y="185.42" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="U5" gate="G$1" pin="VIN"/>
 <pinref part="C15" gate="G$1" pin="1"/>
 <pinref part="D4" gate="G$1" pin="A"/>
@@ -50941,15 +50965,15 @@ SD card detection</text>
 <segment>
 <pinref part="D5" gate="G$1" pin="C"/>
 <pinref part="R8" gate="G$1" pin="2"/>
-<wire x1="340.36" y1="114.3" x2="340.36" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="335.28" y1="116.84" x2="335.28" y2="114.3" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
 <pinref part="D6" gate="G$1" pin="C"/>
-<wire x1="228.6" y1="22.86" x2="231.14" y2="22.86" width="0.1524" layer="91" style="longdash"/>
+<wire x1="228.6" y1="25.4" x2="231.14" y2="25.4" width="0.1524" layer="91" style="longdash"/>
 <pinref part="R9" gate="G$1" pin="2"/>
-<wire x1="231.14" y1="22.86" x2="231.14" y2="20.32" width="0.1524" layer="91" style="longdash"/>
+<wire x1="231.14" y1="25.4" x2="231.14" y2="22.86" width="0.1524" layer="91" style="longdash"/>
 </segment>
 </net>
 <net name="ESP32_GPIO23_PICO" class="0">
@@ -51024,6 +51048,54 @@ SD card detection</text>
 <wire x1="391.16" y1="104.14" x2="391.16" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="JP16" gate="G$1" pin="1"/>
 <wire x1="391.16" y1="99.06" x2="393.7" y2="99.06" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$30" class="0">
+<segment>
+<pinref part="R4" gate="G$1" pin="1"/>
+<pinref part="JP20" gate="G$1" pin="2"/>
+<wire x1="297.18" y1="256.54" x2="299.72" y2="256.54" width="0.1524" layer="91"/>
+<wire x1="299.72" y1="256.54" x2="299.72" y2="254" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$31" class="0">
+<segment>
+<pinref part="R5" gate="G$1" pin="1"/>
+<pinref part="JP19" gate="G$1" pin="2"/>
+<wire x1="297.18" y1="266.7" x2="307.34" y2="266.7" width="0.1524" layer="91"/>
+<wire x1="307.34" y1="266.7" x2="307.34" y2="254" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$4" class="0">
+<segment>
+<pinref part="R21" gate="G$1" pin="2"/>
+<wire x1="236.22" y1="160.02" x2="236.22" y2="162.56" width="0.1524" layer="91"/>
+<pinref part="JP17" gate="G$1" pin="1"/>
+<wire x1="236.22" y1="160.02" x2="246.38" y2="160.02" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="160.02" x2="246.38" y2="162.56" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$32" class="0">
+<segment>
+<pinref part="R21" gate="G$1" pin="1"/>
+<pinref part="D4" gate="G$1" pin="C"/>
+<wire x1="236.22" y1="172.72" x2="236.22" y2="175.26" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$33" class="0">
+<segment>
+<pinref part="R8" gate="G$1" pin="1"/>
+<wire x1="335.28" y1="104.14" x2="335.28" y2="101.6" width="0.1524" layer="91"/>
+<pinref part="JP18" gate="G$1" pin="2"/>
+<wire x1="335.28" y1="101.6" x2="337.82" y2="101.6" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$34" class="0">
+<segment>
+<pinref part="JP21" gate="G$1" pin="2"/>
+<wire x1="228.6" y1="10.16" x2="231.14" y2="10.16" width="0.1524" layer="91"/>
+<pinref part="R9" gate="G$1" pin="1"/>
+<wire x1="231.14" y1="10.16" x2="231.14" y2="12.7" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
