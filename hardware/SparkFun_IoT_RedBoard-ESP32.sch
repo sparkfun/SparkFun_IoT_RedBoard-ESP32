@@ -48476,6 +48476,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="JP19" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
 <part name="JP20" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
 <part name="JP21" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="C14" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" value="0.1uF"/>
+<part name="SUPPLY30" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
+<part name="GND57" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -48509,7 +48512,6 @@ If U0TXD, GPIO2, GPIO5 are floating,
 GPIO0 determines boot mode</text>
 <text x="50.8" y="10.16" size="1.524" layer="97" font="vector" align="top-center">If DTR is LOW, toggling RTS from HIGH to LOW resets to run mode.
 If RTS is HIGH, toggling DTR from LOW to HIGH resets to bootloader.</text>
-<wire x1="0" y1="35.56" x2="0" y2="33.02" width="0.1524" layer="97" style="longdash"/>
 <text x="116.84" y="114.3" size="1.778" layer="97" font="vector">VIN Range: 7-15V</text>
 <text x="152.4" y="48.26" size="1.524" layer="97" font="vector" align="top-center">6V max in
 600mA out
@@ -48531,7 +48533,7 @@ R_PROG=2k : I_CHG=500mA</text>
 <text x="149.86" y="139.7" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">External Power 5V Regulator</text>
 <text x="147.32" y="81.28" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">3.3V Regulator</text>
 <text x="50.8" y="134.62" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">JTAG Header</text>
-<text x="50.8" y="157.48" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Fuel Gauge !ALERT!
+<text x="50.8" y="154.94" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Fuel Gauge !ALERT!
 Connection Jumper</text>
 <text x="50.8" y="86.36" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Auto Reset</text>
 <text x="132.08" y="33.02" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">Current Measurement Header
@@ -48543,11 +48545,10 @@ Pushbutton</text>
 <wire x1="0" y1="139.7" x2="101.6" y2="139.7" width="0.254" layer="97" style="longdash"/>
 <wire x1="101.6" y1="139.7" x2="101.6" y2="93.98" width="0.254" layer="97" style="longdash"/>
 <wire x1="101.6" y1="93.98" x2="0" y2="93.98" width="0.254" layer="97" style="longdash"/>
-<wire x1="0" y1="93.98" x2="0" y2="139.7" width="0.254" layer="97" style="longdash"/>
 <wire x1="101.6" y1="139.7" x2="101.6" y2="147.32" width="0.254" layer="97" style="longdash"/>
-<wire x1="101.6" y1="147.32" x2="101.6" y2="167.64" width="0.254" layer="97" style="longdash"/>
-<wire x1="101.6" y1="167.64" x2="0" y2="167.64" width="0.254" layer="97" style="longdash"/>
-<wire x1="101.6" y1="167.64" x2="101.6" y2="279.4" width="0.254" layer="97" style="longdash"/>
+<wire x1="101.6" y1="147.32" x2="101.6" y2="165.1" width="0.254" layer="97" style="longdash"/>
+<wire x1="101.6" y1="165.1" x2="0" y2="165.1" width="0.254" layer="97" style="longdash"/>
+<wire x1="101.6" y1="165.1" x2="101.6" y2="279.4" width="0.254" layer="97" style="longdash"/>
 <wire x1="101.6" y1="93.98" x2="101.6" y2="88.9" width="0.254" layer="97" style="longdash"/>
 <wire x1="101.6" y1="88.9" x2="101.6" y2="40.64" width="0.254" layer="97" style="longdash"/>
 <wire x1="101.6" y1="40.64" x2="101.6" y2="0" width="0.254" layer="97" style="longdash"/>
@@ -48561,7 +48562,8 @@ Pushbutton</text>
 <wire x1="195.58" y1="88.9" x2="195.58" y2="40.64" width="0.254" layer="97" style="longdash"/>
 <wire x1="195.58" y1="40.64" x2="195.58" y2="35.56" width="0.254" layer="97" style="longdash"/>
 <wire x1="101.6" y1="40.64" x2="195.58" y2="40.64" width="0.254" layer="97" style="longdash"/>
-<wire x1="205.74" y1="203.2" x2="317.5" y2="203.2" width="0.254" layer="97" style="longdash"/>
+<wire x1="205.74" y1="203.2" x2="307.34" y2="203.2" width="0.254" layer="97" style="longdash"/>
+<wire x1="307.34" y1="203.2" x2="317.5" y2="203.2" width="0.254" layer="97" style="longdash"/>
 <wire x1="317.5" y1="203.2" x2="360.68" y2="203.2" width="0.254" layer="97" style="longdash"/>
 <wire x1="360.68" y1="203.2" x2="360.68" y2="279.4" width="0.254" layer="97" style="longdash"/>
 <wire x1="360.68" y1="203.2" x2="431.8" y2="203.2" width="0.254" layer="97" style="longdash"/>
@@ -48593,9 +48595,8 @@ board current on J10</text>
 <text x="403.86" y="40.64" size="1.27" layer="97" font="vector" align="bottom-center">Open jumper to remove I2C pullups.</text>
 <text x="331.47" y="6.604" size="2.54" layer="94" font="vector">Revised by: Dryw Wade</text>
 <wire x1="327.66" y1="236.22" x2="327.66" y2="279.4" width="0.254" layer="97" style="longdash"/>
-<wire x1="360.68" y1="236.22" x2="317.5" y2="236.22" width="0.254" layer="97" style="longdash"/>
-<wire x1="317.5" y1="203.2" x2="317.5" y2="236.22" width="0.254" layer="97" style="longdash"/>
-<text x="330.2" y="228.6" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">RGB LED</text>
+<wire x1="360.68" y1="236.22" x2="307.34" y2="236.22" width="0.254" layer="97" style="longdash"/>
+<text x="320.04" y="231.14" size="2.54" layer="94" font="vector" ratio="11" align="bottom-center">RGB LED</text>
 <text x="406.4" y="93.98" size="1.27" layer="97" font="vector" align="bottom-center">Close jumper to enable
 SD card detection</text>
 <text x="317.5" y="246.38" size="1.27" layer="97" font="vector" align="bottom-center">Cut traces to
@@ -48607,6 +48608,14 @@ remove charge LED</text>
 remove power LED</text>
 <text x="220.98" y="12.7" size="1.27" layer="97" font="vector" align="bottom-center">Cut trace to
 remove status LED</text>
+<wire x1="307.34" y1="236.22" x2="307.34" y2="203.2" width="0.1524" layer="97" style="longdash"/>
+<text x="35.56" y="266.7" size="1.27" layer="97" font="vector" align="center-left">IO0: Avoid device connections. Can be used a stat LED.</text>
+<text x="35.56" y="251.46" size="1.27" layer="97" font="vector" align="center-left">ADC2 is unavailable when WiFi is enabled.</text>
+<text x="35.56" y="259.08" size="1.27" layer="97" font="vector" align="center-left">IO12: Avoid external pullups - will cause bootloader fail.</text>
+<text x="35.56" y="269.24" size="1.27" layer="97" font="vector" align="center-left">Use boot control pins with caution: 0, 2, 5, 12, 15</text>
+<text x="35.56" y="264.16" size="1.27" layer="97" font="vector" align="center-left">IO2: Avoid external pullups - will cause bootloader fail.</text>
+<text x="35.56" y="256.54" size="1.27" layer="97" font="vector" align="center-left">IO15: Has builtin pullup at POR.</text>
+<text x="35.56" y="261.62" size="1.27" layer="97" font="vector" align="center-left">IO5: Has builtin pullup at POR.</text>
 </plain>
 <instances>
 <instance part="C4" gate="G$1" x="144.78" y="12.7" smashed="yes" rot="MR0">
@@ -48723,9 +48732,9 @@ remove status LED</text>
 <attribute name="NAME" x="58.42" y="72.39" size="1.778" layer="95" font="vector" align="center-left"/>
 <attribute name="VALUE" x="58.42" y="69.85" size="1.778" layer="96" font="vector" align="center-left"/>
 </instance>
-<instance part="S1" gate="G$1" x="22.86" y="238.76" smashed="yes" rot="R90">
-<attribute name="NAME" x="21.336" y="238.76" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="23.368" y="238.76" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="S1" gate="G$1" x="20.32" y="233.68" smashed="yes" rot="R90">
+<attribute name="NAME" x="18.796" y="233.68" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="20.828" y="233.68" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
 <instance part="J13" gate="G$1" x="353.06" y="55.88" smashed="yes" rot="MR0">
 <attribute name="NAME" x="358.14" y="63.754" size="1.778" layer="95" font="vector" rot="MR0"/>
@@ -48739,8 +48748,8 @@ remove status LED</text>
 <instance part="SUPPLY3" gate="G$1" x="274.32" y="269.24" smashed="yes">
 <attribute name="VALUE" x="274.32" y="272.034" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="SUPPLY5" gate="G$1" x="33.02" y="264.16" smashed="yes">
-<attribute name="VALUE" x="33.02" y="266.954" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY5" gate="G$1" x="30.48" y="259.08" smashed="yes">
+<attribute name="VALUE" x="30.48" y="261.874" size="1.778" layer="96" align="bottom-center"/>
 </instance>
 <instance part="SUPPLY9" gate="G$1" x="177.8" y="264.16" smashed="yes">
 <attribute name="VALUE" x="177.8" y="266.954" size="1.778" layer="96" align="bottom-center"/>
@@ -48766,27 +48775,27 @@ remove status LED</text>
 <instance part="SUPPLY14" gate="G$1" x="342.9" y="63.5" smashed="yes">
 <attribute name="VALUE" x="342.9" y="66.294" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="R1" gate="G$1" x="27.94" y="254" smashed="yes" rot="R90">
-<attribute name="NAME" x="26.416" y="254" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
-<attribute name="VALUE" x="29.464" y="254" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
+<instance part="R1" gate="G$1" x="25.4" y="248.92" smashed="yes" rot="R90">
+<attribute name="NAME" x="23.876" y="248.92" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="VALUE" x="26.924" y="248.92" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="C1" gate="G$1" x="27.94" y="238.76" smashed="yes">
-<attribute name="NAME" x="29.464" y="241.681" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="29.464" y="236.601" size="1.778" layer="96" font="vector"/>
+<instance part="C1" gate="G$1" x="25.4" y="233.68" smashed="yes">
+<attribute name="NAME" x="26.924" y="236.601" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="26.924" y="231.521" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="C2" gate="G$1" x="12.7" y="182.88" smashed="yes">
-<attribute name="NAME" x="14.224" y="185.801" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="14.224" y="180.721" size="1.778" layer="96" font="vector"/>
+<instance part="C2" gate="G$1" x="10.16" y="177.8" smashed="yes">
+<attribute name="NAME" x="11.684" y="180.721" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="11.684" y="175.641" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="SUPPLY15" gate="G$1" x="12.7" y="190.5" smashed="yes">
-<attribute name="VALUE" x="15.24" y="193.294" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY15" gate="G$1" x="10.16" y="185.42" smashed="yes">
+<attribute name="VALUE" x="12.7" y="188.214" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="C3" gate="G$1" x="22.86" y="182.88" smashed="yes">
-<attribute name="NAME" x="24.384" y="185.801" size="1.778" layer="95" font="vector"/>
-<attribute name="VALUE" x="24.384" y="180.721" size="1.778" layer="96" font="vector"/>
+<instance part="C3" gate="G$1" x="20.32" y="177.8" smashed="yes">
+<attribute name="NAME" x="21.844" y="180.721" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="21.844" y="175.641" size="1.778" layer="96" font="vector"/>
 </instance>
-<instance part="SUPPLY16" gate="G$1" x="22.86" y="190.5" smashed="yes">
-<attribute name="VALUE" x="25.4" y="193.294" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY16" gate="G$1" x="20.32" y="185.42" smashed="yes">
+<attribute name="VALUE" x="22.86" y="188.214" size="1.778" layer="96" align="bottom-center"/>
 </instance>
 <instance part="S2" gate="G$1" x="345.44" y="254" smashed="yes" rot="R90">
 <attribute name="NAME" x="343.916" y="254" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
@@ -48808,9 +48817,9 @@ remove status LED</text>
 <attribute name="NAME" x="229.616" y="17.78" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="232.664" y="17.78" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="U1" gate="U1" x="55.88" y="213.36" smashed="yes">
-<attribute name="NAME" x="38.1" y="251.714" size="1.778" layer="95"/>
-<attribute name="VALUE" x="38.1" y="177.546" size="1.778" layer="96" align="top-left"/>
+<instance part="U1" gate="U1" x="53.34" y="208.28" smashed="yes">
+<attribute name="NAME" x="35.56" y="246.634" size="1.778" layer="95"/>
+<attribute name="VALUE" x="35.56" y="172.466" size="1.778" layer="96" align="top-left"/>
 </instance>
 <instance part="JP7" gate="G$1" x="421.64" y="20.32" smashed="yes"/>
 <instance part="SUPPLY8" gate="G$1" x="129.54" y="264.16" smashed="yes">
@@ -48822,17 +48831,17 @@ remove status LED</text>
 <instance part="SUPPLY20" gate="G$1" x="254" y="238.76" smashed="yes">
 <attribute name="VALUE" x="254" y="241.554" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="GND8" gate="1" x="27.94" y="226.06" smashed="yes">
-<attribute name="VALUE" x="27.94" y="225.806" size="1.778" layer="96" align="top-center"/>
+<instance part="GND8" gate="1" x="25.4" y="220.98" smashed="yes">
+<attribute name="VALUE" x="25.4" y="220.726" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="GND19" gate="1" x="12.7" y="175.26" smashed="yes">
-<attribute name="VALUE" x="12.7" y="175.006" size="1.778" layer="96" align="top-center"/>
+<instance part="GND19" gate="1" x="10.16" y="170.18" smashed="yes">
+<attribute name="VALUE" x="10.16" y="169.926" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="GND21" gate="1" x="22.86" y="175.26" smashed="yes">
-<attribute name="VALUE" x="22.86" y="175.006" size="1.778" layer="96" align="top-center"/>
+<instance part="GND21" gate="1" x="20.32" y="170.18" smashed="yes">
+<attribute name="VALUE" x="20.32" y="169.926" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="GND22" gate="1" x="33.02" y="175.26" smashed="yes">
-<attribute name="VALUE" x="33.02" y="175.006" size="1.778" layer="96" align="top-center"/>
+<instance part="GND22" gate="1" x="30.48" y="170.18" smashed="yes">
+<attribute name="VALUE" x="30.48" y="169.926" size="1.778" layer="96" align="top-center"/>
 </instance>
 <instance part="GND3" gate="1" x="129.54" y="172.72" smashed="yes">
 <attribute name="VALUE" x="129.54" y="172.466" size="1.778" layer="96" align="top-center"/>
@@ -49291,15 +49300,15 @@ remove status LED</text>
 <instance part="GND54" gate="1" x="175.26" y="5.08" smashed="yes">
 <attribute name="VALUE" x="175.26" y="4.826" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="D7" gate="G$1" x="345.44" y="218.44" smashed="yes">
-<attribute name="NAME" x="350.266" y="223.774" size="1.778" layer="95" font="vector" align="bottom-center"/>
-<attribute name="VALUE" x="335.788" y="213.614" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="D7" gate="G$1" x="335.28" y="218.44" smashed="yes">
+<attribute name="NAME" x="340.106" y="223.774" size="1.778" layer="95" font="vector" align="bottom-center"/>
+<attribute name="VALUE" x="325.628" y="213.614" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
-<instance part="GND55" gate="1" x="345.44" y="208.28" smashed="yes">
-<attribute name="VALUE" x="345.44" y="208.026" size="1.778" layer="96" align="top-center"/>
+<instance part="GND55" gate="1" x="335.28" y="208.28" smashed="yes">
+<attribute name="VALUE" x="335.28" y="208.026" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="SUPPLY29" gate="G$1" x="345.44" y="228.6" smashed="yes">
-<attribute name="VALUE" x="345.44" y="231.394" size="1.778" layer="96" align="bottom-center"/>
+<instance part="SUPPLY29" gate="G$1" x="335.28" y="228.6" smashed="yes">
+<attribute name="VALUE" x="335.28" y="231.394" size="1.778" layer="96" align="bottom-center"/>
 </instance>
 <instance part="JP15" gate="G$1" x="218.44" y="210.82" smashed="yes">
 <attribute name="NAME" x="218.44" y="213.868" size="1.778" layer="95" font="vector" align="center"/>
@@ -49329,6 +49338,16 @@ remove status LED</text>
 </instance>
 <instance part="JP21" gate="G$1" x="223.52" y="10.16" smashed="yes">
 <attribute name="NAME" x="223.774" y="6.858" size="1.778" layer="95" font="vector" align="center"/>
+</instance>
+<instance part="C14" gate="G$1" x="353.06" y="215.9" smashed="yes">
+<attribute name="NAME" x="354.584" y="218.821" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="352.679" y="209.042" size="1.778" layer="96" font="vector" rot="R90"/>
+</instance>
+<instance part="SUPPLY30" gate="G$1" x="353.06" y="223.52" smashed="yes">
+<attribute name="VALUE" x="353.06" y="226.314" size="1.778" layer="96" align="bottom-center"/>
+</instance>
+<instance part="GND57" gate="1" x="353.06" y="208.28" smashed="yes">
+<attribute name="VALUE" x="353.06" y="208.026" size="1.778" layer="96" align="top-center"/>
 </instance>
 </instances>
 <busses>
@@ -49387,27 +49406,27 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
-<wire x1="27.94" y1="236.22" x2="27.94" y2="231.14" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="231.14" x2="25.4" y2="226.06" width="0.1524" layer="91"/>
 <pinref part="S1" gate="G$1" pin="1"/>
-<wire x1="27.94" y1="231.14" x2="27.94" y2="228.6" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="233.68" x2="22.86" y2="231.14" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="231.14" x2="27.94" y2="231.14" width="0.1524" layer="91"/>
-<junction x="27.94" y="231.14"/>
+<wire x1="25.4" y1="226.06" x2="25.4" y2="223.52" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="228.6" x2="20.32" y2="226.06" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="226.06" x2="25.4" y2="226.06" width="0.1524" layer="91"/>
+<junction x="25.4" y="226.06"/>
 <pinref part="GND8" gate="1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="12.7" y1="180.34" x2="12.7" y2="177.8" width="0.1524" layer="91"/>
+<wire x1="10.16" y1="175.26" x2="10.16" y2="172.72" width="0.1524" layer="91"/>
 <pinref part="C2" gate="G$1" pin="2"/>
 <pinref part="GND19" gate="1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="22.86" y1="180.34" x2="22.86" y2="177.8" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="175.26" x2="20.32" y2="172.72" width="0.1524" layer="91"/>
 <pinref part="C3" gate="G$1" pin="2"/>
 <pinref part="GND21" gate="1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="33.02" y1="177.8" x2="33.02" y2="180.34" width="0.1524" layer="91"/>
-<wire x1="33.02" y1="180.34" x2="35.56" y2="180.34" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="172.72" x2="30.48" y2="175.26" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="175.26" x2="33.02" y2="175.26" width="0.1524" layer="91"/>
 <pinref part="U1" gate="U1" pin="GND"/>
 <pinref part="GND22" gate="1" pin="GND"/>
 </segment>
@@ -49687,7 +49706,7 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="D7" gate="G$1" pin="GND"/>
-<wire x1="345.44" y1="213.36" x2="345.44" y2="210.82" width="0.1524" layer="91"/>
+<wire x1="335.28" y1="213.36" x2="335.28" y2="210.82" width="0.1524" layer="91"/>
 <pinref part="GND55" gate="1" pin="GND"/>
 </segment>
 <segment>
@@ -49707,6 +49726,11 @@ remove status LED</text>
 <wire x1="215.9" y1="7.62" x2="215.9" y2="10.16" width="0.1524" layer="91"/>
 <pinref part="JP21" gate="G$1" pin="1"/>
 <wire x1="215.9" y1="10.16" x2="218.44" y2="10.16" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="GND57" gate="1" pin="GND"/>
+<pinref part="C14" gate="G$1" pin="2"/>
+<wire x1="353.06" y1="210.82" x2="353.06" y2="213.36" width="0.1524" layer="91" style="longdash"/>
 </segment>
 </net>
 <net name="VIN" class="1">
@@ -49816,18 +49840,18 @@ remove status LED</text>
 </net>
 <net name="ESP32_EN" class="0">
 <segment>
-<wire x1="35.56" y1="246.38" x2="27.94" y2="246.38" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="241.3" x2="25.4" y2="241.3" width="0.1524" layer="91"/>
 <pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="27.94" y1="248.92" x2="27.94" y2="246.38" width="0.1524" layer="91"/>
-<junction x="27.94" y="246.38"/>
+<wire x1="25.4" y1="243.84" x2="25.4" y2="241.3" width="0.1524" layer="91"/>
+<junction x="25.4" y="241.3"/>
 <pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="27.94" y1="246.38" x2="27.94" y2="243.84" width="0.1524" layer="91"/>
-<wire x1="27.94" y1="246.38" x2="22.86" y2="246.38" width="0.1524" layer="91"/>
-<label x="17.78" y="246.38" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="25.4" y1="241.3" x2="25.4" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="241.3" x2="20.32" y2="241.3" width="0.1524" layer="91"/>
+<label x="15.24" y="241.3" size="1.27" layer="95" rot="R180" xref="yes"/>
 <pinref part="S1" gate="G$1" pin="2"/>
-<wire x1="22.86" y1="246.38" x2="17.78" y2="246.38" width="0.1524" layer="91"/>
-<wire x1="22.86" y1="243.84" x2="22.86" y2="246.38" width="0.1524" layer="91"/>
-<junction x="22.86" y="246.38"/>
+<wire x1="20.32" y1="241.3" x2="15.24" y2="241.3" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="238.76" x2="20.32" y2="241.3" width="0.1524" layer="91"/>
+<junction x="20.32" y="241.3"/>
 <pinref part="U1" gate="U1" pin="EN"/>
 </segment>
 <segment>
@@ -49860,8 +49884,8 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="U1" gate="U1" pin="MISO2/IOA12"/>
-<wire x1="73.66" y1="233.68" x2="76.2" y2="233.68" width="0.1524" layer="91"/>
-<label x="76.2" y="233.68" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="228.6" x2="73.66" y2="228.6" width="0.1524" layer="91"/>
+<label x="73.66" y="228.6" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="ESP32_GPIO13_TCK" class="0">
@@ -49877,8 +49901,8 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="U1" gate="U1" pin="MOSI2/IOA13"/>
-<wire x1="73.66" y1="223.52" x2="76.2" y2="223.52" width="0.1524" layer="91"/>
-<label x="76.2" y="223.52" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="218.44" x2="73.66" y2="218.44" width="0.1524" layer="91"/>
+<label x="73.66" y="218.44" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="ESP32_GPIO14_TMS" class="0">
@@ -49894,8 +49918,8 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="U1" gate="U1" pin="SCK2/IOA14"/>
-<wire x1="73.66" y1="220.98" x2="76.2" y2="220.98" width="0.1524" layer="91"/>
-<label x="76.2" y="220.98" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="215.9" x2="73.66" y2="215.9" width="0.1524" layer="91"/>
+<label x="73.66" y="215.9" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="3.3V" class="0">
@@ -49909,14 +49933,14 @@ remove status LED</text>
 <wire x1="264.16" y1="243.84" x2="264.16" y2="241.3" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="35.56" y1="248.92" x2="33.02" y2="248.92" width="0.1524" layer="91"/>
-<wire x1="33.02" y1="248.92" x2="33.02" y2="261.62" width="0.1524" layer="91"/>
+<wire x1="33.02" y1="243.84" x2="30.48" y2="243.84" width="0.1524" layer="91"/>
+<wire x1="30.48" y1="243.84" x2="30.48" y2="256.54" width="0.1524" layer="91"/>
 <pinref part="SUPPLY5" gate="G$1" pin="3.3V"/>
 <pinref part="R1" gate="G$1" pin="2"/>
-<wire x1="33.02" y1="261.62" x2="33.02" y2="264.16" width="0.1524" layer="91"/>
-<wire x1="27.94" y1="259.08" x2="27.94" y2="261.62" width="0.1524" layer="91"/>
-<wire x1="27.94" y1="261.62" x2="33.02" y2="261.62" width="0.1524" layer="91"/>
-<junction x="33.02" y="261.62"/>
+<wire x1="30.48" y1="256.54" x2="30.48" y2="259.08" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="254" x2="25.4" y2="256.54" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="256.54" x2="30.48" y2="256.54" width="0.1524" layer="91"/>
+<junction x="30.48" y="256.54"/>
 <pinref part="U1" gate="U1" pin="3V3"/>
 </segment>
 <segment>
@@ -49953,12 +49977,12 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="SUPPLY15" gate="G$1" pin="3.3V"/>
-<wire x1="12.7" y1="187.96" x2="12.7" y2="190.5" width="0.1524" layer="91"/>
+<wire x1="10.16" y1="182.88" x2="10.16" y2="185.42" width="0.1524" layer="91"/>
 <pinref part="C2" gate="G$1" pin="1"/>
 </segment>
 <segment>
 <pinref part="SUPPLY16" gate="G$1" pin="3.3V"/>
-<wire x1="22.86" y1="187.96" x2="22.86" y2="190.5" width="0.1524" layer="91"/>
+<wire x1="20.32" y1="182.88" x2="20.32" y2="185.42" width="0.1524" layer="91"/>
 <pinref part="C3" gate="G$1" pin="1"/>
 </segment>
 <segment>
@@ -50000,7 +50024,7 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="D7" gate="G$1" pin="VCC"/>
-<wire x1="345.44" y1="226.06" x2="345.44" y2="228.6" width="0.1524" layer="91"/>
+<wire x1="335.28" y1="226.06" x2="335.28" y2="228.6" width="0.1524" layer="91"/>
 <pinref part="SUPPLY29" gate="G$1" pin="3.3V"/>
 </segment>
 <segment>
@@ -50014,6 +50038,11 @@ remove status LED</text>
 <pinref part="SUPPLY2" gate="G$1" pin="3.3V"/>
 <wire x1="276.86" y1="256.54" x2="274.32" y2="256.54" width="0.1524" layer="91"/>
 <wire x1="274.32" y1="256.54" x2="274.32" y2="259.08" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="C14" gate="G$1" pin="1"/>
+<pinref part="SUPPLY30" gate="G$1" pin="3.3V"/>
+<wire x1="353.06" y1="220.98" x2="353.06" y2="223.52" width="0.1524" layer="91" style="longdash"/>
 </segment>
 </net>
 <net name="ESP32_SCL" class="0">
@@ -50034,8 +50063,8 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="U1" gate="U1" pin="SCL/IO22"/>
-<wire x1="73.66" y1="205.74" x2="76.2" y2="205.74" width="0.1524" layer="91"/>
-<label x="76.2" y="205.74" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="200.66" x2="73.66" y2="200.66" width="0.1524" layer="91"/>
+<label x="73.66" y="200.66" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="R28" gate="G$1" pin="1"/>
@@ -50067,8 +50096,8 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="U1" gate="U1" pin="SDA/IO21"/>
-<wire x1="73.66" y1="208.28" x2="76.2" y2="208.28" width="0.1524" layer="91"/>
-<label x="76.2" y="208.28" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="203.2" x2="73.66" y2="203.2" width="0.1524" layer="91"/>
+<label x="73.66" y="203.2" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <wire x1="411.48" y1="48.26" x2="414.02" y2="48.26" width="0.1524" layer="91"/>
@@ -50084,8 +50113,8 @@ remove status LED</text>
 </net>
 <net name="ESP32_TXD0" class="0">
 <segment>
-<wire x1="73.66" y1="248.92" x2="76.2" y2="248.92" width="0.1524" layer="91"/>
-<label x="76.2" y="248.92" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="243.84" x2="73.66" y2="243.84" width="0.1524" layer="91"/>
+<label x="73.66" y="243.84" size="1.27" layer="95" xref="yes"/>
 <pinref part="U1" gate="U1" pin="TX-IO1"/>
 </segment>
 <segment>
@@ -50110,8 +50139,8 @@ remove status LED</text>
 </net>
 <net name="ESP32_RXD0" class="0">
 <segment>
-<wire x1="73.66" y1="246.38" x2="76.2" y2="246.38" width="0.1524" layer="91"/>
-<label x="76.2" y="246.38" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="241.3" x2="73.66" y2="241.3" width="0.1524" layer="91"/>
+<label x="73.66" y="241.3" size="1.27" layer="95" xref="yes"/>
 <pinref part="U1" gate="U1" pin="RX-IO3"/>
 </segment>
 <segment>
@@ -50143,8 +50172,8 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="U1" gate="U1" pin="IOA0"/>
-<wire x1="73.66" y1="241.3" x2="76.2" y2="241.3" width="0.1524" layer="91"/>
-<label x="76.2" y="241.3" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="236.22" x2="73.66" y2="236.22" width="0.1524" layer="91"/>
+<label x="73.66" y="236.22" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="Q1" gate="G1" pin="C"/>
@@ -50161,8 +50190,8 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="U1" gate="U1" pin="SENSOR_VP/IA36"/>
-<wire x1="73.66" y1="182.88" x2="76.2" y2="182.88" width="0.1524" layer="91"/>
-<label x="76.2" y="182.88" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="177.8" x2="73.66" y2="177.8" width="0.1524" layer="91"/>
+<label x="73.66" y="177.8" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <wire x1="180.34" y1="152.4" x2="177.8" y2="152.4" width="0.1524" layer="91"/>
@@ -50178,8 +50207,8 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="U1" gate="U1" pin="SENSOR_VN/IA39"/>
-<wire x1="73.66" y1="180.34" x2="76.2" y2="180.34" width="0.1524" layer="91"/>
-<label x="76.2" y="180.34" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="175.26" x2="73.66" y2="175.26" width="0.1524" layer="91"/>
+<label x="73.66" y="175.26" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <wire x1="180.34" y1="154.94" x2="177.8" y2="154.94" width="0.1524" layer="91"/>
@@ -50190,8 +50219,8 @@ remove status LED</text>
 <net name="ESP32_ADC6" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="IA34"/>
-<wire x1="73.66" y1="187.96" x2="76.2" y2="187.96" width="0.1524" layer="91"/>
-<label x="76.2" y="187.96" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="182.88" x2="73.66" y2="182.88" width="0.1524" layer="91"/>
+<label x="73.66" y="182.88" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J11" gate="G$1" pin="4"/>
@@ -50207,8 +50236,8 @@ remove status LED</text>
 <net name="ESP32_ADC7" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="IA35"/>
-<wire x1="73.66" y1="185.42" x2="76.2" y2="185.42" width="0.1524" layer="91"/>
-<label x="76.2" y="185.42" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="180.34" x2="73.66" y2="180.34" width="0.1524" layer="91"/>
+<label x="73.66" y="180.34" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J11" gate="G$1" pin="3"/>
@@ -50224,8 +50253,8 @@ remove status LED</text>
 <net name="ESP32_ADC5" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="XTAL_N/IOA33"/>
-<wire x1="73.66" y1="190.5" x2="76.2" y2="190.5" width="0.1524" layer="91"/>
-<label x="76.2" y="190.5" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="185.42" x2="73.66" y2="185.42" width="0.1524" layer="91"/>
+<label x="73.66" y="185.42" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J11" gate="G$1" pin="1"/>
@@ -50241,8 +50270,8 @@ remove status LED</text>
 <net name="ESP32_ADC4" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="XTAL_P/IOA32"/>
-<wire x1="73.66" y1="193.04" x2="76.2" y2="193.04" width="0.1524" layer="91"/>
-<label x="76.2" y="193.04" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="187.96" x2="73.66" y2="187.96" width="0.1524" layer="91"/>
+<label x="73.66" y="187.96" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J11" gate="G$1" pin="2"/>
@@ -50258,20 +50287,20 @@ remove status LED</text>
 <net name="ESP32_GPIO2" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="IOA2"/>
-<wire x1="73.66" y1="238.76" x2="76.2" y2="238.76" width="0.1524" layer="91"/>
-<label x="76.2" y="238.76" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="233.68" x2="73.66" y2="233.68" width="0.1524" layer="91"/>
+<label x="73.66" y="233.68" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="D7" gate="G$1" pin="DI"/>
-<wire x1="335.28" y1="218.44" x2="332.74" y2="218.44" width="0.1524" layer="91"/>
-<label x="332.74" y="218.44" size="1.27" layer="95" rot="R180" xref="yes"/>
+<wire x1="325.12" y1="218.44" x2="322.58" y2="218.44" width="0.1524" layer="91"/>
+<label x="322.58" y="218.44" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="ESP32_GPIO4" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="IOA4"/>
-<wire x1="73.66" y1="226.06" x2="76.2" y2="226.06" width="0.1524" layer="91"/>
-<label x="76.2" y="226.06" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="220.98" x2="73.66" y2="220.98" width="0.1524" layer="91"/>
+<label x="73.66" y="220.98" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J7" gate="G$1" pin="3"/>
@@ -50292,8 +50321,8 @@ remove status LED</text>
 <net name="ESP32_GPIO5_!CS!" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="CS3/IO5"/>
-<wire x1="73.66" y1="236.22" x2="76.2" y2="236.22" width="0.1524" layer="91"/>
-<label x="76.2" y="236.22" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="231.14" x2="73.66" y2="231.14" width="0.1524" layer="91"/>
+<label x="73.66" y="231.14" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J15" gate="J1" pin="DAT3/!CS!"/>
@@ -50314,8 +50343,8 @@ remove status LED</text>
 <net name="ESP32_GPIO17" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="IO17"/>
-<wire x1="73.66" y1="215.9" x2="76.2" y2="215.9" width="0.1524" layer="91"/>
-<label x="76.2" y="215.9" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="210.82" x2="73.66" y2="210.82" width="0.1524" layer="91"/>
+<label x="73.66" y="210.82" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J7" gate="G$1" pin="7"/>
@@ -50331,8 +50360,8 @@ remove status LED</text>
 <net name="ESP32_GPIO18_SCK" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="SCK3/IO18"/>
-<wire x1="73.66" y1="213.36" x2="76.2" y2="213.36" width="0.1524" layer="91"/>
-<label x="76.2" y="213.36" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="208.28" x2="73.66" y2="208.28" width="0.1524" layer="91"/>
+<label x="73.66" y="208.28" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J15" gate="J1" pin="CLK/SCK"/>
@@ -50358,8 +50387,8 @@ remove status LED</text>
 <net name="ESP32_GPIO19_POCI" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="MISO3/IO19"/>
-<wire x1="73.66" y1="210.82" x2="76.2" y2="210.82" width="0.1524" layer="91"/>
-<label x="76.2" y="210.82" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="205.74" x2="73.66" y2="205.74" width="0.1524" layer="91"/>
+<label x="73.66" y="205.74" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J15" gate="J1" pin="DAT0/SDO"/>
@@ -50380,8 +50409,8 @@ remove status LED</text>
 <net name="ESP32_GPIO25" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="DAC1/IOA25"/>
-<wire x1="73.66" y1="200.66" x2="76.2" y2="200.66" width="0.1524" layer="91"/>
-<label x="76.2" y="200.66" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="195.58" x2="73.66" y2="195.58" width="0.1524" layer="91"/>
+<label x="73.66" y="195.58" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J7" gate="G$1" pin="8"/>
@@ -50397,8 +50426,8 @@ remove status LED</text>
 <net name="ESP32_GPIO26" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="DAC2/IOA26"/>
-<wire x1="73.66" y1="198.12" x2="76.2" y2="198.12" width="0.1524" layer="91"/>
-<label x="76.2" y="198.12" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="193.04" x2="73.66" y2="193.04" width="0.1524" layer="91"/>
+<label x="73.66" y="193.04" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J5" gate="J1" pin="10"/>
@@ -50446,8 +50475,8 @@ remove status LED</text>
 <net name="ESP32_GPIO27" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="IOA27"/>
-<wire x1="73.66" y1="195.58" x2="76.2" y2="195.58" width="0.1524" layer="91"/>
-<label x="76.2" y="195.58" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="190.5" x2="73.66" y2="190.5" width="0.1524" layer="91"/>
+<label x="73.66" y="190.5" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J5" gate="J1" pin="9"/>
@@ -50463,8 +50492,8 @@ remove status LED</text>
 <net name="ESP32_GPIO16" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="IO16"/>
-<wire x1="73.66" y1="218.44" x2="76.2" y2="218.44" width="0.1524" layer="91"/>
-<label x="76.2" y="218.44" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="213.36" x2="73.66" y2="213.36" width="0.1524" layer="91"/>
+<label x="73.66" y="213.36" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J7" gate="G$1" pin="6"/>
@@ -50560,8 +50589,8 @@ remove status LED</text>
 <net name="ESP32_GPIO15_TDO" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="CS2/IOA15"/>
-<wire x1="73.66" y1="231.14" x2="76.2" y2="231.14" width="0.1524" layer="91"/>
-<label x="76.2" y="231.14" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="226.06" x2="73.66" y2="226.06" width="0.1524" layer="91"/>
+<label x="73.66" y="226.06" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J4" gate="G$1" pin="6"/>
@@ -50979,8 +51008,8 @@ remove status LED</text>
 <net name="ESP32_GPIO23_PICO" class="0">
 <segment>
 <pinref part="U1" gate="U1" pin="MOSI3/IO23"/>
-<wire x1="73.66" y1="203.2" x2="76.2" y2="203.2" width="0.1524" layer="91"/>
-<label x="76.2" y="203.2" size="1.27" layer="95" xref="yes"/>
+<wire x1="71.12" y1="198.12" x2="73.66" y2="198.12" width="0.1524" layer="91"/>
+<label x="73.66" y="198.12" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="J15" gate="J1" pin="CMD/SDI"/>
