@@ -217,7 +217,7 @@
 <wire x1="55.626" y1="11.176" x2="55.626" y2="11.43" width="0.2032" layer="21"/>
 <wire x1="55.626" y1="11.43" x2="63.754" y2="11.43" width="0.2032" layer="21"/>
 <wire x1="63.754" y1="11.43" x2="63.754" y2="11.176" width="0.2032" layer="21"/>
-<text x="1.27" y="15.24" size="1.778" layer="16" font="vector" ratio="15" rot="MR270" align="center">v02</text>
+<text x="1.27" y="15.24" size="1.778" layer="16" font="vector" ratio="15" rot="MR270" align="center">v10</text>
 <text x="78.74" y="43.18" size="1.778" layer="51" font="vector" ratio="10">- Board thickness is 1.6mm</text>
 <text x="78.74" y="38.1" size="1.778" layer="51" font="vector" ratio="10">- No clean process</text>
 <text x="78.74" y="40.64" size="1.778" layer="51" font="vector" ratio="10">- 4 Layer Board</text>

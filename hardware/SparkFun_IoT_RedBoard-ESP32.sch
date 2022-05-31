@@ -48484,7 +48484,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 M.Banzi, D.Cuartielles,
 T.Igoe, G.Martino, D.Mellis</text>
 <text x="348.996" y="11.684" size="2.54" layer="94" font="vector">Ricardo Ramos</text>
-<text x="421.64" y="7.62" size="2.54" layer="94" font="vector">v02</text>
+<text x="421.64" y="7.62" size="2.54" layer="94" font="vector">v10</text>
 <text x="144.78" y="25.4" size="1.27" layer="97" font="vector">This is the penny-in-the-fuse
 jumper. Close only if you know
 what you're doing.</text>
