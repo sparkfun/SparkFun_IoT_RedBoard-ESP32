@@ -48348,17 +48348,17 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND23" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND35" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND1" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="JP11" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_3_2-NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39289/1"/>
+<part name="I2C" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_3_2-NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39289/1"/>
 <part name="SUPPLY25" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="R28" library="SparkFun-Resistors" deviceset="2.2KOHM" device="-0603-1/10W-1%" value="2.2k"/>
 <part name="R29" library="SparkFun-Resistors" deviceset="2.2KOHM" device="-0603-1/10W-1%" value="2.2k"/>
-<part name="JP12" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NO" device="_SILK" package3d_urn="urn:adsk.eagle:package:39279/1"/>
+<part name="!ALERT!" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NO" device="_SILK" package3d_urn="urn:adsk.eagle:package:39279/1"/>
 <part name="J15" library="SparkFun-Connectors" deviceset="MICRO-SD" device="-PUSH-PUSH-EXT-PIN" value="MICRO-SD-PUSH-PUSH-EXT-PIN"/>
 <part name="SUPPLY27" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND33" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND24" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="JP13" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
-<part name="JP14" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="TCK" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="TMS" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
 <part name="C10" library="SparkFun-Capacitors" deviceset="10UF-POLAR" device="-EIA3216-16V-10%(TANT)" value="10uF"/>
 <part name="C11" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" value="0.1uF"/>
 <part name="C9" library="SparkFun-Capacitors" deviceset="47UF-POLAR" device="-PANASONIC_D-35V-20%" value="47uF"/>
@@ -48446,7 +48446,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="SUPPLY23" library="SparkFun-PowerSymbols" deviceset="V_BATT" device=""/>
 <part name="R23" library="SparkFun-Resistors" deviceset="10KOHM" device="-0603-1/10W-1%" value="10k"/>
 <part name="SUPPLY26" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
-<part name="JP10" library="SparkFun-Jumpers" deviceset="JUMPER-COMBO_2_NC_TRACE" device=""/>
+<part name="MEAS" library="SparkFun-Jumpers" deviceset="JUMPER-COMBO_2_NC_TRACE" device=""/>
 <part name="SUPPLY17" library="SparkFun-PowerSymbols" deviceset="5V" device=""/>
 <part name="R8" library="SparkFun-Resistors" deviceset="2.2KOHM" device="-0603-1/10W-1%" value="2.2k"/>
 <part name="SUPPLY6" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
@@ -48467,15 +48467,15 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="D7" library="SparkFun-LED" deviceset="WS2812" device="_2020"/>
 <part name="GND55" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY29" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
-<part name="JP15" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1" value="SHLD"/>
+<part name="SHLD" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1" value="SHLD"/>
 <part name="GND56" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="F1" library="SparkFun-Fuses" deviceset="PPTC" device="_0.75A" value="6V/0.75A/1.5A"/>
-<part name="JP16" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NO" device="_SILK" package3d_urn="urn:adsk.eagle:package:39279/1" value="SD_DET"/>
-<part name="JP17" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
-<part name="JP18" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
-<part name="JP19" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
-<part name="JP20" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
-<part name="JP21" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="SD_DET" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NO" device="_SILK" package3d_urn="urn:adsk.eagle:package:39279/1" value="SD_DET"/>
+<part name="LED_CHG" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="LED_PWR" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="LED_RX" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="LED_TX" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="LED_18" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
 <part name="C14" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0603-25V-(+80/-20%)" value="0.1uF"/>
 <part name="SUPPLY30" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND57" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
@@ -48891,7 +48891,7 @@ remove status LED</text>
 <instance part="GND1" gate="1" x="22.86" y="106.68" smashed="yes">
 <attribute name="VALUE" x="22.86" y="106.426" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="JP11" gate="G$1" x="406.4" y="63.5" smashed="yes" rot="R270">
+<instance part="I2C" gate="G$1" x="406.4" y="63.5" smashed="yes" rot="R270">
 <attribute name="NAME" x="406.4" y="60.96" size="1.778" layer="95" font="vector" align="center"/>
 <attribute name="VALUE" x="404.876" y="56.642" size="1.778" layer="96" font="vector" rot="R270" align="center" display="off"/>
 </instance>
@@ -48906,7 +48906,7 @@ remove status LED</text>
 <attribute name="NAME" x="412.496" y="55.88" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 <attribute name="VALUE" x="415.544" y="55.88" size="1.778" layer="96" font="vector" rot="R90" align="top-center"/>
 </instance>
-<instance part="JP12" gate="G$1" x="50.8" y="149.86" smashed="yes" rot="R180">
+<instance part="!ALERT!" gate="G$1" x="50.8" y="149.86" smashed="yes" rot="R180">
 <attribute name="NAME" x="50.8" y="146.812" size="1.778" layer="95" font="vector" rot="R180" align="center"/>
 <attribute name="VALUE" x="50.8" y="152.908" size="1.778" layer="96" font="vector" rot="R180" align="center" display="off"/>
 </instance>
@@ -48923,11 +48923,11 @@ remove status LED</text>
 <instance part="GND24" gate="1" x="144.78" y="5.08" smashed="yes">
 <attribute name="VALUE" x="144.78" y="4.826" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="JP13" gate="G$1" x="50.8" y="104.14" smashed="yes">
+<instance part="TCK" gate="G$1" x="50.8" y="104.14" smashed="yes">
 <attribute name="NAME" x="50.8" y="100.584" size="1.778" layer="95" font="vector" align="center"/>
 <attribute name="VALUE" x="50.8" y="101.092" size="1.778" layer="96" font="vector" align="center" display="off"/>
 </instance>
-<instance part="JP14" gate="G$1" x="50.8" y="127" smashed="yes">
+<instance part="TMS" gate="G$1" x="50.8" y="127" smashed="yes">
 <attribute name="NAME" x="50.8" y="130.048" size="1.778" layer="95" font="vector" align="center"/>
 <attribute name="VALUE" x="50.8" y="123.952" size="1.778" layer="96" font="vector" align="center" display="off"/>
 </instance>
@@ -49250,7 +49250,7 @@ remove status LED</text>
 <instance part="SUPPLY26" gate="G$1" x="408.94" y="254" smashed="yes">
 <attribute name="VALUE" x="408.94" y="256.794" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="JP10" gate="JP1" x="129.54" y="20.32" smashed="yes">
+<instance part="MEAS" gate="JP1" x="129.54" y="20.32" smashed="yes">
 <attribute name="NAME" x="129.54" y="23.368" size="1.778" layer="95" font="vector" align="center"/>
 <attribute name="VALUE" x="129.54" y="17.272" size="1.778" layer="96" font="vector" align="center" display="off"/>
 </instance>
@@ -49310,9 +49310,8 @@ remove status LED</text>
 <instance part="SUPPLY29" gate="G$1" x="335.28" y="228.6" smashed="yes">
 <attribute name="VALUE" x="335.28" y="231.394" size="1.778" layer="96" align="bottom-center"/>
 </instance>
-<instance part="JP15" gate="G$1" x="218.44" y="210.82" smashed="yes">
+<instance part="SHLD" gate="G$1" x="218.44" y="210.82" smashed="yes">
 <attribute name="NAME" x="218.44" y="213.868" size="1.778" layer="95" font="vector" align="center"/>
-<attribute name="VALUE" x="218.44" y="207.772" size="1.778" layer="96" font="vector" align="center"/>
 </instance>
 <instance part="GND56" gate="1" x="210.82" y="205.74" smashed="yes">
 <attribute name="VALUE" x="210.82" y="205.486" size="1.778" layer="96" align="top-center"/>
@@ -49321,22 +49320,22 @@ remove status LED</text>
 <attribute name="NAME" x="159.893" y="15.113" size="1.778" layer="95" font="vector" align="bottom-center"/>
 <attribute name="VALUE" x="161.29" y="9.906" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="JP16" gate="G$1" x="398.78" y="99.06" smashed="yes">
+<instance part="SD_DET" gate="G$1" x="398.78" y="99.06" smashed="yes">
 <attribute name="NAME" x="398.78" y="101.854" size="1.778" layer="95" font="vector" align="center"/>
 </instance>
-<instance part="JP17" gate="G$1" x="246.38" y="167.64" smashed="yes" rot="R90">
+<instance part="LED_CHG" gate="G$1" x="246.38" y="167.64" smashed="yes" rot="R90">
 <attribute name="NAME" x="243.332" y="167.64" size="1.778" layer="95" font="vector" rot="R90" align="center"/>
 </instance>
-<instance part="JP18" gate="G$1" x="342.9" y="101.6" smashed="yes" rot="R180">
+<instance part="LED_PWR" gate="G$1" x="342.9" y="101.6" smashed="yes" rot="R180">
 <attribute name="NAME" x="342.646" y="104.648" size="1.778" layer="95" font="vector" rot="R180" align="center"/>
 </instance>
-<instance part="JP19" gate="G$1" x="307.34" y="248.92" smashed="yes" rot="R90">
+<instance part="LED_RX" gate="G$1" x="307.34" y="248.92" smashed="yes" rot="R90">
 <attribute name="NAME" x="304.292" y="248.92" size="1.778" layer="95" font="vector" rot="R90" align="center"/>
 </instance>
-<instance part="JP20" gate="G$1" x="299.72" y="248.92" smashed="yes" rot="R90">
+<instance part="LED_TX" gate="G$1" x="299.72" y="248.92" smashed="yes" rot="R90">
 <attribute name="NAME" x="296.672" y="248.92" size="1.778" layer="95" font="vector" rot="R90" align="center"/>
 </instance>
-<instance part="JP21" gate="G$1" x="223.52" y="10.16" smashed="yes">
+<instance part="LED_18" gate="G$1" x="223.52" y="10.16" smashed="yes">
 <attribute name="NAME" x="223.774" y="6.858" size="1.778" layer="95" font="vector" align="center"/>
 </instance>
 <instance part="C14" gate="G$1" x="353.06" y="215.9" smashed="yes">
@@ -49712,11 +49711,11 @@ remove status LED</text>
 <segment>
 <pinref part="GND56" gate="1" pin="GND"/>
 <wire x1="210.82" y1="208.28" x2="210.82" y2="210.82" width="0.1524" layer="91"/>
-<pinref part="JP15" gate="G$1" pin="1"/>
+<pinref part="SHLD" gate="G$1" pin="1"/>
 <wire x1="210.82" y1="210.82" x2="213.36" y2="210.82" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="JP18" gate="G$1" pin="1"/>
+<pinref part="LED_PWR" gate="G$1" pin="1"/>
 <wire x1="347.98" y1="101.6" x2="350.52" y2="101.6" width="0.1524" layer="91"/>
 <pinref part="GND51" gate="1" pin="GND"/>
 <wire x1="350.52" y1="101.6" x2="350.52" y2="99.06" width="0.1524" layer="91"/>
@@ -49724,7 +49723,7 @@ remove status LED</text>
 <segment>
 <pinref part="GND35" gate="1" pin="GND"/>
 <wire x1="215.9" y1="7.62" x2="215.9" y2="10.16" width="0.1524" layer="91"/>
-<pinref part="JP21" gate="G$1" pin="1"/>
+<pinref part="LED_18" gate="G$1" pin="1"/>
 <wire x1="215.9" y1="10.16" x2="218.44" y2="10.16" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -49896,7 +49895,7 @@ remove status LED</text>
 <wire x1="43.18" y1="119.38" x2="48.26" y2="119.38" width="0.1524" layer="91"/>
 <wire x1="43.18" y1="119.38" x2="43.18" y2="104.14" width="0.1524" layer="91"/>
 <junction x="43.18" y="119.38"/>
-<pinref part="JP13" gate="G$1" pin="1"/>
+<pinref part="TCK" gate="G$1" pin="1"/>
 <wire x1="43.18" y1="104.14" x2="45.72" y2="104.14" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -49910,7 +49909,7 @@ remove status LED</text>
 <pinref part="J4" gate="G$1" pin="2"/>
 <wire x1="40.64" y1="121.92" x2="43.18" y2="121.92" width="0.1524" layer="91"/>
 <label x="48.26" y="121.92" size="1.27" layer="95" xref="yes"/>
-<pinref part="JP14" gate="G$1" pin="1"/>
+<pinref part="TMS" gate="G$1" pin="1"/>
 <wire x1="43.18" y1="121.92" x2="48.26" y2="121.92" width="0.1524" layer="91"/>
 <wire x1="45.72" y1="127" x2="43.18" y2="127" width="0.1524" layer="91"/>
 <wire x1="43.18" y1="127" x2="43.18" y2="121.92" width="0.1524" layer="91"/>
@@ -49993,7 +49992,7 @@ remove status LED</text>
 </segment>
 <segment>
 <pinref part="SUPPLY25" gate="G$1" pin="3.3V"/>
-<pinref part="JP11" gate="G$1" pin="2"/>
+<pinref part="I2C" gate="G$1" pin="2"/>
 <wire x1="406.4" y1="71.12" x2="406.4" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -50126,7 +50125,7 @@ remove status LED</text>
 <label x="309.88" y="238.76" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="U1" pin="RXI"/>
 <wire x1="297.18" y1="238.76" x2="299.72" y2="238.76" width="0.1524" layer="91"/>
-<pinref part="JP20" gate="G$1" pin="1"/>
+<pinref part="LED_TX" gate="G$1" pin="1"/>
 <wire x1="299.72" y1="238.76" x2="309.88" y2="238.76" width="0.1524" layer="91"/>
 <wire x1="299.72" y1="243.84" x2="299.72" y2="238.76" width="0.1524" layer="91"/>
 <junction x="299.72" y="238.76"/>
@@ -50152,7 +50151,7 @@ remove status LED</text>
 <label x="309.88" y="241.3" size="1.27" layer="95" font="vector" xref="yes"/>
 <pinref part="U2" gate="U1" pin="TXO"/>
 <wire x1="297.18" y1="241.3" x2="307.34" y2="241.3" width="0.1524" layer="91"/>
-<pinref part="JP19" gate="G$1" pin="1"/>
+<pinref part="LED_RX" gate="G$1" pin="1"/>
 <wire x1="307.34" y1="241.3" x2="309.88" y2="241.3" width="0.1524" layer="91"/>
 <wire x1="307.34" y1="243.84" x2="307.34" y2="241.3" width="0.1524" layer="91"/>
 <junction x="307.34" y="241.3"/>
@@ -50313,7 +50312,7 @@ remove status LED</text>
 <pinref part="J8" gate="G$1" pin="3"/>
 </segment>
 <segment>
-<pinref part="JP12" gate="G$1" pin="2"/>
+<pinref part="!ALERT!" gate="G$1" pin="2"/>
 <wire x1="45.72" y1="149.86" x2="43.18" y2="149.86" width="0.1524" layer="91"/>
 <label x="43.18" y="149.86" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -50506,7 +50505,7 @@ remove status LED</text>
 <pinref part="J8" gate="G$1" pin="6"/>
 </segment>
 <segment>
-<pinref part="JP16" gate="G$1" pin="2"/>
+<pinref part="SD_DET" gate="G$1" pin="2"/>
 <wire x1="403.86" y1="99.06" x2="406.4" y2="99.06" width="0.1524" layer="91"/>
 <label x="406.4" y="99.06" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -50558,13 +50557,13 @@ remove status LED</text>
 <segment>
 <pinref part="R28" gate="G$1" pin="2"/>
 <wire x1="396.24" y1="60.96" x2="396.24" y2="63.5" width="0.1524" layer="91"/>
-<pinref part="JP11" gate="G$1" pin="3"/>
+<pinref part="I2C" gate="G$1" pin="3"/>
 <wire x1="396.24" y1="63.5" x2="401.32" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$20" class="0">
 <segment>
-<pinref part="JP11" gate="G$1" pin="1"/>
+<pinref part="I2C" gate="G$1" pin="1"/>
 <wire x1="411.48" y1="63.5" x2="414.02" y2="63.5" width="0.1524" layer="91"/>
 <pinref part="R29" gate="G$1" pin="2"/>
 <wire x1="414.02" y1="63.5" x2="414.02" y2="60.96" width="0.1524" layer="91"/>
@@ -50572,7 +50571,7 @@ remove status LED</text>
 </net>
 <net name="!GAUGE_ALERT!" class="0">
 <segment>
-<pinref part="JP12" gate="G$1" pin="1"/>
+<pinref part="!ALERT!" gate="G$1" pin="1"/>
 <wire x1="55.88" y1="149.86" x2="58.42" y2="149.86" width="0.1524" layer="91"/>
 <label x="58.42" y="149.86" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -50600,7 +50599,7 @@ remove status LED</text>
 </net>
 <net name="ESP32_GPIO14_HDR" class="0">
 <segment>
-<pinref part="JP14" gate="G$1" pin="2"/>
+<pinref part="TMS" gate="G$1" pin="2"/>
 <wire x1="55.88" y1="127" x2="58.42" y2="127" width="0.1524" layer="91"/>
 <label x="58.42" y="127" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -50617,7 +50616,7 @@ remove status LED</text>
 </net>
 <net name="ESP32_GPIO13_HDR" class="0">
 <segment>
-<pinref part="JP13" gate="G$1" pin="2"/>
+<pinref part="TCK" gate="G$1" pin="2"/>
 <wire x1="55.88" y1="104.14" x2="58.42" y2="104.14" width="0.1524" layer="91"/>
 <label x="58.42" y="104.14" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -50722,7 +50721,7 @@ remove status LED</text>
 <label x="243.84" y="78.74" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="JP10" gate="JP1" pin="1"/>
+<pinref part="MEAS" gate="JP1" pin="1"/>
 <label x="119.38" y="20.32" size="1.27" layer="95" rot="R180" xref="yes"/>
 <wire x1="124.46" y1="20.32" x2="119.38" y2="20.32" width="0.1524" layer="91"/>
 </segment>
@@ -50897,7 +50896,7 @@ remove status LED</text>
 <segment>
 <wire x1="248.92" y1="180.34" x2="246.38" y2="180.34" width="0.1524" layer="91"/>
 <pinref part="U5" gate="G$1" pin="STAT"/>
-<pinref part="JP17" gate="G$1" pin="2"/>
+<pinref part="LED_CHG" gate="G$1" pin="2"/>
 <wire x1="246.38" y1="172.72" x2="246.38" y2="180.34" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -51047,7 +51046,7 @@ remove status LED</text>
 </net>
 <net name="N$19" class="0">
 <segment>
-<pinref part="JP10" gate="JP1" pin="2"/>
+<pinref part="MEAS" gate="JP1" pin="2"/>
 <pinref part="BYP" gate="G$1" pin="1"/>
 <wire x1="134.62" y1="20.32" x2="144.78" y2="20.32" width="0.1524" layer="91"/>
 <wire x1="144.78" y1="20.32" x2="152.4" y2="20.32" width="0.1524" layer="91"/>
@@ -51063,7 +51062,7 @@ remove status LED</text>
 </net>
 <net name="SHLD" class="0">
 <segment>
-<pinref part="JP15" gate="G$1" pin="2"/>
+<pinref part="SHLD" gate="G$1" pin="2"/>
 <wire x1="223.52" y1="210.82" x2="231.14" y2="210.82" width="0.1524" layer="91"/>
 <pinref part="J2" gate="J1" pin="SHLD"/>
 <wire x1="231.14" y1="210.82" x2="231.14" y2="223.52" width="0.1524" layer="91"/>
@@ -51075,14 +51074,14 @@ remove status LED</text>
 <pinref part="J15" gate="J1" pin="DET"/>
 <wire x1="386.08" y1="104.14" x2="391.16" y2="104.14" width="0.1524" layer="91"/>
 <wire x1="391.16" y1="104.14" x2="391.16" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="JP16" gate="G$1" pin="1"/>
+<pinref part="SD_DET" gate="G$1" pin="1"/>
 <wire x1="391.16" y1="99.06" x2="393.7" y2="99.06" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$30" class="0">
 <segment>
 <pinref part="R4" gate="G$1" pin="1"/>
-<pinref part="JP20" gate="G$1" pin="2"/>
+<pinref part="LED_TX" gate="G$1" pin="2"/>
 <wire x1="297.18" y1="256.54" x2="299.72" y2="256.54" width="0.1524" layer="91"/>
 <wire x1="299.72" y1="256.54" x2="299.72" y2="254" width="0.1524" layer="91"/>
 </segment>
@@ -51090,7 +51089,7 @@ remove status LED</text>
 <net name="N$31" class="0">
 <segment>
 <pinref part="R5" gate="G$1" pin="1"/>
-<pinref part="JP19" gate="G$1" pin="2"/>
+<pinref part="LED_RX" gate="G$1" pin="2"/>
 <wire x1="297.18" y1="266.7" x2="307.34" y2="266.7" width="0.1524" layer="91"/>
 <wire x1="307.34" y1="266.7" x2="307.34" y2="254" width="0.1524" layer="91"/>
 </segment>
@@ -51099,7 +51098,7 @@ remove status LED</text>
 <segment>
 <pinref part="R21" gate="G$1" pin="2"/>
 <wire x1="236.22" y1="160.02" x2="236.22" y2="162.56" width="0.1524" layer="91"/>
-<pinref part="JP17" gate="G$1" pin="1"/>
+<pinref part="LED_CHG" gate="G$1" pin="1"/>
 <wire x1="236.22" y1="160.02" x2="246.38" y2="160.02" width="0.1524" layer="91"/>
 <wire x1="246.38" y1="160.02" x2="246.38" y2="162.56" width="0.1524" layer="91"/>
 </segment>
@@ -51115,13 +51114,13 @@ remove status LED</text>
 <segment>
 <pinref part="R8" gate="G$1" pin="1"/>
 <wire x1="335.28" y1="104.14" x2="335.28" y2="101.6" width="0.1524" layer="91"/>
-<pinref part="JP18" gate="G$1" pin="2"/>
+<pinref part="LED_PWR" gate="G$1" pin="2"/>
 <wire x1="335.28" y1="101.6" x2="337.82" y2="101.6" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$34" class="0">
 <segment>
-<pinref part="JP21" gate="G$1" pin="2"/>
+<pinref part="LED_18" gate="G$1" pin="2"/>
 <wire x1="228.6" y1="10.16" x2="231.14" y2="10.16" width="0.1524" layer="91"/>
 <pinref part="R9" gate="G$1" pin="1"/>
 <wire x1="231.14" y1="10.16" x2="231.14" y2="12.7" width="0.1524" layer="91"/>
