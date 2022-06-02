@@ -9,6 +9,8 @@
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="2" name="Route2" color="16" fill="1" visible="no" active="yes"/>
+<layer number="15" name="Route15" color="23" fill="1" visible="no" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
@@ -31896,12 +31898,12 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$1118" library="output" package="#DO#0" value="" x="327.66" y="66.421" smashed="yes" rot="R90"/>
 <element name="U$1119" library="output" package="#LED_DO#1" value="" x="340.4616" y="68.4784" smashed="yes" rot="MR0"/>
 <element name="U$1120" library="output" package="#NC#LED_DO#0" value="" x="327.66" y="60.706" smashed="yes" rot="MR90"/>
-<element name="E$1" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-8.46581875" y="114.681" smashed="yes"/>
-<element name="E$2" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-8.46581875" y="114.681" smashed="yes" rot="MR0"/>
-<element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="376.76581875" y="114.681" smashed="yes"/>
-<element name="E$4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="376.76581875" y="114.681" smashed="yes" rot="MR0"/>
-<element name="E$5" library="SparkFun-Retired" package="FIDUCIAL-1.5X3" value="" x="-8.46581875" y="6.35" smashed="yes"/>
-<element name="E$6" library="SparkFun-Retired" package="FIDUCIAL-1.5X3" value="" x="-8.46581875" y="6.35" smashed="yes" rot="MR0"/>
+<element name="E$1" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="12.7" y="119.4435" smashed="yes"/>
+<element name="E$2" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="12.7" y="119.4435" smashed="yes" rot="MR0"/>
+<element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="373.0625" y="119.4435" smashed="yes"/>
+<element name="E$4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="373.0625" y="119.4435" smashed="yes" rot="MR0"/>
+<element name="E$5" library="SparkFun-Retired" package="FIDUCIAL-1.5X3" value="" x="12.7" y="-2.0955" smashed="yes"/>
+<element name="E$6" library="SparkFun-Retired" package="FIDUCIAL-1.5X3" value="" x="12.7" y="-2.0955" smashed="yes" rot="MR0"/>
 </elements>
 <signals>
 <signal name="5V" class="1">
@@ -32344,7 +32346,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="37.68" y1="33.655" x2="38.862" y2="32.766" width="0" layer="19" extent="1-1"/>
 <wire x1="45.593" y1="27.94" x2="43.04" y2="29.845" width="0" layer="19" extent="1-1"/>
 <wire x1="48.3616" y1="28.5496" x2="45.593" y2="27.94" width="0" layer="19" extent="1-1"/>
-<wire x1="50.546" y1="22.733" x2="48.3616" y2="21.6916" width="0" layer="19" extent="1-15"/>
+<wire x1="50.546" y1="22.733" x2="47.752" y2="21.082" width="0" layer="19" extent="1-1"/>
 <wire x1="51.859" y1="23.816" x2="50.546" y2="22.733" width="0" layer="19" extent="1-1"/>
 <wire x1="51.849" y1="25.646" x2="51.859" y2="23.816" width="0" layer="19" extent="1-1"/>
 <wire x1="51.859" y1="27.476" x2="51.849" y2="25.646" width="0" layer="19" extent="1-1"/>
@@ -34623,7 +34625,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="112.61" y1="33.655" x2="113.792" y2="32.766" width="0" layer="19" extent="1-1"/>
 <wire x1="120.523" y1="27.94" x2="117.97" y2="29.845" width="0" layer="19" extent="1-1"/>
 <wire x1="123.2916" y1="28.5496" x2="120.523" y2="27.94" width="0" layer="19" extent="1-1"/>
-<wire x1="125.476" y1="22.733" x2="123.2916" y2="21.6916" width="0" layer="19" extent="1-15"/>
+<wire x1="125.476" y1="22.733" x2="122.682" y2="21.082" width="0" layer="19" extent="1-1"/>
 <wire x1="126.789" y1="23.816" x2="125.476" y2="22.733" width="0" layer="19" extent="1-1"/>
 <wire x1="126.779" y1="25.646" x2="126.789" y2="23.816" width="0" layer="19" extent="1-1"/>
 <wire x1="126.789" y1="27.476" x2="126.779" y2="25.646" width="0" layer="19" extent="1-1"/>
@@ -36902,7 +36904,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="187.54" y1="33.655" x2="188.722" y2="32.766" width="0" layer="19" extent="1-1"/>
 <wire x1="195.453" y1="27.94" x2="192.9" y2="29.845" width="0" layer="19" extent="1-1"/>
 <wire x1="198.2216" y1="28.5496" x2="195.453" y2="27.94" width="0" layer="19" extent="1-1"/>
-<wire x1="200.406" y1="22.733" x2="198.2216" y2="21.6916" width="0" layer="19" extent="1-15"/>
+<wire x1="200.406" y1="22.733" x2="197.612" y2="21.082" width="0" layer="19" extent="1-1"/>
 <wire x1="201.719" y1="23.816" x2="200.406" y2="22.733" width="0" layer="19" extent="1-1"/>
 <wire x1="201.709" y1="25.646" x2="201.719" y2="23.816" width="0" layer="19" extent="1-1"/>
 <wire x1="201.719" y1="27.476" x2="201.709" y2="25.646" width="0" layer="19" extent="1-1"/>
@@ -39180,7 +39182,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="267.83" y1="29.845" x2="266.446" y2="30.734" width="0" layer="19" extent="1-1"/>
 <wire x1="270.383" y1="27.94" x2="267.83" y2="29.845" width="0" layer="19" extent="1-1"/>
 <wire x1="273.1516" y1="28.5496" x2="270.383" y2="27.94" width="0" layer="19" extent="1-1"/>
-<wire x1="275.336" y1="22.733" x2="273.1516" y2="21.6916" width="0" layer="19" extent="1-15"/>
+<wire x1="275.336" y1="22.733" x2="272.542" y2="21.082" width="0" layer="19" extent="1-1"/>
 <wire x1="276.649" y1="23.816" x2="275.336" y2="22.733" width="0" layer="19" extent="1-1"/>
 <wire x1="276.639" y1="25.646" x2="276.649" y2="23.816" width="0" layer="19" extent="1-1"/>
 <wire x1="276.649" y1="27.476" x2="276.639" y2="25.646" width="0" layer="19" extent="1-1"/>
@@ -41460,7 +41462,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="337.4" y1="33.655" x2="338.582" y2="32.766" width="0" layer="19" extent="1-1"/>
 <wire x1="345.313" y1="27.94" x2="342.76" y2="29.845" width="0" layer="19" extent="1-1"/>
 <wire x1="348.0816" y1="28.5496" x2="345.313" y2="27.94" width="0" layer="19" extent="1-1"/>
-<wire x1="350.266" y1="22.733" x2="348.0816" y2="21.6916" width="0" layer="19" extent="1-15"/>
+<wire x1="350.266" y1="22.733" x2="347.472" y2="21.082" width="0" layer="19" extent="1-1"/>
 <wire x1="351.579" y1="23.816" x2="350.266" y2="22.733" width="0" layer="19" extent="1-1"/>
 <wire x1="351.569" y1="25.646" x2="351.579" y2="23.816" width="0" layer="19" extent="1-1"/>
 <wire x1="351.579" y1="27.476" x2="351.569" y2="25.646" width="0" layer="19" extent="1-1"/>
@@ -43739,7 +43741,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="37.68" y1="92.583" x2="38.862" y2="91.694" width="0" layer="19" extent="1-1"/>
 <wire x1="45.593" y1="86.868" x2="43.04" y2="88.773" width="0" layer="19" extent="1-1"/>
 <wire x1="48.3616" y1="87.4776" x2="45.593" y2="86.868" width="0" layer="19" extent="1-1"/>
-<wire x1="50.546" y1="81.661" x2="48.3616" y2="80.6196" width="0" layer="19" extent="1-15"/>
+<wire x1="50.546" y1="81.661" x2="47.752" y2="80.01" width="0" layer="19" extent="1-1"/>
 <wire x1="51.859" y1="82.744" x2="50.546" y2="81.661" width="0" layer="19" extent="1-1"/>
 <wire x1="51.849" y1="84.574" x2="51.859" y2="82.744" width="0" layer="19" extent="1-1"/>
 <wire x1="51.859" y1="86.404" x2="51.849" y2="84.574" width="0" layer="19" extent="1-1"/>
@@ -46018,7 +46020,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="112.61" y1="92.583" x2="113.792" y2="91.694" width="0" layer="19" extent="1-1"/>
 <wire x1="120.523" y1="86.868" x2="117.97" y2="88.773" width="0" layer="19" extent="1-1"/>
 <wire x1="123.2916" y1="87.4776" x2="120.523" y2="86.868" width="0" layer="19" extent="1-1"/>
-<wire x1="125.476" y1="81.661" x2="123.2916" y2="80.6196" width="0" layer="19" extent="1-15"/>
+<wire x1="125.476" y1="81.661" x2="122.682" y2="80.01" width="0" layer="19" extent="1-1"/>
 <wire x1="126.789" y1="82.744" x2="125.476" y2="81.661" width="0" layer="19" extent="1-1"/>
 <wire x1="126.779" y1="84.574" x2="126.789" y2="82.744" width="0" layer="19" extent="1-1"/>
 <wire x1="126.789" y1="86.404" x2="126.779" y2="84.574" width="0" layer="19" extent="1-1"/>
@@ -48337,7 +48339,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="187.54" y1="92.583" x2="188.722" y2="91.694" width="0" layer="19" extent="1-1"/>
 <wire x1="195.453" y1="86.868" x2="192.9" y2="88.773" width="0" layer="19" extent="1-1"/>
 <wire x1="198.2216" y1="87.4776" x2="195.453" y2="86.868" width="0" layer="19" extent="1-1"/>
-<wire x1="200.406" y1="81.661" x2="198.2216" y2="80.6196" width="0" layer="19" extent="1-15"/>
+<wire x1="200.406" y1="81.661" x2="197.612" y2="80.01" width="0" layer="19" extent="1-1"/>
 <wire x1="201.719" y1="82.744" x2="200.406" y2="81.661" width="0" layer="19" extent="1-1"/>
 <wire x1="201.709" y1="84.574" x2="201.719" y2="82.744" width="0" layer="19" extent="1-1"/>
 <wire x1="201.719" y1="86.404" x2="201.709" y2="84.574" width="0" layer="19" extent="1-1"/>
@@ -50576,7 +50578,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="262.47" y1="92.583" x2="263.652" y2="91.694" width="0" layer="19" extent="1-1"/>
 <wire x1="270.383" y1="86.868" x2="267.83" y2="88.773" width="0" layer="19" extent="1-1"/>
 <wire x1="273.1516" y1="87.4776" x2="270.383" y2="86.868" width="0" layer="19" extent="1-1"/>
-<wire x1="275.336" y1="81.661" x2="273.1516" y2="80.6196" width="0" layer="19" extent="1-15"/>
+<wire x1="275.336" y1="81.661" x2="272.542" y2="80.01" width="0" layer="19" extent="1-1"/>
 <wire x1="276.649" y1="82.744" x2="275.336" y2="81.661" width="0" layer="19" extent="1-1"/>
 <wire x1="276.639" y1="84.574" x2="276.649" y2="82.744" width="0" layer="19" extent="1-1"/>
 <wire x1="276.649" y1="86.404" x2="276.639" y2="84.574" width="0" layer="19" extent="1-1"/>
@@ -52855,7 +52857,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="337.4" y1="92.583" x2="338.582" y2="91.694" width="0" layer="19" extent="1-1"/>
 <wire x1="345.313" y1="86.868" x2="342.76" y2="88.773" width="0" layer="19" extent="1-1"/>
 <wire x1="348.0816" y1="87.4776" x2="345.313" y2="86.868" width="0" layer="19" extent="1-1"/>
-<wire x1="350.266" y1="81.661" x2="348.0816" y2="80.6196" width="0" layer="19" extent="1-15"/>
+<wire x1="350.266" y1="81.661" x2="347.472" y2="80.01" width="0" layer="19" extent="1-1"/>
 <wire x1="351.579" y1="82.744" x2="350.266" y2="81.661" width="0" layer="19" extent="1-1"/>
 <wire x1="351.569" y1="84.574" x2="351.579" y2="82.744" width="0" layer="19" extent="1-1"/>
 <wire x1="351.579" y1="86.404" x2="351.569" y2="84.574" width="0" layer="19" extent="1-1"/>
