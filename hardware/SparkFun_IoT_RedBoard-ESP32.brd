@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -25375,7 +25375,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U4" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="5.08" y="2.032" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="5.08" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="7.239" y="3.81" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="8.89" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="8.89" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="5.08" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C12" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="1.27" y="2.032" smashed="yes" rot="R90">

@@ -25765,7 +25765,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U4" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="5.08" y="2.032" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="5.08" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="7.239" y="3.81" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="8.89" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="8.89" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="5.08" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C12" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="1.27" y="2.032" smashed="yes" rot="R90">
@@ -26414,7 +26414,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U10" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="80.01" y="2.032" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="80.01" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="82.169" y="3.81" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="83.82" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="83.82" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="80.01" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C32" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="76.2" y="2.032" smashed="yes" rot="R90">
@@ -27063,7 +27063,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U16" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="154.94" y="2.032" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="154.94" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="157.099" y="3.81" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="158.75" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="158.75" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="154.94" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C51" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="151.13" y="2.032" smashed="yes" rot="R90">
@@ -27712,7 +27712,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U22" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="229.87" y="2.032" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="229.87" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="232.029" y="3.81" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="233.68" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="233.68" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="229.87" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C70" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="226.06" y="2.032" smashed="yes" rot="R90">
@@ -28361,7 +28361,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U28" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="304.8" y="2.032" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="304.8" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="306.959" y="3.81" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="308.61" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="308.61" y="7.112" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="304.8" y="2.032" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C89" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="300.99" y="2.032" smashed="yes" rot="R90">
@@ -29010,7 +29010,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U34" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="5.08" y="60.96" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="5.08" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="7.239" y="62.738" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="8.89" y="66.04" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="8.89" y="66.04" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="5.08" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C108" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="1.27" y="60.96" smashed="yes" rot="R90">
@@ -29659,7 +29659,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U40" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="80.01" y="60.96" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="80.01" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="82.169" y="62.738" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="83.82" y="66.04" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="83.82" y="66.04" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="80.01" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C127" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="76.2" y="60.96" smashed="yes" rot="R90">
@@ -30308,7 +30308,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U46" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="154.94" y="60.96" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="154.94" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="157.099" y="62.738" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="158.75" y="66.04" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="158.75" y="66.04" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="154.94" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C146" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="151.13" y="60.96" smashed="yes" rot="R90">
@@ -30957,7 +30957,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U52" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="229.87" y="60.96" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="229.87" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="232.029" y="62.738" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="233.68" y="66.04" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="233.68" y="66.04" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="229.87" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C165" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="226.06" y="60.96" smashed="yes" rot="R90">
@@ -31606,7 +31606,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U58" library="SparkFun-IC-Power" package="SOT23-5" value="XC6222B331MR-G" x="304.8" y="60.96" smashed="yes" rot="R270">
 <attribute name="IOUT" value="700mA" x="304.8" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="306.959" y="62.738" size="0.6096" layer="25" ratio="20" rot="R270"/>
-<attribute name="PROD_ID" value="VREG-12457" x="308.61" y="66.04" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="VREG-16775" x="308.61" y="66.04" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOUT" value="3.3V" x="304.8" y="60.96" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C184" library="SparkFun-Capacitors" package="0603" value="0.1uF" x="300.99" y="60.96" smashed="yes" rot="R90">
