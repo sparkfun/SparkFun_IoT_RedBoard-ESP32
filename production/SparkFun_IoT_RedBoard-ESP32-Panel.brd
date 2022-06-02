@@ -31900,8 +31900,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$1120" library="output" package="#NC#LED_DO#0" value="" x="327.66" y="60.706" smashed="yes" rot="MR90"/>
 <element name="E$1" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="12.7" y="119.4435" smashed="yes"/>
 <element name="E$2" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="12.7" y="119.4435" smashed="yes" rot="MR0"/>
-<element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="373.0625" y="119.4435" smashed="yes"/>
-<element name="E$4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="373.0625" y="119.4435" smashed="yes" rot="MR0"/>
+<element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="355.6" y="119.4435" smashed="yes"/>
+<element name="E$4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="355.6" y="119.4435" smashed="yes" rot="MR0"/>
 <element name="E$5" library="SparkFun-Retired" package="FIDUCIAL-1.5X3" value="" x="12.7" y="-2.0955" smashed="yes"/>
 <element name="E$6" library="SparkFun-Retired" package="FIDUCIAL-1.5X3" value="" x="12.7" y="-2.0955" smashed="yes" rot="MR0"/>
 </elements>
