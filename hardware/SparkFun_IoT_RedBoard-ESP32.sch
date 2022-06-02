@@ -48537,7 +48537,7 @@ what you're doing.</text>
 If RTS is HIGH, toggling DTR from LOW to HIGH resets to bootloader.</text>
 <text x="116.84" y="114.3" size="1.778" layer="97" font="vector">VIN Range: 7-15V</text>
 <text x="152.4" y="48.26" size="1.524" layer="97" font="vector" align="top-center">6V max in
-600mA out
+700mA out
 </text>
 <text x="309.88" y="157.48" size="2.032" layer="97" font="vector" rot="MR0" align="center-left">Charge current:
 I_CHG = 1000 / R_PROG
