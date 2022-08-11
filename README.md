@@ -3,7 +3,7 @@ SparkFun IoT RedBoard - ESP32
 
 [![SparkFun IoT RedBoard - ESP32](https://cdn.sparkfun.com/assets/parts/1/8/8/0/0/ESP32_03.jpg)](https://www.sparkfun.com/products/19177)
 
-[*SparkFun IoT RedBoard - ESP32 (19177)*](https://www.sparkfun.com/products/19177)
+[*SparkFun IoT RedBoard - ESP32 (WRL-19177)*](https://www.sparkfun.com/products/19177)
 
 <Basic description of the part.>
 
