@@ -15,7 +15,6 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/iot-redboard-esp32-development-board-hookup-guide)** - Basic hookup guide for the SparkFun IoT RedBoard ESP32.
 
  
