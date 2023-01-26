@@ -19,6 +19,7 @@ Repository Contents
 
 Documentation
 --------------
+* **[SparkFun Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/19177_sfe_iot_redboard_esp32_development_board.fzpz)** - Fritzing diagrams for SparkFun products.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/iot-redboard-esp32-development-board-hookup-guide)** - Basic hookup guide for the SparkFun IoT RedBoard ESP32.
 
  
